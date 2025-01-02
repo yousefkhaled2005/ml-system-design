@@ -16,3 +16,6 @@
 ## [2025-01-02 8:40] refactor(kv-cache-compression): telemetry analysis and benchmark logs (2025-01-02 #1)
 - Telemetry latency: 39ms, QPS: 48140, Cache hit: 97.1%
 
+## [2025-01-02 20:12] docs(cuda-kernel-tuning): telemetry analysis and benchmark logs (2025-01-02 #2)
+- Telemetry latency: 28ms, QPS: 28699, Cache hit: 94.4%
+
