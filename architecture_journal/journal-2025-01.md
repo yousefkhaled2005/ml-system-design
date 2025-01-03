@@ -31,3 +31,6 @@
 ## [2025-01-03 10:47] docs(paged-attention): telemetry analysis and benchmark logs (2025-01-03 #2)
 - Telemetry latency: 23ms, QPS: 23904, Cache hit: 98.1%
 
+## [2025-01-03 14:55] feat(roce-infiniband): telemetry analysis and benchmark logs (2025-01-03 #3)
+- Telemetry latency: 24ms, QPS: 45011, Cache hit: 98.8%
+
