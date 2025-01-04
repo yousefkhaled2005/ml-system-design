@@ -43,3 +43,6 @@
 ## [2025-01-03 10:59] perf(lmax-disruptor): telemetry analysis and benchmark logs (2025-01-03 #6)
 - Telemetry latency: 23ms, QPS: 13602, Cache hit: 94.3%
 
+## [2025-01-04 14:46] test(raft-heartbeat): telemetry analysis and benchmark logs (2025-01-04 #1)
+- Telemetry latency: 30ms, QPS: 18022, Cache hit: 96.8%
+
