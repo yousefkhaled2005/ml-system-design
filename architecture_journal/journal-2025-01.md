@@ -55,3 +55,6 @@
 ## [2025-01-06 16:11] docs(qdrant-hybrid-search): telemetry analysis and benchmark logs (2025-01-06 #2)
 - Telemetry latency: 33ms, QPS: 15377, Cache hit: 96.4%
 
+## [2025-01-06 9:58] refactor(hnsw-indexing): telemetry analysis and benchmark logs (2025-01-06 #3)
+- Telemetry latency: 26ms, QPS: 43841, Cache hit: 96.1%
+
