@@ -52,3 +52,6 @@
 ## [2025-01-06 17:6] test(chandy-lamport-snapshot): telemetry analysis and benchmark logs (2025-01-06 #1)
 - Telemetry latency: 27ms, QPS: 32459, Cache hit: 94.2%
 
+## [2025-01-06 16:11] docs(qdrant-hybrid-search): telemetry analysis and benchmark logs (2025-01-06 #2)
+- Telemetry latency: 33ms, QPS: 15377, Cache hit: 96.4%
+
