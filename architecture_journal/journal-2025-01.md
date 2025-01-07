@@ -61,3 +61,6 @@
 ## [2025-01-07 10:18] perf(distributed-consensus): telemetry analysis and benchmark logs (2025-01-07 #1)
 - Telemetry latency: 43ms, QPS: 52135, Cache hit: 94.6%
 
+## [2025-01-07 12:3] docs(nvme-all-flash): telemetry analysis and benchmark logs (2025-01-07 #2)
+- Telemetry latency: 21ms, QPS: 17246, Cache hit: 96.3%
+
