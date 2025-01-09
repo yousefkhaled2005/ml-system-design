@@ -85,3 +85,6 @@
 ## [2025-01-08 13:41] feat(distributed-consensus): telemetry analysis and benchmark logs (2025-01-08 #6)
 - Telemetry latency: 40ms, QPS: 24767, Cache hit: 94.3%
 
+## [2025-01-09 15:29] test(lmax-disruptor): telemetry analysis and benchmark logs (2025-01-09 #1)
+- Telemetry latency: 20ms, QPS: 26263, Cache hit: 97.1%
+
