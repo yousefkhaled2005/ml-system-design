@@ -97,3 +97,6 @@
 ## [2025-01-09 13:22] refactor(cache-locality): telemetry analysis and benchmark logs (2025-01-09 #4)
 - Telemetry latency: 26ms, QPS: 47283, Cache hit: 92.7%
 
+## [2025-01-09 18:42] refactor(flash-attention-v2): telemetry analysis and benchmark logs (2025-01-09 #5)
+- Telemetry latency: 38ms, QPS: 15212, Cache hit: 92.1%
+
