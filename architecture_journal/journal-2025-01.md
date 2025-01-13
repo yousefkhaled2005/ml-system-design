@@ -130,3 +130,6 @@
 ## [2025-01-13 18:9] test(distributed-consensus): telemetry analysis and benchmark logs (2025-01-13 #2)
 - Telemetry latency: 12ms, QPS: 35087, Cache hit: 94.3%
 
+## [2025-01-13 10:57] refactor(nvme-all-flash): telemetry analysis and benchmark logs (2025-01-13 #3)
+- Telemetry latency: 23ms, QPS: 47933, Cache hit: 97.2%
+
