@@ -151,3 +151,6 @@
 ## [2025-01-14 9:38] perf(zero-copy-buffers): telemetry analysis and benchmark logs (2025-01-14 #3)
 - Telemetry latency: 25ms, QPS: 39181, Cache hit: 97.1%
 
+## [2025-01-14 18:27] refactor(hnsw-indexing): telemetry analysis and benchmark logs (2025-01-14 #4)
+- Telemetry latency: 23ms, QPS: 15461, Cache hit: 93.3%
+
