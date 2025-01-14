@@ -157,3 +157,6 @@
 ## [2025-01-14 9:9] feat(nvme-all-flash): telemetry analysis and benchmark logs (2025-01-14 #5)
 - Telemetry latency: 14ms, QPS: 38941, Cache hit: 98.8%
 
+## [2025-01-14 9:17] perf(qdrant-hybrid-search): telemetry analysis and benchmark logs (2025-01-14 #6)
+- Telemetry latency: 29ms, QPS: 13286, Cache hit: 96.1%
+
