@@ -166,3 +166,6 @@
 ## [2025-01-15 20:0] refactor(distributed-consensus): telemetry analysis and benchmark logs (2025-01-15 #2)
 - Telemetry latency: 38ms, QPS: 27707, Cache hit: 94.7%
 
+## [2025-01-15 9:32] test(vllm-serving): telemetry analysis and benchmark logs (2025-01-15 #3)
+- Telemetry latency: 34ms, QPS: 45256, Cache hit: 96.1%
+
