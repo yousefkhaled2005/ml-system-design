@@ -184,3 +184,6 @@
 ## [2025-01-16 10:47] feat(raft-heartbeat): telemetry analysis and benchmark logs (2025-01-16 #5)
 - Telemetry latency: 13ms, QPS: 53310, Cache hit: 96.3%
 
+## [2025-01-16 13:24] test(chandy-lamport-snapshot): telemetry analysis and benchmark logs (2025-01-16 #6)
+- Telemetry latency: 42ms, QPS: 19094, Cache hit: 96.3%
+
