@@ -196,3 +196,6 @@
 ## [2025-01-17 18:17] feat(paged-attention): telemetry analysis and benchmark logs (2025-01-17 #3)
 - Telemetry latency: 12ms, QPS: 24219, Cache hit: 93.1%
 
+## [2025-01-17 17:1] feat(token-bucket-ratelimit): telemetry analysis and benchmark logs (2025-01-17 #4)
+- Telemetry latency: 12ms, QPS: 25216, Cache hit: 96.7%
+
