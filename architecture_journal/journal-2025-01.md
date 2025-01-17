@@ -190,3 +190,6 @@
 ## [2025-01-17 18:3] docs(langgraph-state-machine): telemetry analysis and benchmark logs (2025-01-17 #1)
 - Telemetry latency: 21ms, QPS: 16215, Cache hit: 92.7%
 
+## [2025-01-17 14:4] test(qlora-4bit-sft): telemetry analysis and benchmark logs (2025-01-17 #2)
+- Telemetry latency: 39ms, QPS: 15047, Cache hit: 92.3%
+
