@@ -211,3 +211,6 @@
 ## [2025-01-18 16:34] docs(nvme-all-flash): telemetry analysis and benchmark logs (2025-01-18 #2)
 - Telemetry latency: 24ms, QPS: 48418, Cache hit: 94.8%
 
+## [2025-01-18 10:39] feat(zero-copy-buffers): telemetry analysis and benchmark logs (2025-01-18 #3)
+- Telemetry latency: 38ms, QPS: 36935, Cache hit: 93.8%
+
