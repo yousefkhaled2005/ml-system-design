@@ -208,3 +208,6 @@
 ## [2025-01-18 14:19] refactor(chandy-lamport-snapshot): telemetry analysis and benchmark logs (2025-01-18 #1)
 - Telemetry latency: 21ms, QPS: 21253, Cache hit: 96.6%
 
+## [2025-01-18 16:34] docs(nvme-all-flash): telemetry analysis and benchmark logs (2025-01-18 #2)
+- Telemetry latency: 24ms, QPS: 48418, Cache hit: 94.8%
+
