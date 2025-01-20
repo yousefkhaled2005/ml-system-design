@@ -223,3 +223,6 @@
 ## [2025-01-20 10:31] test(paged-attention): telemetry analysis and benchmark logs (2025-01-20 #2)
 - Telemetry latency: 35ms, QPS: 21837, Cache hit: 94.5%
 
+## [2025-01-20 17:36] perf(cache-locality): telemetry analysis and benchmark logs (2025-01-20 #3)
+- Telemetry latency: 29ms, QPS: 28221, Cache hit: 95.5%
+
