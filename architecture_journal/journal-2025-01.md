@@ -220,3 +220,6 @@
 ## [2025-01-20 12:46] test(distributed-consensus): telemetry analysis and benchmark logs (2025-01-20 #1)
 - Telemetry latency: 17ms, QPS: 33496, Cache hit: 95.1%
 
+## [2025-01-20 10:31] test(paged-attention): telemetry analysis and benchmark logs (2025-01-20 #2)
+- Telemetry latency: 35ms, QPS: 21837, Cache hit: 94.5%
+
