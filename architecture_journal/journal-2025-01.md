@@ -229,3 +229,6 @@
 ## [2025-01-20 10:0] test(qlora-4bit-sft): telemetry analysis and benchmark logs (2025-01-20 #4)
 - Telemetry latency: 40ms, QPS: 43669, Cache hit: 94.3%
 
+## [2025-01-21 13:33] perf(roce-infiniband): telemetry analysis and benchmark logs (2025-01-21 #1)
+- Telemetry latency: 23ms, QPS: 40653, Cache hit: 92.8%
+
