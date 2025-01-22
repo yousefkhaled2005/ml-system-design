@@ -247,3 +247,6 @@
 ## [2025-01-22 14:30] feat(distributed-consensus): telemetry analysis and benchmark logs (2025-01-22 #3)
 - Telemetry latency: 24ms, QPS: 46017, Cache hit: 93.2%
 
+## [2025-01-22 11:40] test(roce-infiniband): telemetry analysis and benchmark logs (2025-01-22 #4)
+- Telemetry latency: 31ms, QPS: 14592, Cache hit: 98.3%
+
