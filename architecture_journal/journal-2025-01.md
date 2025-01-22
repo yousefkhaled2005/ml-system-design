@@ -241,3 +241,6 @@
 ## [2025-01-22 11:17] perf(simd-avx512): telemetry analysis and benchmark logs (2025-01-22 #1)
 - Telemetry latency: 23ms, QPS: 27505, Cache hit: 98.4%
 
+## [2025-01-22 8:27] refactor(flash-attention-v2): telemetry analysis and benchmark logs (2025-01-22 #2)
+- Telemetry latency: 33ms, QPS: 47790, Cache hit: 93.2%
+
