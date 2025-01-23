@@ -256,3 +256,6 @@
 ## [2025-01-23 14:52] docs(vllm-serving): telemetry analysis and benchmark logs (2025-01-23 #1)
 - Telemetry latency: 42ms, QPS: 20742, Cache hit: 94.7%
 
+## [2025-01-23 18:17] refactor(hnsw-indexing): telemetry analysis and benchmark logs (2025-01-23 #2)
+- Telemetry latency: 30ms, QPS: 21422, Cache hit: 92.3%
+
