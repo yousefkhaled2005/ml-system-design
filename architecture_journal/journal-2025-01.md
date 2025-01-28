@@ -298,3 +298,6 @@
 ## [2025-01-27 12:17] perf(cache-locality): telemetry analysis and benchmark logs (2025-01-27 #3)
 - Telemetry latency: 29ms, QPS: 26217, Cache hit: 97.4%
 
+## [2025-01-28 13:52] docs(token-bucket-ratelimit): telemetry analysis and benchmark logs (2025-01-28 #1)
+- Telemetry latency: 32ms, QPS: 17713, Cache hit: 94.5%
+
