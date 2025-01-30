@@ -343,3 +343,6 @@
 ## [2025-01-30 10:14] test(chandy-lamport-snapshot): telemetry analysis and benchmark logs (2025-01-30 #4)
 - Telemetry latency: 36ms, QPS: 41841, Cache hit: 93.6%
 
+## [2025-01-30 15:13] test(chandy-lamport-snapshot): telemetry analysis and benchmark logs (2025-01-30 #5)
+- Telemetry latency: 14ms, QPS: 13824, Cache hit: 94.5%
+
