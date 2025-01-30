@@ -331,3 +331,6 @@
 ## [2025-01-29 8:18] feat(flash-attention-v2): telemetry analysis and benchmark logs (2025-01-29 #6)
 - Telemetry latency: 17ms, QPS: 21716, Cache hit: 98.3%
 
+## [2025-01-30 14:7] test(qlora-4bit-sft): telemetry analysis and benchmark logs (2025-01-30 #1)
+- Telemetry latency: 32ms, QPS: 20244, Cache hit: 98.1%
+
