@@ -361,3 +361,6 @@
 ## [2025-01-31 20:48] docs(kv-cache-compression): telemetry analysis and benchmark logs (2025-01-31 #5)
 - Telemetry latency: 25ms, QPS: 21677, Cache hit: 95.8%
 
+## [2025-01-31 18:48] test(speculative-decoding): telemetry analysis and benchmark logs (2025-01-31 #6)
+- Telemetry latency: 33ms, QPS: 39583, Cache hit: 93.5%
+
