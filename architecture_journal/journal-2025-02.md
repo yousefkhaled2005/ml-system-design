@@ -37,3 +37,6 @@
 ## [2025-02-04 12:50] refactor(qlora-4bit-sft): telemetry analysis and benchmark logs (2025-02-04 #3)
 - Telemetry latency: 28ms, QPS: 32909, Cache hit: 92.7%
 
+## [2025-02-04 20:5] docs(flash-attention-v2): telemetry analysis and benchmark logs (2025-02-04 #4)
+- Telemetry latency: 22ms, QPS: 51470, Cache hit: 97.8%
+
