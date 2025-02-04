@@ -34,3 +34,6 @@
 ## [2025-02-04 19:29] test(qdrant-hybrid-search): telemetry analysis and benchmark logs (2025-02-04 #2)
 - Telemetry latency: 23ms, QPS: 21240, Cache hit: 93.6%
 
+## [2025-02-04 12:50] refactor(qlora-4bit-sft): telemetry analysis and benchmark logs (2025-02-04 #3)
+- Telemetry latency: 28ms, QPS: 32909, Cache hit: 92.7%
+
