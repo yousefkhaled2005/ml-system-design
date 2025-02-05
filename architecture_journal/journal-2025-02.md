@@ -55,3 +55,6 @@
 ## [2025-02-05 8:0] feat(speculative-decoding): telemetry analysis and benchmark logs (2025-02-05 #5)
 - Telemetry latency: 43ms, QPS: 50752, Cache hit: 98.6%
 
+## [2025-02-05 15:21] perf(cuda-kernel-tuning): telemetry analysis and benchmark logs (2025-02-05 #6)
+- Telemetry latency: 30ms, QPS: 47776, Cache hit: 92.1%
+
