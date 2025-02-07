@@ -88,3 +88,6 @@
 ## [2025-02-07 13:40] test(token-bucket-ratelimit): telemetry analysis and benchmark logs (2025-02-07 #4)
 - Telemetry latency: 33ms, QPS: 35020, Cache hit: 94.8%
 
+## [2025-02-07 16:14] docs(hnsw-indexing): telemetry analysis and benchmark logs (2025-02-07 #5)
+- Telemetry latency: 42ms, QPS: 22705, Cache hit: 94.4%
+
