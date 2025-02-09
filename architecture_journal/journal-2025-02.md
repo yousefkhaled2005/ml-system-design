@@ -97,3 +97,6 @@
 ## [2025-02-09 18:41] perf(speculative-decoding): telemetry analysis and benchmark logs (2025-02-09 #1)
 - Telemetry latency: 24ms, QPS: 45372, Cache hit: 94.7%
 
+## [2025-02-09 9:16] refactor(hnsw-indexing): telemetry analysis and benchmark logs (2025-02-09 #2)
+- Telemetry latency: 41ms, QPS: 22989, Cache hit: 92.1%
+
