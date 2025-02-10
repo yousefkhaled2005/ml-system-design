@@ -115,3 +115,6 @@
 ## [2025-02-10 17:25] test(speculative-decoding): telemetry analysis and benchmark logs (2025-02-10 #4)
 - Telemetry latency: 15ms, QPS: 48244, Cache hit: 96.3%
 
+## [2025-02-10 17:34] test(flash-attention-v2): telemetry analysis and benchmark logs (2025-02-10 #5)
+- Telemetry latency: 28ms, QPS: 53545, Cache hit: 96.8%
+
