@@ -106,3 +106,6 @@
 ## [2025-02-10 9:32] perf(distributed-consensus): telemetry analysis and benchmark logs (2025-02-10 #1)
 - Telemetry latency: 40ms, QPS: 53214, Cache hit: 94.1%
 
+## [2025-02-10 20:25] test(qlora-4bit-sft): telemetry analysis and benchmark logs (2025-02-10 #2)
+- Telemetry latency: 43ms, QPS: 41561, Cache hit: 97.5%
+
