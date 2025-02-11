@@ -118,3 +118,6 @@
 ## [2025-02-10 17:34] test(flash-attention-v2): telemetry analysis and benchmark logs (2025-02-10 #5)
 - Telemetry latency: 28ms, QPS: 53545, Cache hit: 96.8%
 
+## [2025-02-11 8:28] perf(qdrant-hybrid-search): telemetry analysis and benchmark logs (2025-02-11 #1)
+- Telemetry latency: 29ms, QPS: 31775, Cache hit: 97.7%
+
