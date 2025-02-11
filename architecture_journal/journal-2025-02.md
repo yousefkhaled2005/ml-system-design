@@ -124,3 +124,6 @@
 ## [2025-02-11 20:33] perf(dpo-loss-margin): telemetry analysis and benchmark logs (2025-02-11 #2)
 - Telemetry latency: 15ms, QPS: 26990, Cache hit: 94.4%
 
+## [2025-02-11 9:8] refactor(vllm-serving): telemetry analysis and benchmark logs (2025-02-11 #3)
+- Telemetry latency: 17ms, QPS: 47566, Cache hit: 98.3%
+
