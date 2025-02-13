@@ -142,3 +142,6 @@
 ## [2025-02-12 16:54] test(dpo-loss-margin): telemetry analysis and benchmark logs (2025-02-12 #4)
 - Telemetry latency: 21ms, QPS: 36987, Cache hit: 93.4%
 
+## [2025-02-13 14:10] feat(cross-encoder-reranking): telemetry analysis and benchmark logs (2025-02-13 #1)
+- Telemetry latency: 23ms, QPS: 25366, Cache hit: 92.7%
+
