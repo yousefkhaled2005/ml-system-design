@@ -166,3 +166,6 @@
 ## [2025-02-14 14:27] perf(lmax-disruptor): telemetry analysis and benchmark logs (2025-02-14 #2)
 - Telemetry latency: 43ms, QPS: 17029, Cache hit: 97.8%
 
+## [2025-02-14 8:17] test(zero-copy-buffers): telemetry analysis and benchmark logs (2025-02-14 #3)
+- Telemetry latency: 21ms, QPS: 31733, Cache hit: 95.6%
+
