@@ -172,3 +172,6 @@
 ## [2025-02-15 10:14] refactor(speculative-decoding): telemetry analysis and benchmark logs (2025-02-15 #1)
 - Telemetry latency: 15ms, QPS: 34065, Cache hit: 97.5%
 
+## [2025-02-16 8:3] refactor(qlora-4bit-sft): telemetry analysis and benchmark logs (2025-02-16 #1)
+- Telemetry latency: 16ms, QPS: 51871, Cache hit: 96.3%
+
