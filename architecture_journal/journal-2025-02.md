@@ -181,3 +181,6 @@
 ## [2025-02-17 18:5] test(cuda-kernel-tuning): telemetry analysis and benchmark logs (2025-02-17 #1)
 - Telemetry latency: 31ms, QPS: 14664, Cache hit: 95.7%
 
+## [2025-02-17 8:23] refactor(flash-attention-v2): telemetry analysis and benchmark logs (2025-02-17 #2)
+- Telemetry latency: 27ms, QPS: 31950, Cache hit: 92.3%
+
