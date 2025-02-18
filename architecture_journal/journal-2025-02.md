@@ -196,3 +196,6 @@
 ## [2025-02-18 17:10] perf(flash-attention-v2): telemetry analysis and benchmark logs (2025-02-18 #1)
 - Telemetry latency: 18ms, QPS: 39281, Cache hit: 94.3%
 
+## [2025-02-18 12:35] refactor(hnsw-indexing): telemetry analysis and benchmark logs (2025-02-18 #2)
+- Telemetry latency: 29ms, QPS: 16626, Cache hit: 98.5%
+
