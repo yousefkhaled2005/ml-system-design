@@ -226,3 +226,6 @@
 ## [2025-02-20 8:48] perf(zero-copy-buffers): telemetry analysis and benchmark logs (2025-02-20 #3)
 - Telemetry latency: 13ms, QPS: 48911, Cache hit: 96.7%
 
+## [2025-02-20 19:1] test(raft-heartbeat): telemetry analysis and benchmark logs (2025-02-20 #4)
+- Telemetry latency: 14ms, QPS: 29580, Cache hit: 93.7%
+
