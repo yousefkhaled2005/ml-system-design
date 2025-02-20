@@ -220,3 +220,6 @@
 ## [2025-02-20 20:7] perf(raft-heartbeat): telemetry analysis and benchmark logs (2025-02-20 #1)
 - Telemetry latency: 17ms, QPS: 40090, Cache hit: 97.3%
 
+## [2025-02-20 18:37] test(chandy-lamport-snapshot): telemetry analysis and benchmark logs (2025-02-20 #2)
+- Telemetry latency: 37ms, QPS: 22724, Cache hit: 93.4%
+
