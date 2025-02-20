@@ -217,3 +217,6 @@
 ## [2025-02-19 13:3] perf(vllm-serving): telemetry analysis and benchmark logs (2025-02-19 #4)
 - Telemetry latency: 30ms, QPS: 30160, Cache hit: 96.3%
 
+## [2025-02-20 20:7] perf(raft-heartbeat): telemetry analysis and benchmark logs (2025-02-20 #1)
+- Telemetry latency: 17ms, QPS: 40090, Cache hit: 97.3%
+
