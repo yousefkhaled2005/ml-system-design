@@ -229,3 +229,6 @@
 ## [2025-02-20 19:1] test(raft-heartbeat): telemetry analysis and benchmark logs (2025-02-20 #4)
 - Telemetry latency: 14ms, QPS: 29580, Cache hit: 93.7%
 
+## [2025-02-21 18:29] refactor(kv-cache-compression): telemetry analysis and benchmark logs (2025-02-21 #1)
+- Telemetry latency: 39ms, QPS: 36625, Cache hit: 96.3%
+
