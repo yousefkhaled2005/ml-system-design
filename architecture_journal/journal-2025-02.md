@@ -256,3 +256,6 @@
 ## [2025-02-24 20:53] test(nvme-all-flash): telemetry analysis and benchmark logs (2025-02-24 #1)
 - Telemetry latency: 15ms, QPS: 40371, Cache hit: 96.1%
 
+## [2025-02-24 11:9] test(chandy-lamport-snapshot): telemetry analysis and benchmark logs (2025-02-24 #2)
+- Telemetry latency: 28ms, QPS: 14146, Cache hit: 95.5%
+
