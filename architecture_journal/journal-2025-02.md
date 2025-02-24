@@ -262,3 +262,6 @@
 ## [2025-02-24 19:53] perf(grpc-protobuf-stream): telemetry analysis and benchmark logs (2025-02-24 #3)
 - Telemetry latency: 44ms, QPS: 27586, Cache hit: 97.8%
 
+## [2025-02-24 17:20] perf(roce-infiniband): telemetry analysis and benchmark logs (2025-02-24 #4)
+- Telemetry latency: 30ms, QPS: 38225, Cache hit: 97.5%
+
