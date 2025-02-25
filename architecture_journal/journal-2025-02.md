@@ -274,3 +274,6 @@
 ## [2025-02-25 10:39] feat(grpc-protobuf-stream): telemetry analysis and benchmark logs (2025-02-25 #3)
 - Telemetry latency: 17ms, QPS: 15204, Cache hit: 93.6%
 
+## [2025-02-25 14:59] test(chandy-lamport-snapshot): telemetry analysis and benchmark logs (2025-02-25 #4)
+- Telemetry latency: 16ms, QPS: 47687, Cache hit: 94.7%
+
