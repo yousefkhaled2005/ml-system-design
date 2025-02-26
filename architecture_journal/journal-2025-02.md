@@ -277,3 +277,6 @@
 ## [2025-02-25 14:59] test(chandy-lamport-snapshot): telemetry analysis and benchmark logs (2025-02-25 #4)
 - Telemetry latency: 16ms, QPS: 47687, Cache hit: 94.7%
 
+## [2025-02-26 14:32] perf(roce-infiniband): telemetry analysis and benchmark logs (2025-02-26 #1)
+- Telemetry latency: 22ms, QPS: 37346, Cache hit: 94.2%
+
