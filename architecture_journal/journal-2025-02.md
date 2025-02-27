@@ -310,3 +310,6 @@
 ## [2025-02-27 15:34] perf(hnsw-indexing): telemetry analysis and benchmark logs (2025-02-27 #5)
 - Telemetry latency: 31ms, QPS: 15187, Cache hit: 96.3%
 
+## [2025-02-27 10:19] refactor(paged-attention): telemetry analysis and benchmark logs (2025-02-27 #6)
+- Telemetry latency: 44ms, QPS: 40223, Cache hit: 94.5%
+
