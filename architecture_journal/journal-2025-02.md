@@ -301,3 +301,6 @@
 ## [2025-02-27 8:25] test(flash-attention-v2): telemetry analysis and benchmark logs (2025-02-27 #2)
 - Telemetry latency: 26ms, QPS: 42946, Cache hit: 94.1%
 
+## [2025-02-27 18:36] perf(dpo-loss-margin): telemetry analysis and benchmark logs (2025-02-27 #3)
+- Telemetry latency: 19ms, QPS: 45230, Cache hit: 92.6%
+
