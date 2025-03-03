@@ -19,3 +19,6 @@
 ## [2025-03-03 10:44] perf(chandy-lamport-snapshot): telemetry analysis and benchmark logs (2025-03-03 #1)
 - Telemetry latency: 28ms, QPS: 36737, Cache hit: 97.4%
 
+## [2025-03-03 11:46] perf(cache-locality): telemetry analysis and benchmark logs (2025-03-03 #2)
+- Telemetry latency: 20ms, QPS: 17093, Cache hit: 95.5%
+
