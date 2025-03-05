@@ -46,3 +46,6 @@
 ## [2025-03-05 10:46] feat(cache-locality): telemetry analysis and benchmark logs (2025-03-05 #1)
 - Telemetry latency: 25ms, QPS: 29292, Cache hit: 93.6%
 
+## [2025-03-05 16:45] docs(langgraph-state-machine): telemetry analysis and benchmark logs (2025-03-05 #2)
+- Telemetry latency: 37ms, QPS: 52341, Cache hit: 94.8%
+
