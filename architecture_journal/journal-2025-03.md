@@ -64,3 +64,6 @@
 ## [2025-03-06 8:35] feat(kv-cache-compression): telemetry analysis and benchmark logs (2025-03-06 #4)
 - Telemetry latency: 31ms, QPS: 37114, Cache hit: 94.5%
 
+## [2025-03-07 18:1] docs(vllm-serving): telemetry analysis and benchmark logs (2025-03-07 #1)
+- Telemetry latency: 44ms, QPS: 24032, Cache hit: 93.5%
+
