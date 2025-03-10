@@ -97,3 +97,6 @@
 ## [2025-03-10 16:7] refactor(kv-cache-compression): telemetry analysis and benchmark logs (2025-03-10 #2)
 - Telemetry latency: 36ms, QPS: 15167, Cache hit: 98.8%
 
+## [2025-03-10 13:44] refactor(raft-heartbeat): telemetry analysis and benchmark logs (2025-03-10 #3)
+- Telemetry latency: 13ms, QPS: 24065, Cache hit: 95.3%
+
