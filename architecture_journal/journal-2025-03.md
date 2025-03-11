@@ -100,3 +100,6 @@
 ## [2025-03-10 13:44] refactor(raft-heartbeat): telemetry analysis and benchmark logs (2025-03-10 #3)
 - Telemetry latency: 13ms, QPS: 24065, Cache hit: 95.3%
 
+## [2025-03-11 18:40] docs(vllm-serving): telemetry analysis and benchmark logs (2025-03-11 #1)
+- Telemetry latency: 13ms, QPS: 12965, Cache hit: 95.5%
+
