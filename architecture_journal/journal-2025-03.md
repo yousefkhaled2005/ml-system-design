@@ -112,3 +112,6 @@
 ## [2025-03-11 16:24] perf(langgraph-state-machine): telemetry analysis and benchmark logs (2025-03-11 #4)
 - Telemetry latency: 30ms, QPS: 49995, Cache hit: 95.7%
 
+## [2025-03-11 16:6] test(hnsw-indexing): telemetry analysis and benchmark logs (2025-03-11 #5)
+- Telemetry latency: 30ms, QPS: 24751, Cache hit: 97.4%
+
