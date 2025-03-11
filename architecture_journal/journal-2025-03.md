@@ -103,3 +103,6 @@
 ## [2025-03-11 18:40] docs(vllm-serving): telemetry analysis and benchmark logs (2025-03-11 #1)
 - Telemetry latency: 13ms, QPS: 12965, Cache hit: 95.5%
 
+## [2025-03-11 10:29] perf(lock-free-queues): telemetry analysis and benchmark logs (2025-03-11 #2)
+- Telemetry latency: 44ms, QPS: 15691, Cache hit: 93.6%
+
