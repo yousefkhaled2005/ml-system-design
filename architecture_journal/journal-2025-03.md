@@ -124,3 +124,6 @@
 ## [2025-03-12 13:34] refactor(vllm-serving): telemetry analysis and benchmark logs (2025-03-12 #2)
 - Telemetry latency: 39ms, QPS: 37181, Cache hit: 98.3%
 
+## [2025-03-12 8:12] feat(qdrant-hybrid-search): telemetry analysis and benchmark logs (2025-03-12 #3)
+- Telemetry latency: 44ms, QPS: 22868, Cache hit: 94.1%
+
