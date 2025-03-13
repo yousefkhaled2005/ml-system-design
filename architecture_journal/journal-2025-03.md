@@ -133,3 +133,6 @@
 ## [2025-03-12 18:16] perf(hnsw-indexing): telemetry analysis and benchmark logs (2025-03-12 #5)
 - Telemetry latency: 32ms, QPS: 42574, Cache hit: 97.4%
 
+## [2025-03-13 19:9] perf(qlora-4bit-sft): telemetry analysis and benchmark logs (2025-03-13 #1)
+- Telemetry latency: 34ms, QPS: 40809, Cache hit: 95.7%
+
