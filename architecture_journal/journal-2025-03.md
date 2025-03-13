@@ -145,3 +145,6 @@
 ## [2025-03-13 9:11] perf(lock-free-queues): telemetry analysis and benchmark logs (2025-03-13 #4)
 - Telemetry latency: 12ms, QPS: 29351, Cache hit: 93.7%
 
+## [2025-03-13 18:2] docs(hnsw-indexing): telemetry analysis and benchmark logs (2025-03-13 #5)
+- Telemetry latency: 14ms, QPS: 19331, Cache hit: 95.1%
+
