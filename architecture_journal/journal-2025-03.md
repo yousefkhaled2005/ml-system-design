@@ -139,3 +139,6 @@
 ## [2025-03-13 13:19] test(flash-attention-v2): telemetry analysis and benchmark logs (2025-03-13 #2)
 - Telemetry latency: 42ms, QPS: 25954, Cache hit: 94.2%
 
+## [2025-03-13 11:54] refactor(roce-infiniband): telemetry analysis and benchmark logs (2025-03-13 #3)
+- Telemetry latency: 25ms, QPS: 21997, Cache hit: 95.5%
+
