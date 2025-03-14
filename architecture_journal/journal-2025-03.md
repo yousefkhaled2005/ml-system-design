@@ -151,3 +151,6 @@
 ## [2025-03-13 14:58] refactor(token-bucket-ratelimit): telemetry analysis and benchmark logs (2025-03-13 #6)
 - Telemetry latency: 27ms, QPS: 53860, Cache hit: 95.3%
 
+## [2025-03-14 19:1] docs(langgraph-state-machine): telemetry analysis and benchmark logs (2025-03-14 #1)
+- Telemetry latency: 43ms, QPS: 37691, Cache hit: 98.8%
+
