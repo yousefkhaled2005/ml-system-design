@@ -172,3 +172,6 @@
 ## [2025-03-16 16:4] feat(distributed-consensus): telemetry analysis and benchmark logs (2025-03-16 #2)
 - Telemetry latency: 37ms, QPS: 22599, Cache hit: 97.7%
 
+## [2025-03-17 8:9] docs(kv-cache-compression): telemetry analysis and benchmark logs (2025-03-17 #1)
+- Telemetry latency: 39ms, QPS: 36578, Cache hit: 94.4%
+
