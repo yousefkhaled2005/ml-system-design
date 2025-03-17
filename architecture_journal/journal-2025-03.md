@@ -175,3 +175,6 @@
 ## [2025-03-17 8:9] docs(kv-cache-compression): telemetry analysis and benchmark logs (2025-03-17 #1)
 - Telemetry latency: 39ms, QPS: 36578, Cache hit: 94.4%
 
+## [2025-03-17 13:42] feat(langgraph-state-machine): telemetry analysis and benchmark logs (2025-03-17 #2)
+- Telemetry latency: 21ms, QPS: 32364, Cache hit: 95.6%
+
