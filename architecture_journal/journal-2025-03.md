@@ -244,3 +244,6 @@
 ## [2025-03-21 18:23] docs(flash-attention-v2): telemetry analysis and benchmark logs (2025-03-21 #2)
 - Telemetry latency: 13ms, QPS: 50443, Cache hit: 92.3%
 
+## [2025-03-21 20:18] docs(nvme-all-flash): telemetry analysis and benchmark logs (2025-03-21 #3)
+- Telemetry latency: 26ms, QPS: 45956, Cache hit: 92.4%
+
