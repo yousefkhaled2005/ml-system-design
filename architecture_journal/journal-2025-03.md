@@ -253,3 +253,6 @@
 ## [2025-03-21 19:40] refactor(hnsw-indexing): telemetry analysis and benchmark logs (2025-03-21 #5)
 - Telemetry latency: 35ms, QPS: 35383, Cache hit: 94.8%
 
+## [2025-03-21 8:3] test(roce-infiniband): telemetry analysis and benchmark logs (2025-03-21 #6)
+- Telemetry latency: 20ms, QPS: 37094, Cache hit: 96.1%
+
