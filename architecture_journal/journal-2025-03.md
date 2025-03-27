@@ -328,3 +328,6 @@
 ## [2025-03-27 18:33] refactor(flash-attention-v2): telemetry analysis and benchmark logs (2025-03-27 #5)
 - Telemetry latency: 21ms, QPS: 35384, Cache hit: 97.4%
 
+## [2025-03-27 12:37] docs(hnsw-indexing): telemetry analysis and benchmark logs (2025-03-27 #6)
+- Telemetry latency: 17ms, QPS: 19345, Cache hit: 97.8%
+
