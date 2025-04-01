@@ -4,3 +4,6 @@
 ## [2025-04-01 13:47] perf(zero-copy-buffers): telemetry analysis and benchmark logs (2025-04-01 #2)
 - Telemetry latency: 22ms, QPS: 49383, Cache hit: 96.7%
 
+## [2025-04-01 12:39] feat(qlora-4bit-sft): telemetry analysis and benchmark logs (2025-04-01 #3)
+- Telemetry latency: 18ms, QPS: 27090, Cache hit: 92.7%
+
