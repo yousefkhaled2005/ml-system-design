@@ -19,3 +19,6 @@
 ## [2025-04-02 20:35] perf(roce-infiniband): telemetry analysis and benchmark logs (2025-04-02 #1)
 - Telemetry latency: 34ms, QPS: 25712, Cache hit: 98.3%
 
+## [2025-04-02 11:57] test(kv-cache-compression): telemetry analysis and benchmark logs (2025-04-02 #2)
+- Telemetry latency: 17ms, QPS: 18487, Cache hit: 96.2%
+
