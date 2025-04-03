@@ -43,3 +43,6 @@
 ## [2025-04-03 20:7] docs(roce-infiniband): telemetry analysis and benchmark logs (2025-04-03 #4)
 - Telemetry latency: 23ms, QPS: 14388, Cache hit: 92.4%
 
+## [2025-04-03 10:8] docs(lmax-disruptor): telemetry analysis and benchmark logs (2025-04-03 #5)
+- Telemetry latency: 40ms, QPS: 26898, Cache hit: 98.3%
+
