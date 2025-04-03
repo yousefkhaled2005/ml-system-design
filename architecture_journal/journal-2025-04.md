@@ -40,3 +40,6 @@
 ## [2025-04-03 19:21] test(dpo-loss-margin): telemetry analysis and benchmark logs (2025-04-03 #3)
 - Telemetry latency: 37ms, QPS: 47046, Cache hit: 95.6%
 
+## [2025-04-03 20:7] docs(roce-infiniband): telemetry analysis and benchmark logs (2025-04-03 #4)
+- Telemetry latency: 23ms, QPS: 14388, Cache hit: 92.4%
+
