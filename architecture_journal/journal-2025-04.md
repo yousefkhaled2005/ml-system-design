@@ -31,3 +31,6 @@
 ## [2025-04-02 15:31] perf(token-bucket-ratelimit): telemetry analysis and benchmark logs (2025-04-02 #5)
 - Telemetry latency: 18ms, QPS: 31455, Cache hit: 98.8%
 
+## [2025-04-03 14:46] perf(raft-heartbeat): telemetry analysis and benchmark logs (2025-04-03 #1)
+- Telemetry latency: 33ms, QPS: 53511, Cache hit: 94.3%
+
