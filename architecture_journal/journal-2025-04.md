@@ -37,3 +37,6 @@
 ## [2025-04-03 16:42] docs(speculative-decoding): telemetry analysis and benchmark logs (2025-04-03 #2)
 - Telemetry latency: 41ms, QPS: 47004, Cache hit: 95.2%
 
+## [2025-04-03 19:21] test(dpo-loss-margin): telemetry analysis and benchmark logs (2025-04-03 #3)
+- Telemetry latency: 37ms, QPS: 47046, Cache hit: 95.6%
+
