@@ -73,3 +73,6 @@
 ## [2025-04-07 8:12] docs(distributed-consensus): telemetry analysis and benchmark logs (2025-04-07 #1)
 - Telemetry latency: 23ms, QPS: 37647, Cache hit: 94.1%
 
+## [2025-04-07 9:26] test(hnsw-indexing): telemetry analysis and benchmark logs (2025-04-07 #2)
+- Telemetry latency: 25ms, QPS: 41081, Cache hit: 96.3%
+
