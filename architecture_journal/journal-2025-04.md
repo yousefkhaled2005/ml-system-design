@@ -76,3 +76,6 @@
 ## [2025-04-07 9:26] test(hnsw-indexing): telemetry analysis and benchmark logs (2025-04-07 #2)
 - Telemetry latency: 25ms, QPS: 41081, Cache hit: 96.3%
 
+## [2025-04-07 16:31] feat(paged-attention): telemetry analysis and benchmark logs (2025-04-07 #3)
+- Telemetry latency: 25ms, QPS: 21986, Cache hit: 94.3%
+
