@@ -91,3 +91,6 @@
 ## [2025-04-08 15:59] feat(speculative-decoding): telemetry analysis and benchmark logs (2025-04-08 #3)
 - Telemetry latency: 38ms, QPS: 26721, Cache hit: 93.5%
 
+## [2025-04-08 11:55] refactor(paged-attention): telemetry analysis and benchmark logs (2025-04-08 #4)
+- Telemetry latency: 18ms, QPS: 41401, Cache hit: 96.3%
+
