@@ -82,3 +82,6 @@
 ## [2025-04-07 20:2] docs(simd-avx512): telemetry analysis and benchmark logs (2025-04-07 #4)
 - Telemetry latency: 37ms, QPS: 54159, Cache hit: 96.1%
 
+## [2025-04-08 14:2] feat(flash-attention-v2): telemetry analysis and benchmark logs (2025-04-08 #1)
+- Telemetry latency: 38ms, QPS: 35642, Cache hit: 93.7%
+
