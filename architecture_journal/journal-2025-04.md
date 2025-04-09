@@ -100,3 +100,6 @@
 ## [2025-04-09 17:32] perf(speculative-decoding): telemetry analysis and benchmark logs (2025-04-09 #2)
 - Telemetry latency: 34ms, QPS: 50954, Cache hit: 92.1%
 
+## [2025-04-09 16:17] test(vllm-serving): telemetry analysis and benchmark logs (2025-04-09 #3)
+- Telemetry latency: 23ms, QPS: 28415, Cache hit: 96.8%
+
