@@ -94,3 +94,6 @@
 ## [2025-04-08 11:55] refactor(paged-attention): telemetry analysis and benchmark logs (2025-04-08 #4)
 - Telemetry latency: 18ms, QPS: 41401, Cache hit: 96.3%
 
+## [2025-04-09 20:58] test(paged-attention): telemetry analysis and benchmark logs (2025-04-09 #1)
+- Telemetry latency: 14ms, QPS: 17787, Cache hit: 97.4%
+
