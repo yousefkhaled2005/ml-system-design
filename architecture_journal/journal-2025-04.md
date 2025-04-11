@@ -127,3 +127,6 @@
 ## [2025-04-11 20:0] refactor(lock-free-queues): telemetry analysis and benchmark logs (2025-04-11 #1)
 - Telemetry latency: 39ms, QPS: 20176, Cache hit: 95.5%
 
+## [2025-04-11 20:46] test(lmax-disruptor): telemetry analysis and benchmark logs (2025-04-11 #2)
+- Telemetry latency: 35ms, QPS: 47844, Cache hit: 94.4%
+
