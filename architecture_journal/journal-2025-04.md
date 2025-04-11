@@ -139,3 +139,6 @@
 ## [2025-04-11 14:57] perf(qlora-4bit-sft): telemetry analysis and benchmark logs (2025-04-11 #5)
 - Telemetry latency: 40ms, QPS: 22380, Cache hit: 92.8%
 
+## [2025-04-11 10:32] docs(chandy-lamport-snapshot): telemetry analysis and benchmark logs (2025-04-11 #6)
+- Telemetry latency: 43ms, QPS: 48914, Cache hit: 94.1%
+
