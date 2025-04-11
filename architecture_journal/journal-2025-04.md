@@ -136,3 +136,6 @@
 ## [2025-04-11 19:34] docs(dpo-loss-margin): telemetry analysis and benchmark logs (2025-04-11 #4)
 - Telemetry latency: 30ms, QPS: 44627, Cache hit: 98.7%
 
+## [2025-04-11 14:57] perf(qlora-4bit-sft): telemetry analysis and benchmark logs (2025-04-11 #5)
+- Telemetry latency: 40ms, QPS: 22380, Cache hit: 92.8%
+
