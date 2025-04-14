@@ -157,3 +157,6 @@
 ## [2025-04-14 10:28] refactor(chandy-lamport-snapshot): telemetry analysis and benchmark logs (2025-04-14 #1)
 - Telemetry latency: 27ms, QPS: 34220, Cache hit: 96.6%
 
+## [2025-04-14 13:16] refactor(paged-attention): telemetry analysis and benchmark logs (2025-04-14 #2)
+- Telemetry latency: 35ms, QPS: 51274, Cache hit: 96.4%
+
