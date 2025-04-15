@@ -169,3 +169,6 @@
 ## [2025-04-14 11:14] test(kv-cache-compression): telemetry analysis and benchmark logs (2025-04-14 #5)
 - Telemetry latency: 14ms, QPS: 21072, Cache hit: 97.8%
 
+## [2025-04-15 9:14] refactor(cache-locality): telemetry analysis and benchmark logs (2025-04-15 #1)
+- Telemetry latency: 15ms, QPS: 34491, Cache hit: 98.3%
+
