@@ -184,3 +184,6 @@
 ## [2025-04-15 12:0] test(kv-cache-compression): telemetry analysis and benchmark logs (2025-04-15 #5)
 - Telemetry latency: 31ms, QPS: 53487, Cache hit: 95.4%
 
+## [2025-04-15 11:22] docs(flash-attention-v2): telemetry analysis and benchmark logs (2025-04-15 #6)
+- Telemetry latency: 23ms, QPS: 39524, Cache hit: 97.1%
+
