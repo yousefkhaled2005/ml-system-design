@@ -178,3 +178,6 @@
 ## [2025-04-15 13:48] refactor(kv-cache-compression): telemetry analysis and benchmark logs (2025-04-15 #3)
 - Telemetry latency: 22ms, QPS: 21905, Cache hit: 96.4%
 
+## [2025-04-15 20:3] docs(hnsw-indexing): telemetry analysis and benchmark logs (2025-04-15 #4)
+- Telemetry latency: 17ms, QPS: 48262, Cache hit: 93.4%
+
