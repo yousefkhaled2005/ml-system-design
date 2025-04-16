@@ -190,3 +190,6 @@
 ## [2025-04-16 13:59] feat(roce-infiniband): telemetry analysis and benchmark logs (2025-04-16 #1)
 - Telemetry latency: 25ms, QPS: 34052, Cache hit: 94.8%
 
+## [2025-04-16 20:6] docs(hnsw-indexing): telemetry analysis and benchmark logs (2025-04-16 #2)
+- Telemetry latency: 16ms, QPS: 54191, Cache hit: 93.2%
+
