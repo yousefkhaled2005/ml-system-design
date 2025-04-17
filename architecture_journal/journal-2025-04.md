@@ -208,3 +208,6 @@
 ## [2025-04-17 17:38] perf(distributed-consensus): telemetry analysis and benchmark logs (2025-04-17 #3)
 - Telemetry latency: 28ms, QPS: 50819, Cache hit: 93.4%
 
+## [2025-04-17 13:42] test(vllm-serving): telemetry analysis and benchmark logs (2025-04-17 #4)
+- Telemetry latency: 23ms, QPS: 43682, Cache hit: 94.8%
+
