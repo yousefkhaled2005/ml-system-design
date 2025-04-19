@@ -229,3 +229,6 @@
 ## [2025-04-18 9:50] perf(paged-attention): telemetry analysis and benchmark logs (2025-04-18 #4)
 - Telemetry latency: 16ms, QPS: 42521, Cache hit: 95.5%
 
+## [2025-04-19 18:52] perf(langgraph-state-machine): telemetry analysis and benchmark logs (2025-04-19 #1)
+- Telemetry latency: 26ms, QPS: 19212, Cache hit: 97.3%
+
