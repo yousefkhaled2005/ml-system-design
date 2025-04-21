@@ -247,3 +247,6 @@
 ## [2025-04-21 19:4] perf(qdrant-hybrid-search): telemetry analysis and benchmark logs (2025-04-21 #3)
 - Telemetry latency: 17ms, QPS: 20580, Cache hit: 94.3%
 
+## [2025-04-21 12:57] docs(token-bucket-ratelimit): telemetry analysis and benchmark logs (2025-04-21 #4)
+- Telemetry latency: 26ms, QPS: 33407, Cache hit: 94.5%
+
