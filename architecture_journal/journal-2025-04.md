@@ -250,3 +250,6 @@
 ## [2025-04-21 12:57] docs(token-bucket-ratelimit): telemetry analysis and benchmark logs (2025-04-21 #4)
 - Telemetry latency: 26ms, QPS: 33407, Cache hit: 94.5%
 
+## [2025-04-21 13:28] test(vllm-serving): telemetry analysis and benchmark logs (2025-04-21 #5)
+- Telemetry latency: 37ms, QPS: 34069, Cache hit: 92.3%
+
