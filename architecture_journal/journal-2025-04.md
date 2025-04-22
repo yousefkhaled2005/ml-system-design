@@ -259,3 +259,6 @@
 ## [2025-04-22 13:52] docs(lmax-disruptor): telemetry analysis and benchmark logs (2025-04-22 #1)
 - Telemetry latency: 16ms, QPS: 43619, Cache hit: 92.8%
 
+## [2025-04-22 16:16] feat(qdrant-hybrid-search): telemetry analysis and benchmark logs (2025-04-22 #2)
+- Telemetry latency: 18ms, QPS: 22189, Cache hit: 94.8%
+
