@@ -271,3 +271,6 @@
 ## [2025-04-22 19:32] docs(cuda-kernel-tuning): telemetry analysis and benchmark logs (2025-04-22 #5)
 - Telemetry latency: 39ms, QPS: 12025, Cache hit: 98.5%
 
+## [2025-04-23 17:59] perf(qlora-4bit-sft): telemetry analysis and benchmark logs (2025-04-23 #1)
+- Telemetry latency: 41ms, QPS: 39975, Cache hit: 95.4%
+
