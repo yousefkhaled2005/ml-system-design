@@ -301,3 +301,6 @@
 ## [2025-04-25 20:1] feat(cache-locality): telemetry analysis and benchmark logs (2025-04-25 #3)
 - Telemetry latency: 19ms, QPS: 12736, Cache hit: 97.4%
 
+## [2025-04-26 9:37] perf(raft-heartbeat): telemetry analysis and benchmark logs (2025-04-26 #1)
+- Telemetry latency: 39ms, QPS: 26014, Cache hit: 98.7%
+
