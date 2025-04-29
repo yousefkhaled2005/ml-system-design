@@ -340,3 +340,6 @@
 ## [2025-04-29 11:3] refactor(cache-locality): telemetry analysis and benchmark logs (2025-04-29 #3)
 - Telemetry latency: 31ms, QPS: 28543, Cache hit: 96.7%
 
+## [2025-04-29 12:16] perf(qdrant-hybrid-search): telemetry analysis and benchmark logs (2025-04-29 #4)
+- Telemetry latency: 44ms, QPS: 28507, Cache hit: 92.7%
+
