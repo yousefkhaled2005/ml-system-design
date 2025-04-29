@@ -331,3 +331,6 @@
 ## [2025-04-28 11:9] test(cache-locality): telemetry analysis and benchmark logs (2025-04-28 #4)
 - Telemetry latency: 23ms, QPS: 51122, Cache hit: 94.6%
 
+## [2025-04-29 9:54] docs(cross-encoder-reranking): telemetry analysis and benchmark logs (2025-04-29 #1)
+- Telemetry latency: 20ms, QPS: 20614, Cache hit: 95.5%
+
