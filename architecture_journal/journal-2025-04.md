@@ -352,3 +352,6 @@
 ## [2025-04-30 15:47] docs(simd-avx512): telemetry analysis and benchmark logs (2025-04-30 #3)
 - Telemetry latency: 21ms, QPS: 18672, Cache hit: 94.2%
 
+## [2025-04-30 9:24] test(qlora-4bit-sft): telemetry analysis and benchmark logs (2025-04-30 #4)
+- Telemetry latency: 12ms, QPS: 46989, Cache hit: 95.8%
+
