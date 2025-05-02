@@ -7,3 +7,6 @@
 ## [2025-05-01 8:27] feat(qdrant-hybrid-search): telemetry analysis and benchmark logs (2025-05-01 #3)
 - Telemetry latency: 28ms, QPS: 23063, Cache hit: 94.1%
 
+## [2025-05-02 13:14] refactor(cross-encoder-reranking): telemetry analysis and benchmark logs (2025-05-02 #1)
+- Telemetry latency: 28ms, QPS: 35671, Cache hit: 98.6%
+
