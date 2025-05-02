@@ -16,3 +16,6 @@
 ## [2025-05-02 10:11] feat(distributed-consensus): telemetry analysis and benchmark logs (2025-05-02 #3)
 - Telemetry latency: 19ms, QPS: 51338, Cache hit: 98.1%
 
+## [2025-05-02 20:40] test(vllm-serving): telemetry analysis and benchmark logs (2025-05-02 #4)
+- Telemetry latency: 13ms, QPS: 17461, Cache hit: 98.3%
+
