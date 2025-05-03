@@ -22,3 +22,6 @@
 ## [2025-05-03 10:39] refactor(zero-copy-buffers): telemetry analysis and benchmark logs (2025-05-03 #1)
 - Telemetry latency: 36ms, QPS: 36318, Cache hit: 96.8%
 
+## [2025-05-03 10:47] refactor(qlora-4bit-sft): telemetry analysis and benchmark logs (2025-05-03 #2)
+- Telemetry latency: 28ms, QPS: 34803, Cache hit: 95.8%
+
