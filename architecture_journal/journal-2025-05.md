@@ -49,3 +49,6 @@
 ## [2025-05-06 13:56] docs(vllm-serving): telemetry analysis and benchmark logs (2025-05-06 #1)
 - Telemetry latency: 39ms, QPS: 40025, Cache hit: 92.7%
 
+## [2025-05-06 11:47] refactor(nvme-all-flash): telemetry analysis and benchmark logs (2025-05-06 #2)
+- Telemetry latency: 43ms, QPS: 32515, Cache hit: 93.2%
+
