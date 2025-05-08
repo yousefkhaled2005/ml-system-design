@@ -82,3 +82,6 @@
 ## [2025-05-08 15:14] docs(zero-copy-buffers): telemetry analysis and benchmark logs (2025-05-08 #2)
 - Telemetry latency: 39ms, QPS: 36753, Cache hit: 94.4%
 
+## [2025-05-08 18:26] test(hnsw-indexing): telemetry analysis and benchmark logs (2025-05-08 #3)
+- Telemetry latency: 13ms, QPS: 20261, Cache hit: 95.1%
+
