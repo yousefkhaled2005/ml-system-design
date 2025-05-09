@@ -94,3 +94,6 @@
 ## [2025-05-09 10:38] perf(roce-infiniband): telemetry analysis and benchmark logs (2025-05-09 #3)
 - Telemetry latency: 20ms, QPS: 13010, Cache hit: 93.8%
 
+## [2025-05-09 12:52] test(lock-free-queues): telemetry analysis and benchmark logs (2025-05-09 #4)
+- Telemetry latency: 16ms, QPS: 36554, Cache hit: 92.3%
+
