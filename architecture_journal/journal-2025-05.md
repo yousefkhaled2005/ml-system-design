@@ -115,3 +115,6 @@
 ## [2025-05-12 17:40] refactor(vllm-serving): telemetry analysis and benchmark logs (2025-05-12 #1)
 - Telemetry latency: 24ms, QPS: 44643, Cache hit: 94.2%
 
+## [2025-05-12 18:13] docs(grpc-protobuf-stream): telemetry analysis and benchmark logs (2025-05-12 #2)
+- Telemetry latency: 31ms, QPS: 39346, Cache hit: 95.7%
+
