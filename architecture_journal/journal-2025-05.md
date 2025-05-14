@@ -133,3 +133,6 @@
 ## [2025-05-13 14:28] perf(cross-encoder-reranking): telemetry analysis and benchmark logs (2025-05-13 #3)
 - Telemetry latency: 38ms, QPS: 43068, Cache hit: 98.1%
 
+## [2025-05-14 10:30] feat(speculative-decoding): telemetry analysis and benchmark logs (2025-05-14 #1)
+- Telemetry latency: 37ms, QPS: 52346, Cache hit: 95.7%
+
