@@ -163,3 +163,6 @@
 ## [2025-05-15 12:48] test(grpc-protobuf-stream): telemetry analysis and benchmark logs (2025-05-15 #4)
 - Telemetry latency: 43ms, QPS: 24611, Cache hit: 95.8%
 
+## [2025-05-16 20:18] docs(flash-attention-v2): telemetry analysis and benchmark logs (2025-05-16 #1)
+- Telemetry latency: 43ms, QPS: 23078, Cache hit: 95.6%
+
