@@ -223,3 +223,6 @@
 ## [2025-05-21 14:15] feat(lmax-disruptor): telemetry analysis and benchmark logs (2025-05-21 #3)
 - Telemetry latency: 15ms, QPS: 38043, Cache hit: 95.2%
 
+## [2025-05-21 20:40] docs(flash-attention-v2): telemetry analysis and benchmark logs (2025-05-21 #4)
+- Telemetry latency: 42ms, QPS: 17780, Cache hit: 98.5%
+
