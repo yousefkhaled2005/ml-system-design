@@ -220,3 +220,6 @@
 ## [2025-05-21 10:13] feat(dpo-loss-margin): telemetry analysis and benchmark logs (2025-05-21 #2)
 - Telemetry latency: 44ms, QPS: 49531, Cache hit: 97.6%
 
+## [2025-05-21 14:15] feat(lmax-disruptor): telemetry analysis and benchmark logs (2025-05-21 #3)
+- Telemetry latency: 15ms, QPS: 38043, Cache hit: 95.2%
+
