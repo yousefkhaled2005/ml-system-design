@@ -229,3 +229,6 @@
 ## [2025-05-22 12:0] test(vllm-serving): telemetry analysis and benchmark logs (2025-05-22 #1)
 - Telemetry latency: 41ms, QPS: 36206, Cache hit: 97.2%
 
+## [2025-05-22 17:48] docs(cache-locality): telemetry analysis and benchmark logs (2025-05-22 #2)
+- Telemetry latency: 25ms, QPS: 48010, Cache hit: 94.7%
+
