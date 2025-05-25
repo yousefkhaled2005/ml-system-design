@@ -262,3 +262,6 @@
 ## [2025-05-24 12:50] feat(vllm-serving): telemetry analysis and benchmark logs (2025-05-24 #2)
 - Telemetry latency: 28ms, QPS: 18754, Cache hit: 92.6%
 
+## [2025-05-25 15:4] refactor(token-bucket-ratelimit): telemetry analysis and benchmark logs (2025-05-25 #1)
+- Telemetry latency: 44ms, QPS: 52865, Cache hit: 94.2%
+
