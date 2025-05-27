@@ -277,3 +277,6 @@
 ## [2025-05-27 11:33] docs(token-bucket-ratelimit): telemetry analysis and benchmark logs (2025-05-27 #1)
 - Telemetry latency: 17ms, QPS: 34502, Cache hit: 95.2%
 
+## [2025-05-27 12:44] feat(roce-infiniband): telemetry analysis and benchmark logs (2025-05-27 #2)
+- Telemetry latency: 32ms, QPS: 12109, Cache hit: 98.2%
+
