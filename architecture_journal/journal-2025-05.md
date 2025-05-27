@@ -274,3 +274,6 @@
 ## [2025-05-26 18:14] test(distributed-consensus): telemetry analysis and benchmark logs (2025-05-26 #3)
 - Telemetry latency: 21ms, QPS: 51874, Cache hit: 94.6%
 
+## [2025-05-27 11:33] docs(token-bucket-ratelimit): telemetry analysis and benchmark logs (2025-05-27 #1)
+- Telemetry latency: 17ms, QPS: 34502, Cache hit: 95.2%
+
