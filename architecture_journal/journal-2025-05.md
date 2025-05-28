@@ -295,3 +295,6 @@
 ## [2025-05-28 10:49] refactor(chandy-lamport-snapshot): telemetry analysis and benchmark logs (2025-05-28 #4)
 - Telemetry latency: 22ms, QPS: 33417, Cache hit: 94.4%
 
+## [2025-05-28 11:23] perf(qlora-4bit-sft): telemetry analysis and benchmark logs (2025-05-28 #5)
+- Telemetry latency: 25ms, QPS: 23951, Cache hit: 93.2%
+
