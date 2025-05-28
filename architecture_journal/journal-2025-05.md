@@ -289,3 +289,6 @@
 ## [2025-05-28 17:11] perf(flash-attention-v2): telemetry analysis and benchmark logs (2025-05-28 #2)
 - Telemetry latency: 28ms, QPS: 34752, Cache hit: 97.3%
 
+## [2025-05-28 15:41] docs(lmax-disruptor): telemetry analysis and benchmark logs (2025-05-28 #3)
+- Telemetry latency: 12ms, QPS: 49483, Cache hit: 96.8%
+
