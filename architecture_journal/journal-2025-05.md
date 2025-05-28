@@ -292,3 +292,6 @@
 ## [2025-05-28 15:41] docs(lmax-disruptor): telemetry analysis and benchmark logs (2025-05-28 #3)
 - Telemetry latency: 12ms, QPS: 49483, Cache hit: 96.8%
 
+## [2025-05-28 10:49] refactor(chandy-lamport-snapshot): telemetry analysis and benchmark logs (2025-05-28 #4)
+- Telemetry latency: 22ms, QPS: 33417, Cache hit: 94.4%
+
