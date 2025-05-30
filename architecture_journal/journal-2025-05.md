@@ -319,3 +319,6 @@
 ## [2025-05-30 18:16] feat(langgraph-state-machine): telemetry analysis and benchmark logs (2025-05-30 #2)
 - Telemetry latency: 41ms, QPS: 26477, Cache hit: 94.2%
 
+## [2025-05-30 19:15] perf(qdrant-hybrid-search): telemetry analysis and benchmark logs (2025-05-30 #3)
+- Telemetry latency: 14ms, QPS: 50260, Cache hit: 96.1%
+
