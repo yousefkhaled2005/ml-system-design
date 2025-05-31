@@ -322,3 +322,6 @@
 ## [2025-05-30 19:15] perf(qdrant-hybrid-search): telemetry analysis and benchmark logs (2025-05-30 #3)
 - Telemetry latency: 14ms, QPS: 50260, Cache hit: 96.1%
 
+## [2025-05-31 10:12] test(vllm-serving): telemetry analysis and benchmark logs (2025-05-31 #1)
+- Telemetry latency: 28ms, QPS: 33734, Cache hit: 96.6%
+
