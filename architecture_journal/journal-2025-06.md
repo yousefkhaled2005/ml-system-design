@@ -10,3 +10,6 @@
 ## [2025-06-02 9:14] refactor(roce-infiniband): telemetry analysis and benchmark logs (2025-06-02 #2)
 - Telemetry latency: 43ms, QPS: 12848, Cache hit: 97.4%
 
+## [2025-06-02 14:11] docs(cross-encoder-reranking): telemetry analysis and benchmark logs (2025-06-02 #3)
+- Telemetry latency: 39ms, QPS: 22338, Cache hit: 96.8%
+
