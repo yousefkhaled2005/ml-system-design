@@ -37,3 +37,6 @@
 ## [2025-06-04 15:2] feat(raft-heartbeat): telemetry analysis and benchmark logs (2025-06-04 #3)
 - Telemetry latency: 30ms, QPS: 36633, Cache hit: 94.5%
 
+## [2025-06-04 15:34] perf(speculative-decoding): telemetry analysis and benchmark logs (2025-06-04 #4)
+- Telemetry latency: 13ms, QPS: 50762, Cache hit: 96.2%
+
