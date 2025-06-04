@@ -31,3 +31,6 @@
 ## [2025-06-04 20:48] refactor(lmax-disruptor): telemetry analysis and benchmark logs (2025-06-04 #1)
 - Telemetry latency: 43ms, QPS: 26455, Cache hit: 93.2%
 
+## [2025-06-04 8:19] refactor(zero-copy-buffers): telemetry analysis and benchmark logs (2025-06-04 #2)
+- Telemetry latency: 14ms, QPS: 38663, Cache hit: 92.7%
+
