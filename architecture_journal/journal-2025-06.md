@@ -40,3 +40,6 @@
 ## [2025-06-04 15:34] perf(speculative-decoding): telemetry analysis and benchmark logs (2025-06-04 #4)
 - Telemetry latency: 13ms, QPS: 50762, Cache hit: 96.2%
 
+## [2025-06-05 18:39] feat(simd-avx512): telemetry analysis and benchmark logs (2025-06-05 #1)
+- Telemetry latency: 36ms, QPS: 16672, Cache hit: 92.2%
+
