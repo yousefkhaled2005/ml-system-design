@@ -49,3 +49,6 @@
 ## [2025-06-05 18:44] docs(token-bucket-ratelimit): telemetry analysis and benchmark logs (2025-06-05 #3)
 - Telemetry latency: 41ms, QPS: 24990, Cache hit: 98.3%
 
+## [2025-06-05 11:32] feat(langgraph-state-machine): telemetry analysis and benchmark logs (2025-06-05 #4)
+- Telemetry latency: 20ms, QPS: 33478, Cache hit: 94.2%
+
