@@ -70,3 +70,6 @@
 ## [2025-06-07 15:11] feat(distributed-consensus): telemetry analysis and benchmark logs (2025-06-07 #2)
 - Telemetry latency: 40ms, QPS: 47880, Cache hit: 94.5%
 
+## [2025-06-08 13:49] perf(chandy-lamport-snapshot): telemetry analysis and benchmark logs (2025-06-08 #1)
+- Telemetry latency: 25ms, QPS: 23967, Cache hit: 94.7%
+
