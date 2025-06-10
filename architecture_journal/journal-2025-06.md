@@ -85,3 +85,6 @@
 ## [2025-06-09 11:36] feat(lock-free-queues): telemetry analysis and benchmark logs (2025-06-09 #3)
 - Telemetry latency: 23ms, QPS: 31909, Cache hit: 94.1%
 
+## [2025-06-10 18:40] test(lmax-disruptor): telemetry analysis and benchmark logs (2025-06-10 #1)
+- Telemetry latency: 42ms, QPS: 47178, Cache hit: 92.2%
+
