@@ -100,3 +100,6 @@
 ## [2025-06-10 15:49] refactor(qdrant-hybrid-search): telemetry analysis and benchmark logs (2025-06-10 #5)
 - Telemetry latency: 16ms, QPS: 33697, Cache hit: 95.1%
 
+## [2025-06-10 17:38] refactor(flash-attention-v2): telemetry analysis and benchmark logs (2025-06-10 #6)
+- Telemetry latency: 37ms, QPS: 12812, Cache hit: 94.3%
+
