@@ -112,3 +112,6 @@
 ## [2025-06-11 16:18] feat(chandy-lamport-snapshot): telemetry analysis and benchmark logs (2025-06-11 #3)
 - Telemetry latency: 40ms, QPS: 34323, Cache hit: 92.6%
 
+## [2025-06-12 19:49] refactor(hnsw-indexing): telemetry analysis and benchmark logs (2025-06-12 #1)
+- Telemetry latency: 32ms, QPS: 47604, Cache hit: 96.5%
+
