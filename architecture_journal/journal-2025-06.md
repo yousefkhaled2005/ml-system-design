@@ -130,3 +130,6 @@
 ## [2025-06-13 9:12] feat(roce-infiniband): telemetry analysis and benchmark logs (2025-06-13 #2)
 - Telemetry latency: 28ms, QPS: 22569, Cache hit: 94.3%
 
+## [2025-06-13 15:27] perf(cache-locality): telemetry analysis and benchmark logs (2025-06-13 #3)
+- Telemetry latency: 22ms, QPS: 43169, Cache hit: 95.5%
+
