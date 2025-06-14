@@ -139,3 +139,6 @@
 ## [2025-06-13 18:46] feat(speculative-decoding): telemetry analysis and benchmark logs (2025-06-13 #5)
 - Telemetry latency: 28ms, QPS: 53113, Cache hit: 93.7%
 
+## [2025-06-14 16:12] refactor(chandy-lamport-snapshot): telemetry analysis and benchmark logs (2025-06-14 #1)
+- Telemetry latency: 20ms, QPS: 34006, Cache hit: 92.2%
+
