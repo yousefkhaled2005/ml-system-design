@@ -163,3 +163,6 @@
 ## [2025-06-16 14:22] perf(nvme-all-flash): telemetry analysis and benchmark logs (2025-06-16 #3)
 - Telemetry latency: 24ms, QPS: 24418, Cache hit: 95.7%
 
+## [2025-06-16 11:4] docs(lmax-disruptor): telemetry analysis and benchmark logs (2025-06-16 #4)
+- Telemetry latency: 38ms, QPS: 18524, Cache hit: 97.3%
+
