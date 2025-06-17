@@ -178,3 +178,6 @@
 ## [2025-06-17 13:38] refactor(chandy-lamport-snapshot): telemetry analysis and benchmark logs (2025-06-17 #4)
 - Telemetry latency: 43ms, QPS: 38624, Cache hit: 96.1%
 
+## [2025-06-17 9:57] test(zero-copy-buffers): telemetry analysis and benchmark logs (2025-06-17 #5)
+- Telemetry latency: 13ms, QPS: 18679, Cache hit: 93.1%
+
