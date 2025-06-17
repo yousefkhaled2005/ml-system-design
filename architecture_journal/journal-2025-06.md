@@ -172,3 +172,6 @@
 ## [2025-06-17 18:24] docs(cache-locality): telemetry analysis and benchmark logs (2025-06-17 #2)
 - Telemetry latency: 30ms, QPS: 24663, Cache hit: 92.1%
 
+## [2025-06-17 15:22] feat(hnsw-indexing): telemetry analysis and benchmark logs (2025-06-17 #3)
+- Telemetry latency: 24ms, QPS: 41127, Cache hit: 94.4%
+
