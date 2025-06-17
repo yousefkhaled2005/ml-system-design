@@ -166,3 +166,6 @@
 ## [2025-06-16 11:4] docs(lmax-disruptor): telemetry analysis and benchmark logs (2025-06-16 #4)
 - Telemetry latency: 38ms, QPS: 18524, Cache hit: 97.3%
 
+## [2025-06-17 11:45] feat(langgraph-state-machine): telemetry analysis and benchmark logs (2025-06-17 #1)
+- Telemetry latency: 42ms, QPS: 45853, Cache hit: 92.7%
+
