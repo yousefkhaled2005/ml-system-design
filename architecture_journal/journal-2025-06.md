@@ -175,3 +175,6 @@
 ## [2025-06-17 15:22] feat(hnsw-indexing): telemetry analysis and benchmark logs (2025-06-17 #3)
 - Telemetry latency: 24ms, QPS: 41127, Cache hit: 94.4%
 
+## [2025-06-17 13:38] refactor(chandy-lamport-snapshot): telemetry analysis and benchmark logs (2025-06-17 #4)
+- Telemetry latency: 43ms, QPS: 38624, Cache hit: 96.1%
+
