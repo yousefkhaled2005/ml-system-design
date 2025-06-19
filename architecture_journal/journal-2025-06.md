@@ -211,3 +211,6 @@
 ## [2025-06-19 13:54] feat(kv-cache-compression): telemetry analysis and benchmark logs (2025-06-19 #3)
 - Telemetry latency: 38ms, QPS: 38449, Cache hit: 96.3%
 
+## [2025-06-19 19:18] perf(grpc-protobuf-stream): telemetry analysis and benchmark logs (2025-06-19 #4)
+- Telemetry latency: 44ms, QPS: 47826, Cache hit: 95.4%
+
