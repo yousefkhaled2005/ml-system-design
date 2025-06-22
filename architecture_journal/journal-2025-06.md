@@ -229,3 +229,6 @@
 ## [2025-06-21 14:8] refactor(lock-free-queues): telemetry analysis and benchmark logs (2025-06-21 #1)
 - Telemetry latency: 19ms, QPS: 27197, Cache hit: 97.7%
 
+## [2025-06-22 11:26] docs(grpc-protobuf-stream): telemetry analysis and benchmark logs (2025-06-22 #1)
+- Telemetry latency: 17ms, QPS: 42075, Cache hit: 96.7%
+
