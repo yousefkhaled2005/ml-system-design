@@ -232,3 +232,6 @@
 ## [2025-06-22 11:26] docs(grpc-protobuf-stream): telemetry analysis and benchmark logs (2025-06-22 #1)
 - Telemetry latency: 17ms, QPS: 42075, Cache hit: 96.7%
 
+## [2025-06-22 19:17] feat(qdrant-hybrid-search): telemetry analysis and benchmark logs (2025-06-22 #2)
+- Telemetry latency: 23ms, QPS: 48908, Cache hit: 93.1%
+
