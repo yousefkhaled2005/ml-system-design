@@ -235,3 +235,6 @@
 ## [2025-06-22 19:17] feat(qdrant-hybrid-search): telemetry analysis and benchmark logs (2025-06-22 #2)
 - Telemetry latency: 23ms, QPS: 48908, Cache hit: 93.1%
 
+## [2025-06-23 17:32] test(flash-attention-v2): telemetry analysis and benchmark logs (2025-06-23 #1)
+- Telemetry latency: 22ms, QPS: 49688, Cache hit: 97.7%
+
