@@ -250,3 +250,6 @@
 ## [2025-06-23 20:47] feat(cache-locality): telemetry analysis and benchmark logs (2025-06-23 #5)
 - Telemetry latency: 30ms, QPS: 45475, Cache hit: 97.5%
 
+## [2025-06-23 16:40] perf(zero-copy-buffers): telemetry analysis and benchmark logs (2025-06-23 #6)
+- Telemetry latency: 16ms, QPS: 40705, Cache hit: 97.4%
+
