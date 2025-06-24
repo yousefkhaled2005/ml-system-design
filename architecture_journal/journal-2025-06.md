@@ -253,3 +253,6 @@
 ## [2025-06-23 16:40] perf(zero-copy-buffers): telemetry analysis and benchmark logs (2025-06-23 #6)
 - Telemetry latency: 16ms, QPS: 40705, Cache hit: 97.4%
 
+## [2025-06-24 18:39] perf(langgraph-state-machine): telemetry analysis and benchmark logs (2025-06-24 #1)
+- Telemetry latency: 17ms, QPS: 39848, Cache hit: 98.2%
+
