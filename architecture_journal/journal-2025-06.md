@@ -262,3 +262,6 @@
 ## [2025-06-24 15:55] feat(chandy-lamport-snapshot): telemetry analysis and benchmark logs (2025-06-24 #3)
 - Telemetry latency: 30ms, QPS: 26628, Cache hit: 95.5%
 
+## [2025-06-24 19:6] test(langgraph-state-machine): telemetry analysis and benchmark logs (2025-06-24 #4)
+- Telemetry latency: 24ms, QPS: 29629, Cache hit: 92.7%
+
