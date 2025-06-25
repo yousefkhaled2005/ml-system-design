@@ -271,3 +271,6 @@
 ## [2025-06-25 13:2] feat(lock-free-queues): telemetry analysis and benchmark logs (2025-06-25 #2)
 - Telemetry latency: 32ms, QPS: 44175, Cache hit: 92.2%
 
+## [2025-06-25 16:30] test(cache-locality): telemetry analysis and benchmark logs (2025-06-25 #3)
+- Telemetry latency: 21ms, QPS: 34965, Cache hit: 93.6%
+
