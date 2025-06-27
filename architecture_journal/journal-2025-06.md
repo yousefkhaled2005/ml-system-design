@@ -289,3 +289,6 @@
 ## [2025-06-27 8:11] test(qdrant-hybrid-search): telemetry analysis and benchmark logs (2025-06-27 #1)
 - Telemetry latency: 20ms, QPS: 42634, Cache hit: 93.1%
 
+## [2025-06-27 11:10] test(nvme-all-flash): telemetry analysis and benchmark logs (2025-06-27 #2)
+- Telemetry latency: 40ms, QPS: 39668, Cache hit: 95.4%
+
