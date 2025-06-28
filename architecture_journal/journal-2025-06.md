@@ -301,3 +301,6 @@
 ## [2025-06-27 15:50] perf(lmax-disruptor): telemetry analysis and benchmark logs (2025-06-27 #5)
 - Telemetry latency: 37ms, QPS: 23017, Cache hit: 97.4%
 
+## [2025-06-28 11:16] docs(token-bucket-ratelimit): telemetry analysis and benchmark logs (2025-06-28 #1)
+- Telemetry latency: 32ms, QPS: 33991, Cache hit: 94.7%
+
