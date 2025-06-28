@@ -304,3 +304,6 @@
 ## [2025-06-28 11:16] docs(token-bucket-ratelimit): telemetry analysis and benchmark logs (2025-06-28 #1)
 - Telemetry latency: 32ms, QPS: 33991, Cache hit: 94.7%
 
+## [2025-06-28 10:27] docs(raft-heartbeat): telemetry analysis and benchmark logs (2025-06-28 #2)
+- Telemetry latency: 17ms, QPS: 50974, Cache hit: 95.8%
+
