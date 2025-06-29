@@ -313,3 +313,6 @@
 ## [2025-06-29 11:38] docs(vllm-serving): telemetry analysis and benchmark logs (2025-06-29 #2)
 - Telemetry latency: 20ms, QPS: 14313, Cache hit: 94.8%
 
+## [2025-06-29 14:16] docs(flash-attention-v2): telemetry analysis and benchmark logs (2025-06-29 #3)
+- Telemetry latency: 32ms, QPS: 51279, Cache hit: 94.1%
+
