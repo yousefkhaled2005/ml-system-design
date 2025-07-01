@@ -4,3 +4,6 @@
 ## [2025-07-01 17:26] perf(simd-avx512): telemetry analysis and benchmark logs (2025-07-01 #2)
 - Telemetry latency: 29ms, QPS: 42115, Cache hit: 95.8%
 
+## [2025-07-01 19:40] feat(roce-infiniband): telemetry analysis and benchmark logs (2025-07-01 #3)
+- Telemetry latency: 40ms, QPS: 28875, Cache hit: 95.5%
+
