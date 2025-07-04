@@ -46,3 +46,6 @@
 ## [2025-07-04 11:14] test(distributed-consensus): telemetry analysis and benchmark logs (2025-07-04 #4)
 - Telemetry latency: 35ms, QPS: 44326, Cache hit: 97.6%
 
+## [2025-07-04 12:2] test(zero-copy-buffers): telemetry analysis and benchmark logs (2025-07-04 #5)
+- Telemetry latency: 35ms, QPS: 47067, Cache hit: 92.8%
+
