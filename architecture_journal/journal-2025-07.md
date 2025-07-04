@@ -37,3 +37,6 @@
 ## [2025-07-04 10:36] docs(vllm-serving): telemetry analysis and benchmark logs (2025-07-04 #1)
 - Telemetry latency: 14ms, QPS: 30707, Cache hit: 92.6%
 
+## [2025-07-04 10:49] perf(dpo-loss-margin): telemetry analysis and benchmark logs (2025-07-04 #2)
+- Telemetry latency: 39ms, QPS: 52497, Cache hit: 94.5%
+
