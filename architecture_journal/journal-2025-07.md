@@ -61,3 +61,6 @@
 ## [2025-07-06 14:13] feat(grpc-protobuf-stream): telemetry analysis and benchmark logs (2025-07-06 #1)
 - Telemetry latency: 33ms, QPS: 36476, Cache hit: 96.6%
 
+## [2025-07-07 19:33] perf(raft-heartbeat): telemetry analysis and benchmark logs (2025-07-07 #1)
+- Telemetry latency: 14ms, QPS: 21212, Cache hit: 98.5%
+
