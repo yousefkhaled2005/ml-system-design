@@ -88,3 +88,6 @@
 ## [2025-07-08 13:12] refactor(raft-heartbeat): telemetry analysis and benchmark logs (2025-07-08 #3)
 - Telemetry latency: 16ms, QPS: 22467, Cache hit: 93.2%
 
+## [2025-07-09 19:57] docs(paged-attention): telemetry analysis and benchmark logs (2025-07-09 #1)
+- Telemetry latency: 37ms, QPS: 47275, Cache hit: 94.4%
+
