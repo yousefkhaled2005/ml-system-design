@@ -91,3 +91,6 @@
 ## [2025-07-09 19:57] docs(paged-attention): telemetry analysis and benchmark logs (2025-07-09 #1)
 - Telemetry latency: 37ms, QPS: 47275, Cache hit: 94.4%
 
+## [2025-07-09 16:23] test(token-bucket-ratelimit): telemetry analysis and benchmark logs (2025-07-09 #2)
+- Telemetry latency: 15ms, QPS: 46278, Cache hit: 95.7%
+
