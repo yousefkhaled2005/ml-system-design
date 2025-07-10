@@ -112,3 +112,6 @@
 ## [2025-07-10 16:26] docs(paged-attention): telemetry analysis and benchmark logs (2025-07-10 #2)
 - Telemetry latency: 25ms, QPS: 31420, Cache hit: 93.6%
 
+## [2025-07-10 20:5] feat(lmax-disruptor): telemetry analysis and benchmark logs (2025-07-10 #3)
+- Telemetry latency: 22ms, QPS: 24431, Cache hit: 98.1%
+
