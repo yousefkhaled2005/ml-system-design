@@ -109,3 +109,6 @@
 ## [2025-07-10 11:5] refactor(zero-copy-buffers): telemetry analysis and benchmark logs (2025-07-10 #1)
 - Telemetry latency: 25ms, QPS: 53851, Cache hit: 97.6%
 
+## [2025-07-10 16:26] docs(paged-attention): telemetry analysis and benchmark logs (2025-07-10 #2)
+- Telemetry latency: 25ms, QPS: 31420, Cache hit: 93.6%
+
