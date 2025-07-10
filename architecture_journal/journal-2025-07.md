@@ -118,3 +118,6 @@
 ## [2025-07-10 8:5] feat(flash-attention-v2): telemetry analysis and benchmark logs (2025-07-10 #4)
 - Telemetry latency: 36ms, QPS: 44879, Cache hit: 96.8%
 
+## [2025-07-10 17:2] test(cache-locality): telemetry analysis and benchmark logs (2025-07-10 #5)
+- Telemetry latency: 44ms, QPS: 28628, Cache hit: 98.6%
+
