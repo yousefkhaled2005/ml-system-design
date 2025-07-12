@@ -142,3 +142,6 @@
 ## [2025-07-12 12:2] feat(grpc-protobuf-stream): telemetry analysis and benchmark logs (2025-07-12 #2)
 - Telemetry latency: 17ms, QPS: 38613, Cache hit: 97.5%
 
+## [2025-07-12 9:9] test(nvme-all-flash): telemetry analysis and benchmark logs (2025-07-12 #3)
+- Telemetry latency: 33ms, QPS: 22393, Cache hit: 94.3%
+
