@@ -154,3 +154,6 @@
 ## [2025-07-13 17:50] test(cross-encoder-reranking): telemetry analysis and benchmark logs (2025-07-13 #3)
 - Telemetry latency: 12ms, QPS: 24770, Cache hit: 94.2%
 
+## [2025-07-14 17:32] test(nvme-all-flash): telemetry analysis and benchmark logs (2025-07-14 #1)
+- Telemetry latency: 26ms, QPS: 16314, Cache hit: 97.7%
+
