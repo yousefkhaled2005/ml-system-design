@@ -163,3 +163,6 @@
 ## [2025-07-14 17:40] docs(lmax-disruptor): telemetry analysis and benchmark logs (2025-07-14 #3)
 - Telemetry latency: 33ms, QPS: 36308, Cache hit: 97.5%
 
+## [2025-07-14 8:41] test(lock-free-queues): telemetry analysis and benchmark logs (2025-07-14 #4)
+- Telemetry latency: 30ms, QPS: 54297, Cache hit: 94.6%
+
