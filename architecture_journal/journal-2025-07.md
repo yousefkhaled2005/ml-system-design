@@ -166,3 +166,6 @@
 ## [2025-07-14 8:41] test(lock-free-queues): telemetry analysis and benchmark logs (2025-07-14 #4)
 - Telemetry latency: 30ms, QPS: 54297, Cache hit: 94.6%
 
+## [2025-07-14 20:47] docs(flash-attention-v2): telemetry analysis and benchmark logs (2025-07-14 #5)
+- Telemetry latency: 26ms, QPS: 26136, Cache hit: 93.5%
+
