@@ -214,3 +214,6 @@
 ## [2025-07-18 14:51] feat(vllm-serving): telemetry analysis and benchmark logs (2025-07-18 #1)
 - Telemetry latency: 18ms, QPS: 24984, Cache hit: 95.5%
 
+## [2025-07-18 13:40] docs(nvme-all-flash): telemetry analysis and benchmark logs (2025-07-18 #2)
+- Telemetry latency: 16ms, QPS: 42564, Cache hit: 93.3%
+
