@@ -229,3 +229,6 @@
 ## [2025-07-19 9:59] refactor(dpo-loss-margin): telemetry analysis and benchmark logs (2025-07-19 #1)
 - Telemetry latency: 34ms, QPS: 47025, Cache hit: 94.2%
 
+## [2025-07-19 18:14] docs(token-bucket-ratelimit): telemetry analysis and benchmark logs (2025-07-19 #2)
+- Telemetry latency: 14ms, QPS: 17391, Cache hit: 96.5%
+
