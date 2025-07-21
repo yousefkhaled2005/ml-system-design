@@ -253,3 +253,6 @@
 ## [2025-07-21 12:50] test(token-bucket-ratelimit): telemetry analysis and benchmark logs (2025-07-21 #3)
 - Telemetry latency: 31ms, QPS: 47721, Cache hit: 92.3%
 
+## [2025-07-21 14:23] test(grpc-protobuf-stream): telemetry analysis and benchmark logs (2025-07-21 #4)
+- Telemetry latency: 26ms, QPS: 19880, Cache hit: 97.5%
+
