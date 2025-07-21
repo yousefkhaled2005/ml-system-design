@@ -250,3 +250,6 @@
 ## [2025-07-21 15:16] refactor(raft-heartbeat): telemetry analysis and benchmark logs (2025-07-21 #2)
 - Telemetry latency: 36ms, QPS: 21688, Cache hit: 96.8%
 
+## [2025-07-21 12:50] test(token-bucket-ratelimit): telemetry analysis and benchmark logs (2025-07-21 #3)
+- Telemetry latency: 31ms, QPS: 47721, Cache hit: 92.3%
+
