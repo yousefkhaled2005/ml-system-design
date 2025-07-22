@@ -268,3 +268,6 @@
 ## [2025-07-22 14:15] test(flash-attention-v2): telemetry analysis and benchmark logs (2025-07-22 #2)
 - Telemetry latency: 16ms, QPS: 52184, Cache hit: 98.3%
 
+## [2025-07-22 8:11] test(token-bucket-ratelimit): telemetry analysis and benchmark logs (2025-07-22 #3)
+- Telemetry latency: 33ms, QPS: 46506, Cache hit: 98.1%
+
