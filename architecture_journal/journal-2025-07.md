@@ -301,3 +301,6 @@
 ## [2025-07-24 19:21] feat(kv-cache-compression): telemetry analysis and benchmark logs (2025-07-24 #3)
 - Telemetry latency: 34ms, QPS: 26077, Cache hit: 96.3%
 
+## [2025-07-24 8:1] docs(speculative-decoding): telemetry analysis and benchmark logs (2025-07-24 #4)
+- Telemetry latency: 23ms, QPS: 16779, Cache hit: 97.6%
+
