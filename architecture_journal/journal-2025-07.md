@@ -292,3 +292,6 @@
 ## [2025-07-23 11:35] docs(qlora-4bit-sft): telemetry analysis and benchmark logs (2025-07-23 #6)
 - Telemetry latency: 30ms, QPS: 38722, Cache hit: 98.8%
 
+## [2025-07-24 14:22] test(qlora-4bit-sft): telemetry analysis and benchmark logs (2025-07-24 #1)
+- Telemetry latency: 17ms, QPS: 15115, Cache hit: 93.5%
+
