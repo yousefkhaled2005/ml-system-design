@@ -304,3 +304,6 @@
 ## [2025-07-24 8:1] docs(speculative-decoding): telemetry analysis and benchmark logs (2025-07-24 #4)
 - Telemetry latency: 23ms, QPS: 16779, Cache hit: 97.6%
 
+## [2025-07-24 16:38] refactor(chandy-lamport-snapshot): telemetry analysis and benchmark logs (2025-07-24 #5)
+- Telemetry latency: 20ms, QPS: 29991, Cache hit: 95.3%
+
