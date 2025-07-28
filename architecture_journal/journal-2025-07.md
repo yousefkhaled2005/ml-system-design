@@ -340,3 +340,6 @@
 ## [2025-07-28 13:11] test(vllm-serving): telemetry analysis and benchmark logs (2025-07-28 #2)
 - Telemetry latency: 38ms, QPS: 48114, Cache hit: 92.2%
 
+## [2025-07-28 17:20] docs(grpc-protobuf-stream): telemetry analysis and benchmark logs (2025-07-28 #3)
+- Telemetry latency: 36ms, QPS: 52999, Cache hit: 92.4%
+
