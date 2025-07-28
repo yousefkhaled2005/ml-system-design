@@ -334,3 +334,6 @@
 ## [2025-07-27 14:40] docs(cache-locality): telemetry analysis and benchmark logs (2025-07-27 #2)
 - Telemetry latency: 17ms, QPS: 13546, Cache hit: 97.3%
 
+## [2025-07-28 12:9] feat(paged-attention): telemetry analysis and benchmark logs (2025-07-28 #1)
+- Telemetry latency: 13ms, QPS: 31310, Cache hit: 94.7%
+
