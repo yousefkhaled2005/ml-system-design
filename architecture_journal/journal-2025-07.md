@@ -355,3 +355,6 @@
 ## [2025-07-29 20:52] feat(simd-avx512): telemetry analysis and benchmark logs (2025-07-29 #3)
 - Telemetry latency: 28ms, QPS: 33739, Cache hit: 93.6%
 
+## [2025-07-30 10:13] test(langgraph-state-machine): telemetry analysis and benchmark logs (2025-07-30 #1)
+- Telemetry latency: 33ms, QPS: 22838, Cache hit: 95.1%
+
