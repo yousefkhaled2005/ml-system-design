@@ -370,3 +370,6 @@
 ## [2025-07-30 20:9] docs(vllm-serving): telemetry analysis and benchmark logs (2025-07-30 #5)
 - Telemetry latency: 35ms, QPS: 50641, Cache hit: 95.6%
 
+## [2025-07-30 19:0] docs(speculative-decoding): telemetry analysis and benchmark logs (2025-07-30 #6)
+- Telemetry latency: 40ms, QPS: 43705, Cache hit: 94.7%
+
