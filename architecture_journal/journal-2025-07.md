@@ -361,3 +361,6 @@
 ## [2025-07-30 10:4] perf(cross-encoder-reranking): telemetry analysis and benchmark logs (2025-07-30 #2)
 - Telemetry latency: 39ms, QPS: 50295, Cache hit: 96.5%
 
+## [2025-07-30 19:56] perf(dpo-loss-margin): telemetry analysis and benchmark logs (2025-07-30 #3)
+- Telemetry latency: 14ms, QPS: 15284, Cache hit: 97.1%
+
