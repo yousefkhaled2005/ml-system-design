@@ -22,3 +22,6 @@
 ## [2025-08-03 17:55] docs(distributed-consensus): telemetry analysis and benchmark logs (2025-08-03 #1)
 - Telemetry latency: 24ms, QPS: 39179, Cache hit: 94.5%
 
+## [2025-08-03 12:40] docs(kv-cache-compression): telemetry analysis and benchmark logs (2025-08-03 #2)
+- Telemetry latency: 13ms, QPS: 12465, Cache hit: 95.1%
+
