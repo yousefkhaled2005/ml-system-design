@@ -37,3 +37,6 @@
 ## [2025-08-04 14:20] perf(cache-locality): telemetry analysis and benchmark logs (2025-08-04 #4)
 - Telemetry latency: 37ms, QPS: 23060, Cache hit: 94.6%
 
+## [2025-08-04 16:21] test(speculative-decoding): telemetry analysis and benchmark logs (2025-08-04 #5)
+- Telemetry latency: 19ms, QPS: 36339, Cache hit: 92.4%
+
