@@ -40,3 +40,6 @@
 ## [2025-08-04 16:21] test(speculative-decoding): telemetry analysis and benchmark logs (2025-08-04 #5)
 - Telemetry latency: 19ms, QPS: 36339, Cache hit: 92.4%
 
+## [2025-08-05 9:0] refactor(qdrant-hybrid-search): telemetry analysis and benchmark logs (2025-08-05 #1)
+- Telemetry latency: 23ms, QPS: 31868, Cache hit: 98.1%
+
