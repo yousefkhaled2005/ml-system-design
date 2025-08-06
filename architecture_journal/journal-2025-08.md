@@ -58,3 +58,6 @@
 ## [2025-08-06 14:26] refactor(dpo-loss-margin): telemetry analysis and benchmark logs (2025-08-06 #3)
 - Telemetry latency: 12ms, QPS: 54041, Cache hit: 96.2%
 
+## [2025-08-06 16:52] refactor(speculative-decoding): telemetry analysis and benchmark logs (2025-08-06 #4)
+- Telemetry latency: 36ms, QPS: 44979, Cache hit: 95.3%
+
