@@ -61,3 +61,6 @@
 ## [2025-08-06 16:52] refactor(speculative-decoding): telemetry analysis and benchmark logs (2025-08-06 #4)
 - Telemetry latency: 36ms, QPS: 44979, Cache hit: 95.3%
 
+## [2025-08-07 14:35] test(grpc-protobuf-stream): telemetry analysis and benchmark logs (2025-08-07 #1)
+- Telemetry latency: 35ms, QPS: 38972, Cache hit: 96.7%
+
