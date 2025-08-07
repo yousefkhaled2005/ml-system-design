@@ -76,3 +76,6 @@
 ## [2025-08-07 9:17] test(zero-copy-buffers): telemetry analysis and benchmark logs (2025-08-07 #5)
 - Telemetry latency: 17ms, QPS: 48761, Cache hit: 97.3%
 
+## [2025-08-07 11:43] feat(token-bucket-ratelimit): telemetry analysis and benchmark logs (2025-08-07 #6)
+- Telemetry latency: 34ms, QPS: 29060, Cache hit: 95.2%
+
