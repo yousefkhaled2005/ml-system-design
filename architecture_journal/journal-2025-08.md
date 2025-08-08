@@ -79,3 +79,6 @@
 ## [2025-08-07 11:43] feat(token-bucket-ratelimit): telemetry analysis and benchmark logs (2025-08-07 #6)
 - Telemetry latency: 34ms, QPS: 29060, Cache hit: 95.2%
 
+## [2025-08-08 14:34] test(qlora-4bit-sft): telemetry analysis and benchmark logs (2025-08-08 #1)
+- Telemetry latency: 39ms, QPS: 22852, Cache hit: 95.4%
+
