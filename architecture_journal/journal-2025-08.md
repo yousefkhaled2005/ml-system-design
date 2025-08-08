@@ -85,3 +85,6 @@
 ## [2025-08-08 8:27] perf(qdrant-hybrid-search): telemetry analysis and benchmark logs (2025-08-08 #2)
 - Telemetry latency: 14ms, QPS: 14010, Cache hit: 92.2%
 
+## [2025-08-08 20:21] refactor(lmax-disruptor): telemetry analysis and benchmark logs (2025-08-08 #3)
+- Telemetry latency: 32ms, QPS: 44787, Cache hit: 93.3%
+
