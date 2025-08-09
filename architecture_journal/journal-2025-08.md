@@ -88,3 +88,6 @@
 ## [2025-08-08 20:21] refactor(lmax-disruptor): telemetry analysis and benchmark logs (2025-08-08 #3)
 - Telemetry latency: 32ms, QPS: 44787, Cache hit: 93.3%
 
+## [2025-08-09 13:13] refactor(nvme-all-flash): telemetry analysis and benchmark logs (2025-08-09 #1)
+- Telemetry latency: 42ms, QPS: 22709, Cache hit: 94.1%
+
