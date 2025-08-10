@@ -97,3 +97,6 @@
 ## [2025-08-10 16:25] refactor(cache-locality): telemetry analysis and benchmark logs (2025-08-10 #1)
 - Telemetry latency: 15ms, QPS: 32924, Cache hit: 95.3%
 
+## [2025-08-10 10:18] refactor(roce-infiniband): telemetry analysis and benchmark logs (2025-08-10 #2)
+- Telemetry latency: 29ms, QPS: 34650, Cache hit: 98.6%
+
