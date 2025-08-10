@@ -94,3 +94,6 @@
 ## [2025-08-09 18:24] feat(lmax-disruptor): telemetry analysis and benchmark logs (2025-08-09 #2)
 - Telemetry latency: 19ms, QPS: 13996, Cache hit: 98.4%
 
+## [2025-08-10 16:25] refactor(cache-locality): telemetry analysis and benchmark logs (2025-08-10 #1)
+- Telemetry latency: 15ms, QPS: 32924, Cache hit: 95.3%
+
