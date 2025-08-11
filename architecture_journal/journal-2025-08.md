@@ -106,3 +106,6 @@
 ## [2025-08-11 10:55] perf(speculative-decoding): telemetry analysis and benchmark logs (2025-08-11 #2)
 - Telemetry latency: 23ms, QPS: 36380, Cache hit: 96.2%
 
+## [2025-08-11 15:27] feat(roce-infiniband): telemetry analysis and benchmark logs (2025-08-11 #3)
+- Telemetry latency: 43ms, QPS: 22170, Cache hit: 93.7%
+
