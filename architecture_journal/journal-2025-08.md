@@ -115,3 +115,6 @@
 ## [2025-08-12 8:9] feat(kv-cache-compression): telemetry analysis and benchmark logs (2025-08-12 #1)
 - Telemetry latency: 41ms, QPS: 26866, Cache hit: 96.6%
 
+## [2025-08-12 13:37] refactor(chandy-lamport-snapshot): telemetry analysis and benchmark logs (2025-08-12 #2)
+- Telemetry latency: 28ms, QPS: 34735, Cache hit: 97.3%
+
