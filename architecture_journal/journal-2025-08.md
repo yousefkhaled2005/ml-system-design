@@ -112,3 +112,6 @@
 ## [2025-08-11 11:53] docs(zero-copy-buffers): telemetry analysis and benchmark logs (2025-08-11 #4)
 - Telemetry latency: 43ms, QPS: 49787, Cache hit: 92.5%
 
+## [2025-08-12 8:9] feat(kv-cache-compression): telemetry analysis and benchmark logs (2025-08-12 #1)
+- Telemetry latency: 41ms, QPS: 26866, Cache hit: 96.6%
+
