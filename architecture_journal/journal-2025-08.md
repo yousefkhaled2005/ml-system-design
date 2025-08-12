@@ -118,3 +118,6 @@
 ## [2025-08-12 13:37] refactor(chandy-lamport-snapshot): telemetry analysis and benchmark logs (2025-08-12 #2)
 - Telemetry latency: 28ms, QPS: 34735, Cache hit: 97.3%
 
+## [2025-08-12 9:41] perf(roce-infiniband): telemetry analysis and benchmark logs (2025-08-12 #3)
+- Telemetry latency: 17ms, QPS: 28544, Cache hit: 94.8%
+
