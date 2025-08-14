@@ -133,3 +133,6 @@
 ## [2025-08-13 13:9] docs(vllm-serving): telemetry analysis and benchmark logs (2025-08-13 #4)
 - Telemetry latency: 30ms, QPS: 54436, Cache hit: 94.3%
 
+## [2025-08-14 12:54] test(qdrant-hybrid-search): telemetry analysis and benchmark logs (2025-08-14 #1)
+- Telemetry latency: 25ms, QPS: 42984, Cache hit: 92.8%
+
