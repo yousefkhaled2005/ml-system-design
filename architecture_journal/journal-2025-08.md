@@ -151,3 +151,6 @@
 ## [2025-08-15 8:56] refactor(qlora-4bit-sft): telemetry analysis and benchmark logs (2025-08-15 #3)
 - Telemetry latency: 14ms, QPS: 34737, Cache hit: 93.4%
 
+## [2025-08-15 12:20] docs(nvme-all-flash): telemetry analysis and benchmark logs (2025-08-15 #4)
+- Telemetry latency: 17ms, QPS: 18016, Cache hit: 96.1%
+
