@@ -196,3 +196,6 @@
 ## [2025-08-19 14:22] refactor(raft-heartbeat): telemetry analysis and benchmark logs (2025-08-19 #2)
 - Telemetry latency: 31ms, QPS: 48957, Cache hit: 98.1%
 
+## [2025-08-19 16:45] perf(langgraph-state-machine): telemetry analysis and benchmark logs (2025-08-19 #3)
+- Telemetry latency: 15ms, QPS: 33871, Cache hit: 98.3%
+
