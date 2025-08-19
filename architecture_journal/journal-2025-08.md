@@ -190,3 +190,6 @@
 ## [2025-08-18 14:1] refactor(nvme-all-flash): telemetry analysis and benchmark logs (2025-08-18 #6)
 - Telemetry latency: 44ms, QPS: 45913, Cache hit: 95.4%
 
+## [2025-08-19 19:9] perf(qdrant-hybrid-search): telemetry analysis and benchmark logs (2025-08-19 #1)
+- Telemetry latency: 32ms, QPS: 46474, Cache hit: 93.5%
+
