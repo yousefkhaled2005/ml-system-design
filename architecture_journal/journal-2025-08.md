@@ -205,3 +205,6 @@
 ## [2025-08-19 19:35] feat(vllm-serving): telemetry analysis and benchmark logs (2025-08-19 #5)
 - Telemetry latency: 15ms, QPS: 50061, Cache hit: 94.8%
 
+## [2025-08-20 14:48] refactor(flash-attention-v2): telemetry analysis and benchmark logs (2025-08-20 #1)
+- Telemetry latency: 21ms, QPS: 52506, Cache hit: 95.5%
+
