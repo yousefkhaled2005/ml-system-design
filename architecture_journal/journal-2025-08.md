@@ -208,3 +208,6 @@
 ## [2025-08-20 14:48] refactor(flash-attention-v2): telemetry analysis and benchmark logs (2025-08-20 #1)
 - Telemetry latency: 21ms, QPS: 52506, Cache hit: 95.5%
 
+## [2025-08-20 12:59] refactor(lmax-disruptor): telemetry analysis and benchmark logs (2025-08-20 #2)
+- Telemetry latency: 23ms, QPS: 42516, Cache hit: 94.2%
+
