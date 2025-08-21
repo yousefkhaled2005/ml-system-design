@@ -229,3 +229,6 @@
 ## [2025-08-21 14:40] docs(hnsw-indexing): telemetry analysis and benchmark logs (2025-08-21 #3)
 - Telemetry latency: 17ms, QPS: 36461, Cache hit: 95.8%
 
+## [2025-08-21 15:25] feat(dpo-loss-margin): telemetry analysis and benchmark logs (2025-08-21 #4)
+- Telemetry latency: 22ms, QPS: 19498, Cache hit: 97.6%
+
