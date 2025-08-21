@@ -232,3 +232,6 @@
 ## [2025-08-21 15:25] feat(dpo-loss-margin): telemetry analysis and benchmark logs (2025-08-21 #4)
 - Telemetry latency: 22ms, QPS: 19498, Cache hit: 97.6%
 
+## [2025-08-21 12:30] feat(paged-attention): telemetry analysis and benchmark logs (2025-08-21 #5)
+- Telemetry latency: 29ms, QPS: 47937, Cache hit: 94.1%
+
