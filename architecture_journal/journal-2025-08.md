@@ -235,3 +235,6 @@
 ## [2025-08-21 12:30] feat(paged-attention): telemetry analysis and benchmark logs (2025-08-21 #5)
 - Telemetry latency: 29ms, QPS: 47937, Cache hit: 94.1%
 
+## [2025-08-21 15:50] perf(kv-cache-compression): telemetry analysis and benchmark logs (2025-08-21 #6)
+- Telemetry latency: 39ms, QPS: 18198, Cache hit: 92.8%
+
