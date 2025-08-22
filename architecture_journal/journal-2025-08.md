@@ -250,3 +250,6 @@
 ## [2025-08-22 18:28] refactor(vllm-serving): telemetry analysis and benchmark logs (2025-08-22 #4)
 - Telemetry latency: 43ms, QPS: 50643, Cache hit: 98.6%
 
+## [2025-08-22 13:19] docs(raft-heartbeat): telemetry analysis and benchmark logs (2025-08-22 #5)
+- Telemetry latency: 26ms, QPS: 17571, Cache hit: 97.4%
+
