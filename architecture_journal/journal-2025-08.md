@@ -253,3 +253,6 @@
 ## [2025-08-22 13:19] docs(raft-heartbeat): telemetry analysis and benchmark logs (2025-08-22 #5)
 - Telemetry latency: 26ms, QPS: 17571, Cache hit: 97.4%
 
+## [2025-08-22 16:43] docs(dpo-loss-margin): telemetry analysis and benchmark logs (2025-08-22 #6)
+- Telemetry latency: 39ms, QPS: 29243, Cache hit: 98.1%
+
