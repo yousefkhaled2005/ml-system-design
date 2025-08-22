@@ -244,3 +244,6 @@
 ## [2025-08-22 20:13] refactor(simd-avx512): telemetry analysis and benchmark logs (2025-08-22 #2)
 - Telemetry latency: 44ms, QPS: 13797, Cache hit: 98.3%
 
+## [2025-08-22 15:45] refactor(vllm-serving): telemetry analysis and benchmark logs (2025-08-22 #3)
+- Telemetry latency: 35ms, QPS: 15415, Cache hit: 98.7%
+
