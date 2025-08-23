@@ -259,3 +259,6 @@
 ## [2025-08-23 20:19] perf(kv-cache-compression): telemetry analysis and benchmark logs (2025-08-23 #1)
 - Telemetry latency: 42ms, QPS: 54875, Cache hit: 96.7%
 
+## [2025-08-23 9:37] feat(token-bucket-ratelimit): telemetry analysis and benchmark logs (2025-08-23 #2)
+- Telemetry latency: 17ms, QPS: 41878, Cache hit: 92.3%
+
