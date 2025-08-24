@@ -265,3 +265,6 @@
 ## [2025-08-23 12:27] feat(grpc-protobuf-stream): telemetry analysis and benchmark logs (2025-08-23 #3)
 - Telemetry latency: 32ms, QPS: 51029, Cache hit: 92.5%
 
+## [2025-08-24 17:40] perf(qlora-4bit-sft): telemetry analysis and benchmark logs (2025-08-24 #1)
+- Telemetry latency: 24ms, QPS: 51933, Cache hit: 97.1%
+
