@@ -298,3 +298,6 @@
 ## [2025-08-27 18:40] perf(speculative-decoding): telemetry analysis and benchmark logs (2025-08-27 #1)
 - Telemetry latency: 32ms, QPS: 36697, Cache hit: 93.7%
 
+## [2025-08-27 16:45] feat(paged-attention): telemetry analysis and benchmark logs (2025-08-27 #2)
+- Telemetry latency: 42ms, QPS: 36888, Cache hit: 92.8%
+
