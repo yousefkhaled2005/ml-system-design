@@ -304,3 +304,6 @@
 ## [2025-08-27 18:39] test(cross-encoder-reranking): telemetry analysis and benchmark logs (2025-08-27 #3)
 - Telemetry latency: 27ms, QPS: 53848, Cache hit: 92.6%
 
+## [2025-08-27 11:45] test(lmax-disruptor): telemetry analysis and benchmark logs (2025-08-27 #4)
+- Telemetry latency: 37ms, QPS: 51512, Cache hit: 95.4%
+
