@@ -301,3 +301,6 @@
 ## [2025-08-27 16:45] feat(paged-attention): telemetry analysis and benchmark logs (2025-08-27 #2)
 - Telemetry latency: 42ms, QPS: 36888, Cache hit: 92.8%
 
+## [2025-08-27 18:39] test(cross-encoder-reranking): telemetry analysis and benchmark logs (2025-08-27 #3)
+- Telemetry latency: 27ms, QPS: 53848, Cache hit: 92.6%
+
