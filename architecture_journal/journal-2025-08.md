@@ -319,3 +319,6 @@
 ## [2025-08-28 19:54] docs(paged-attention): telemetry analysis and benchmark logs (2025-08-28 #2)
 - Telemetry latency: 13ms, QPS: 33696, Cache hit: 93.1%
 
+## [2025-08-28 16:49] test(raft-heartbeat): telemetry analysis and benchmark logs (2025-08-28 #3)
+- Telemetry latency: 14ms, QPS: 31887, Cache hit: 95.5%
+
