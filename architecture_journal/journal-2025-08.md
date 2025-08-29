@@ -328,3 +328,6 @@
 ## [2025-08-29 10:14] refactor(distributed-consensus): telemetry analysis and benchmark logs (2025-08-29 #2)
 - Telemetry latency: 35ms, QPS: 27507, Cache hit: 96.1%
 
+## [2025-08-29 13:58] docs(hnsw-indexing): telemetry analysis and benchmark logs (2025-08-29 #3)
+- Telemetry latency: 22ms, QPS: 35851, Cache hit: 94.3%
+
