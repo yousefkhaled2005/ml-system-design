@@ -340,3 +340,6 @@
 ## [2025-08-29 18:14] perf(speculative-decoding): telemetry analysis and benchmark logs (2025-08-29 #6)
 - Telemetry latency: 17ms, QPS: 18294, Cache hit: 95.8%
 
+## [2025-08-30 17:52] refactor(qlora-4bit-sft): telemetry analysis and benchmark logs (2025-08-30 #1)
+- Telemetry latency: 15ms, QPS: 32705, Cache hit: 95.5%
+
