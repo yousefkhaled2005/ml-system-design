@@ -67,3 +67,6 @@
 ## [2025-09-08 19:1] refactor(token-bucket-ratelimit): telemetry analysis and benchmark logs (2025-09-08 #2)
 - Telemetry latency: 39ms, QPS: 50981, Cache hit: 96.3%
 
+## [2025-09-08 9:52] test(roce-infiniband): telemetry analysis and benchmark logs (2025-09-08 #3)
+- Telemetry latency: 31ms, QPS: 39006, Cache hit: 98.5%
+
