@@ -85,3 +85,6 @@
 ## [2025-09-09 10:52] refactor(cache-locality): telemetry analysis and benchmark logs (2025-09-09 #2)
 - Telemetry latency: 36ms, QPS: 40726, Cache hit: 98.3%
 
+## [2025-09-09 16:40] refactor(hnsw-indexing): telemetry analysis and benchmark logs (2025-09-09 #3)
+- Telemetry latency: 25ms, QPS: 27345, Cache hit: 98.5%
+
