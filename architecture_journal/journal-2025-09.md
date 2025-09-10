@@ -100,3 +100,6 @@
 ## [2025-09-10 13:26] docs(paged-attention): telemetry analysis and benchmark logs (2025-09-10 #2)
 - Telemetry latency: 14ms, QPS: 48119, Cache hit: 97.2%
 
+## [2025-09-10 9:40] test(zero-copy-buffers): telemetry analysis and benchmark logs (2025-09-10 #3)
+- Telemetry latency: 23ms, QPS: 37477, Cache hit: 92.4%
+
