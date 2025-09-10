@@ -94,3 +94,6 @@
 ## [2025-09-09 20:3] feat(kv-cache-compression): telemetry analysis and benchmark logs (2025-09-09 #5)
 - Telemetry latency: 39ms, QPS: 31735, Cache hit: 94.6%
 
+## [2025-09-10 13:25] feat(langgraph-state-machine): telemetry analysis and benchmark logs (2025-09-10 #1)
+- Telemetry latency: 13ms, QPS: 35200, Cache hit: 98.6%
+
