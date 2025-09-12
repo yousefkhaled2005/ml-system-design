@@ -118,3 +118,6 @@
 ## [2025-09-12 17:54] feat(lock-free-queues): telemetry analysis and benchmark logs (2025-09-12 #2)
 - Telemetry latency: 24ms, QPS: 52389, Cache hit: 97.6%
 
+## [2025-09-12 8:31] perf(paged-attention): telemetry analysis and benchmark logs (2025-09-12 #3)
+- Telemetry latency: 14ms, QPS: 42622, Cache hit: 97.7%
+
