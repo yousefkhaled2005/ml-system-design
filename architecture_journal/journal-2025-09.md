@@ -163,3 +163,6 @@
 ## [2025-09-16 11:0] perf(distributed-consensus): telemetry analysis and benchmark logs (2025-09-16 #4)
 - Telemetry latency: 44ms, QPS: 17986, Cache hit: 96.4%
 
+## [2025-09-16 19:14] perf(hnsw-indexing): telemetry analysis and benchmark logs (2025-09-16 #5)
+- Telemetry latency: 31ms, QPS: 25910, Cache hit: 96.1%
+
