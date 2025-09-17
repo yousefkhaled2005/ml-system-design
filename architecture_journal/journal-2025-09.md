@@ -166,3 +166,6 @@
 ## [2025-09-16 19:14] perf(hnsw-indexing): telemetry analysis and benchmark logs (2025-09-16 #5)
 - Telemetry latency: 31ms, QPS: 25910, Cache hit: 96.1%
 
+## [2025-09-17 8:52] docs(langgraph-state-machine): telemetry analysis and benchmark logs (2025-09-17 #1)
+- Telemetry latency: 22ms, QPS: 49529, Cache hit: 93.3%
+
