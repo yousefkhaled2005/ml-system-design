@@ -169,3 +169,6 @@
 ## [2025-09-17 8:52] docs(langgraph-state-machine): telemetry analysis and benchmark logs (2025-09-17 #1)
 - Telemetry latency: 22ms, QPS: 49529, Cache hit: 93.3%
 
+## [2025-09-17 8:3] refactor(paged-attention): telemetry analysis and benchmark logs (2025-09-17 #2)
+- Telemetry latency: 42ms, QPS: 41052, Cache hit: 95.8%
+
