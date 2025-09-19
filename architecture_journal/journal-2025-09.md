@@ -199,3 +199,6 @@
 ## [2025-09-19 9:18] refactor(kv-cache-compression): telemetry analysis and benchmark logs (2025-09-19 #2)
 - Telemetry latency: 18ms, QPS: 38757, Cache hit: 93.3%
 
+## [2025-09-19 11:40] docs(token-bucket-ratelimit): telemetry analysis and benchmark logs (2025-09-19 #3)
+- Telemetry latency: 18ms, QPS: 25124, Cache hit: 97.2%
+
