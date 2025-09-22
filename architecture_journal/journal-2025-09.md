@@ -229,3 +229,6 @@
 ## [2025-09-22 16:23] perf(cache-locality): telemetry analysis and benchmark logs (2025-09-22 #2)
 - Telemetry latency: 17ms, QPS: 27554, Cache hit: 97.2%
 
+## [2025-09-22 13:23] perf(vllm-serving): telemetry analysis and benchmark logs (2025-09-22 #3)
+- Telemetry latency: 43ms, QPS: 50983, Cache hit: 97.7%
+
