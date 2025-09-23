@@ -238,3 +238,6 @@
 ## [2025-09-23 19:53] test(paged-attention): telemetry analysis and benchmark logs (2025-09-23 #2)
 - Telemetry latency: 15ms, QPS: 23175, Cache hit: 95.7%
 
+## [2025-09-23 13:1] feat(vllm-serving): telemetry analysis and benchmark logs (2025-09-23 #3)
+- Telemetry latency: 23ms, QPS: 36838, Cache hit: 98.3%
+
