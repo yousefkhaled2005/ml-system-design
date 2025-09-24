@@ -244,3 +244,6 @@
 ## [2025-09-23 15:54] docs(distributed-consensus): telemetry analysis and benchmark logs (2025-09-23 #4)
 - Telemetry latency: 22ms, QPS: 25085, Cache hit: 93.5%
 
+## [2025-09-24 12:2] feat(qlora-4bit-sft): telemetry analysis and benchmark logs (2025-09-24 #1)
+- Telemetry latency: 22ms, QPS: 18532, Cache hit: 97.2%
+
