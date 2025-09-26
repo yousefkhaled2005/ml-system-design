@@ -268,3 +268,6 @@
 ## [2025-09-25 16:27] refactor(simd-avx512): telemetry analysis and benchmark logs (2025-09-25 #5)
 - Telemetry latency: 25ms, QPS: 32312, Cache hit: 96.3%
 
+## [2025-09-26 11:26] docs(cross-encoder-reranking): telemetry analysis and benchmark logs (2025-09-26 #1)
+- Telemetry latency: 37ms, QPS: 30224, Cache hit: 98.2%
+
