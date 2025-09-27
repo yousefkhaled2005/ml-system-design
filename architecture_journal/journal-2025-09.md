@@ -277,3 +277,6 @@
 ## [2025-09-26 20:11] test(dpo-loss-margin): telemetry analysis and benchmark logs (2025-09-26 #3)
 - Telemetry latency: 39ms, QPS: 38393, Cache hit: 97.2%
 
+## [2025-09-27 19:50] perf(nvme-all-flash): telemetry analysis and benchmark logs (2025-09-27 #1)
+- Telemetry latency: 14ms, QPS: 47916, Cache hit: 98.1%
+
