@@ -280,3 +280,6 @@
 ## [2025-09-27 19:50] perf(nvme-all-flash): telemetry analysis and benchmark logs (2025-09-27 #1)
 - Telemetry latency: 14ms, QPS: 47916, Cache hit: 98.1%
 
+## [2025-09-28 9:16] docs(qlora-4bit-sft): telemetry analysis and benchmark logs (2025-09-28 #1)
+- Telemetry latency: 19ms, QPS: 49180, Cache hit: 96.7%
+
