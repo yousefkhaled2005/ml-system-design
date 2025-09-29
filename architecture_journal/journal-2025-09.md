@@ -286,3 +286,6 @@
 ## [2025-09-29 20:9] feat(qlora-4bit-sft): telemetry analysis and benchmark logs (2025-09-29 #1)
 - Telemetry latency: 14ms, QPS: 53506, Cache hit: 95.6%
 
+## [2025-09-29 11:6] feat(cache-locality): telemetry analysis and benchmark logs (2025-09-29 #2)
+- Telemetry latency: 27ms, QPS: 28098, Cache hit: 96.4%
+
