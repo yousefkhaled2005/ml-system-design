@@ -313,3 +313,6 @@
 ## [2025-09-30 15:5] refactor(roce-infiniband): telemetry analysis and benchmark logs (2025-09-30 #4)
 - Telemetry latency: 26ms, QPS: 37280, Cache hit: 92.4%
 
+## [2025-09-30 13:32] refactor(dpo-loss-margin): telemetry analysis and benchmark logs (2025-09-30 #5)
+- Telemetry latency: 17ms, QPS: 31675, Cache hit: 97.7%
+
