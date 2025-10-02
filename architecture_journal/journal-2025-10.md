@@ -10,3 +10,6 @@
 ## [2025-10-01 15:31] test(lock-free-queues): telemetry analysis and benchmark logs (2025-10-01 #4)
 - Telemetry latency: 30ms, QPS: 49741, Cache hit: 93.1%
 
+## [2025-10-02 19:25] perf(qlora-4bit-sft): telemetry analysis and benchmark logs (2025-10-02 #1)
+- Telemetry latency: 40ms, QPS: 27632, Cache hit: 92.6%
+
