@@ -22,3 +22,6 @@
 ## [2025-10-02 12:10] refactor(flash-attention-v2): telemetry analysis and benchmark logs (2025-10-02 #4)
 - Telemetry latency: 22ms, QPS: 38378, Cache hit: 95.5%
 
+## [2025-10-02 9:8] feat(token-bucket-ratelimit): telemetry analysis and benchmark logs (2025-10-02 #5)
+- Telemetry latency: 40ms, QPS: 21452, Cache hit: 96.2%
+
