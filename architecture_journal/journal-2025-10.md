@@ -28,3 +28,6 @@
 ## [2025-10-02 11:16] feat(flash-attention-v2): telemetry analysis and benchmark logs (2025-10-02 #6)
 - Telemetry latency: 34ms, QPS: 21583, Cache hit: 92.6%
 
+## [2025-10-03 13:54] docs(chandy-lamport-snapshot): telemetry analysis and benchmark logs (2025-10-03 #1)
+- Telemetry latency: 38ms, QPS: 34081, Cache hit: 95.5%
+
