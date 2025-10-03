@@ -34,3 +34,6 @@
 ## [2025-10-03 14:59] feat(speculative-decoding): telemetry analysis and benchmark logs (2025-10-03 #2)
 - Telemetry latency: 27ms, QPS: 13890, Cache hit: 95.5%
 
+## [2025-10-03 15:10] refactor(token-bucket-ratelimit): telemetry analysis and benchmark logs (2025-10-03 #3)
+- Telemetry latency: 21ms, QPS: 48511, Cache hit: 93.3%
+
