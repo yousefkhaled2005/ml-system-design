@@ -49,3 +49,6 @@
 ## [2025-10-04 11:37] refactor(cross-encoder-reranking): telemetry analysis and benchmark logs (2025-10-04 #3)
 - Telemetry latency: 41ms, QPS: 35448, Cache hit: 95.1%
 
+## [2025-10-05 12:42] docs(token-bucket-ratelimit): telemetry analysis and benchmark logs (2025-10-05 #1)
+- Telemetry latency: 19ms, QPS: 48004, Cache hit: 92.8%
+
