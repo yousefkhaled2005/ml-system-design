@@ -58,3 +58,6 @@
 ## [2025-10-05 14:53] perf(vllm-serving): telemetry analysis and benchmark logs (2025-10-05 #3)
 - Telemetry latency: 30ms, QPS: 12336, Cache hit: 95.7%
 
+## [2025-10-06 18:59] test(lmax-disruptor): telemetry analysis and benchmark logs (2025-10-06 #1)
+- Telemetry latency: 30ms, QPS: 48762, Cache hit: 95.6%
+
