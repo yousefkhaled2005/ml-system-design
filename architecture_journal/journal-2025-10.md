@@ -79,3 +79,6 @@
 ## [2025-10-07 9:2] refactor(speculative-decoding): telemetry analysis and benchmark logs (2025-10-07 #3)
 - Telemetry latency: 12ms, QPS: 41926, Cache hit: 97.1%
 
+## [2025-10-07 9:16] test(simd-avx512): telemetry analysis and benchmark logs (2025-10-07 #4)
+- Telemetry latency: 29ms, QPS: 16419, Cache hit: 93.2%
+
