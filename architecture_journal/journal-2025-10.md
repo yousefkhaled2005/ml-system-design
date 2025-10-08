@@ -85,3 +85,6 @@
 ## [2025-10-07 9:14] refactor(flash-attention-v2): telemetry analysis and benchmark logs (2025-10-07 #5)
 - Telemetry latency: 24ms, QPS: 53418, Cache hit: 98.5%
 
+## [2025-10-08 12:15] docs(cross-encoder-reranking): telemetry analysis and benchmark logs (2025-10-08 #1)
+- Telemetry latency: 23ms, QPS: 35975, Cache hit: 96.1%
+
