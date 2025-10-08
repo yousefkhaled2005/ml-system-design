@@ -88,3 +88,6 @@
 ## [2025-10-08 12:15] docs(cross-encoder-reranking): telemetry analysis and benchmark logs (2025-10-08 #1)
 - Telemetry latency: 23ms, QPS: 35975, Cache hit: 96.1%
 
+## [2025-10-08 18:17] feat(kv-cache-compression): telemetry analysis and benchmark logs (2025-10-08 #2)
+- Telemetry latency: 27ms, QPS: 22257, Cache hit: 93.7%
+
