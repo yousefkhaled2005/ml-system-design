@@ -109,3 +109,6 @@
 ## [2025-10-10 9:21] test(cache-locality): telemetry analysis and benchmark logs (2025-10-10 #2)
 - Telemetry latency: 29ms, QPS: 46189, Cache hit: 93.1%
 
+## [2025-10-10 14:9] test(nvme-all-flash): telemetry analysis and benchmark logs (2025-10-10 #3)
+- Telemetry latency: 30ms, QPS: 13007, Cache hit: 93.1%
+
