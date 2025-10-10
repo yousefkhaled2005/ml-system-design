@@ -103,3 +103,6 @@
 ## [2025-10-09 16:2] docs(speculative-decoding): telemetry analysis and benchmark logs (2025-10-09 #3)
 - Telemetry latency: 38ms, QPS: 44401, Cache hit: 96.7%
 
+## [2025-10-10 8:4] docs(langgraph-state-machine): telemetry analysis and benchmark logs (2025-10-10 #1)
+- Telemetry latency: 21ms, QPS: 26657, Cache hit: 96.4%
+
