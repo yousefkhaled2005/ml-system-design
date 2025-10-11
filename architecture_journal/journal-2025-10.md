@@ -112,3 +112,6 @@
 ## [2025-10-10 14:9] test(nvme-all-flash): telemetry analysis and benchmark logs (2025-10-10 #3)
 - Telemetry latency: 30ms, QPS: 13007, Cache hit: 93.1%
 
+## [2025-10-11 16:24] docs(paged-attention): telemetry analysis and benchmark logs (2025-10-11 #1)
+- Telemetry latency: 40ms, QPS: 12687, Cache hit: 92.4%
+
