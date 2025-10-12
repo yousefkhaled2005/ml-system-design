@@ -115,3 +115,6 @@
 ## [2025-10-11 16:24] docs(paged-attention): telemetry analysis and benchmark logs (2025-10-11 #1)
 - Telemetry latency: 40ms, QPS: 12687, Cache hit: 92.4%
 
+## [2025-10-12 9:44] docs(dpo-loss-margin): telemetry analysis and benchmark logs (2025-10-12 #1)
+- Telemetry latency: 24ms, QPS: 20183, Cache hit: 96.4%
+
