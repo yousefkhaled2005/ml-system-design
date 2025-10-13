@@ -121,3 +121,6 @@
 ## [2025-10-13 10:5] refactor(zero-copy-buffers): telemetry analysis and benchmark logs (2025-10-13 #1)
 - Telemetry latency: 27ms, QPS: 21636, Cache hit: 98.2%
 
+## [2025-10-13 11:34] test(speculative-decoding): telemetry analysis and benchmark logs (2025-10-13 #2)
+- Telemetry latency: 42ms, QPS: 34513, Cache hit: 96.1%
+
