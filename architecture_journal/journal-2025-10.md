@@ -145,3 +145,6 @@
 ## [2025-10-14 9:55] refactor(dpo-loss-margin): telemetry analysis and benchmark logs (2025-10-14 #4)
 - Telemetry latency: 39ms, QPS: 12774, Cache hit: 96.8%
 
+## [2025-10-14 14:32] test(langgraph-state-machine): telemetry analysis and benchmark logs (2025-10-14 #5)
+- Telemetry latency: 41ms, QPS: 39763, Cache hit: 95.4%
+
