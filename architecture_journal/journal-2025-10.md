@@ -133,3 +133,6 @@
 ## [2025-10-13 11:59] feat(cache-locality): telemetry analysis and benchmark logs (2025-10-13 #5)
 - Telemetry latency: 23ms, QPS: 47007, Cache hit: 96.6%
 
+## [2025-10-14 20:21] test(token-bucket-ratelimit): telemetry analysis and benchmark logs (2025-10-14 #1)
+- Telemetry latency: 17ms, QPS: 26863, Cache hit: 97.7%
+
