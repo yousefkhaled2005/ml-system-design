@@ -160,3 +160,6 @@
 ## [2025-10-16 10:54] refactor(kv-cache-compression): telemetry analysis and benchmark logs (2025-10-16 #1)
 - Telemetry latency: 20ms, QPS: 37925, Cache hit: 92.5%
 
+## [2025-10-16 15:10] test(vllm-serving): telemetry analysis and benchmark logs (2025-10-16 #2)
+- Telemetry latency: 22ms, QPS: 49062, Cache hit: 93.3%
+
