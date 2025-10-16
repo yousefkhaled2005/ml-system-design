@@ -163,3 +163,6 @@
 ## [2025-10-16 15:10] test(vllm-serving): telemetry analysis and benchmark logs (2025-10-16 #2)
 - Telemetry latency: 22ms, QPS: 49062, Cache hit: 93.3%
 
+## [2025-10-16 10:32] perf(qlora-4bit-sft): telemetry analysis and benchmark logs (2025-10-16 #3)
+- Telemetry latency: 44ms, QPS: 19343, Cache hit: 92.1%
+
