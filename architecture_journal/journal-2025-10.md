@@ -172,3 +172,6 @@
 ## [2025-10-17 15:45] docs(raft-heartbeat): telemetry analysis and benchmark logs (2025-10-17 #1)
 - Telemetry latency: 12ms, QPS: 25175, Cache hit: 92.3%
 
+## [2025-10-17 16:11] docs(lmax-disruptor): telemetry analysis and benchmark logs (2025-10-17 #2)
+- Telemetry latency: 15ms, QPS: 15367, Cache hit: 95.7%
+
