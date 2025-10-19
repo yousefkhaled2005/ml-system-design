@@ -187,3 +187,6 @@
 ## [2025-10-18 12:46] test(hnsw-indexing): telemetry analysis and benchmark logs (2025-10-18 #2)
 - Telemetry latency: 31ms, QPS: 34828, Cache hit: 95.1%
 
+## [2025-10-19 20:8] test(cross-encoder-reranking): telemetry analysis and benchmark logs (2025-10-19 #1)
+- Telemetry latency: 39ms, QPS: 47002, Cache hit: 93.2%
+
