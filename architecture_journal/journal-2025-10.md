@@ -199,3 +199,6 @@
 ## [2025-10-20 8:37] perf(kv-cache-compression): telemetry analysis and benchmark logs (2025-10-20 #2)
 - Telemetry latency: 15ms, QPS: 32594, Cache hit: 93.8%
 
+## [2025-10-20 9:30] feat(qdrant-hybrid-search): telemetry analysis and benchmark logs (2025-10-20 #3)
+- Telemetry latency: 41ms, QPS: 54520, Cache hit: 92.7%
+
