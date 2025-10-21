@@ -211,3 +211,6 @@
 ## [2025-10-21 8:8] test(hnsw-indexing): telemetry analysis and benchmark logs (2025-10-21 #1)
 - Telemetry latency: 40ms, QPS: 41217, Cache hit: 92.2%
 
+## [2025-10-21 19:59] refactor(nvme-all-flash): telemetry analysis and benchmark logs (2025-10-21 #2)
+- Telemetry latency: 29ms, QPS: 38750, Cache hit: 98.6%
+
