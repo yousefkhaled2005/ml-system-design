@@ -217,3 +217,6 @@
 ## [2025-10-21 18:5] docs(vllm-serving): telemetry analysis and benchmark logs (2025-10-21 #3)
 - Telemetry latency: 13ms, QPS: 48237, Cache hit: 92.8%
 
+## [2025-10-21 20:51] test(raft-heartbeat): telemetry analysis and benchmark logs (2025-10-21 #4)
+- Telemetry latency: 27ms, QPS: 15845, Cache hit: 96.7%
+
