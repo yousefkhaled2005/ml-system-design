@@ -220,3 +220,6 @@
 ## [2025-10-21 20:51] test(raft-heartbeat): telemetry analysis and benchmark logs (2025-10-21 #4)
 - Telemetry latency: 27ms, QPS: 15845, Cache hit: 96.7%
 
+## [2025-10-22 13:55] perf(langgraph-state-machine): telemetry analysis and benchmark logs (2025-10-22 #1)
+- Telemetry latency: 20ms, QPS: 28059, Cache hit: 96.7%
+
