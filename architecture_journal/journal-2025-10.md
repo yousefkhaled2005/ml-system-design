@@ -244,3 +244,6 @@
 ## [2025-10-23 8:22] docs(roce-infiniband): telemetry analysis and benchmark logs (2025-10-23 #2)
 - Telemetry latency: 20ms, QPS: 28214, Cache hit: 92.2%
 
+## [2025-10-23 19:43] feat(raft-heartbeat): telemetry analysis and benchmark logs (2025-10-23 #3)
+- Telemetry latency: 13ms, QPS: 16338, Cache hit: 92.2%
+
