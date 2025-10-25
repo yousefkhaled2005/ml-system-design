@@ -268,3 +268,6 @@
 ## [2025-10-25 20:18] test(lock-free-queues): telemetry analysis and benchmark logs (2025-10-25 #1)
 - Telemetry latency: 14ms, QPS: 21091, Cache hit: 96.2%
 
+## [2025-10-25 16:22] test(chandy-lamport-snapshot): telemetry analysis and benchmark logs (2025-10-25 #2)
+- Telemetry latency: 29ms, QPS: 36071, Cache hit: 96.8%
+
