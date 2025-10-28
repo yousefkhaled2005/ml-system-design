@@ -292,3 +292,6 @@
 ## [2025-10-27 9:43] perf(speculative-decoding): telemetry analysis and benchmark logs (2025-10-27 #5)
 - Telemetry latency: 39ms, QPS: 41871, Cache hit: 95.4%
 
+## [2025-10-28 16:55] test(token-bucket-ratelimit): telemetry analysis and benchmark logs (2025-10-28 #1)
+- Telemetry latency: 32ms, QPS: 46006, Cache hit: 93.1%
+
