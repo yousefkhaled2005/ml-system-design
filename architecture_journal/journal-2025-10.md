@@ -328,3 +328,6 @@
 ## [2025-10-31 17:22] feat(roce-infiniband): telemetry analysis and benchmark logs (2025-10-31 #2)
 - Telemetry latency: 41ms, QPS: 16130, Cache hit: 93.8%
 
+## [2025-10-31 20:16] test(nvme-all-flash): telemetry analysis and benchmark logs (2025-10-31 #3)
+- Telemetry latency: 17ms, QPS: 33252, Cache hit: 97.4%
+
