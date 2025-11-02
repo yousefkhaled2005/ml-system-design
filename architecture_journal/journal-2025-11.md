@@ -7,3 +7,6 @@
 ## [2025-11-01 14:13] docs(qlora-4bit-sft): telemetry analysis and benchmark logs (2025-11-01 #3)
 - Telemetry latency: 17ms, QPS: 42993, Cache hit: 95.5%
 
+## [2025-11-02 20:37] docs(vllm-serving): telemetry analysis and benchmark logs (2025-11-02 #1)
+- Telemetry latency: 29ms, QPS: 18342, Cache hit: 93.7%
+
