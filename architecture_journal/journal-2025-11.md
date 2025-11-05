@@ -52,3 +52,6 @@
 ## [2025-11-05 14:25] refactor(paged-attention): telemetry analysis and benchmark logs (2025-11-05 #3)
 - Telemetry latency: 19ms, QPS: 45342, Cache hit: 92.2%
 
+## [2025-11-05 15:39] feat(token-bucket-ratelimit): telemetry analysis and benchmark logs (2025-11-05 #4)
+- Telemetry latency: 40ms, QPS: 49480, Cache hit: 98.4%
+
