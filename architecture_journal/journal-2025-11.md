@@ -70,3 +70,6 @@
 ## [2025-11-06 13:39] perf(simd-avx512): telemetry analysis and benchmark logs (2025-11-06 #5)
 - Telemetry latency: 40ms, QPS: 30755, Cache hit: 97.2%
 
+## [2025-11-06 10:44] docs(chandy-lamport-snapshot): telemetry analysis and benchmark logs (2025-11-06 #6)
+- Telemetry latency: 28ms, QPS: 39569, Cache hit: 92.7%
+
