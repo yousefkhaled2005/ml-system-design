@@ -91,3 +91,6 @@
 ## [2025-11-08 11:52] perf(kv-cache-compression): telemetry analysis and benchmark logs (2025-11-08 #2)
 - Telemetry latency: 23ms, QPS: 17952, Cache hit: 96.2%
 
+## [2025-11-09 11:45] perf(qlora-4bit-sft): telemetry analysis and benchmark logs (2025-11-09 #1)
+- Telemetry latency: 28ms, QPS: 37138, Cache hit: 92.1%
+
