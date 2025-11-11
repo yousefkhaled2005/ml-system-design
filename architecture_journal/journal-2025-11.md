@@ -106,3 +106,6 @@
 ## [2025-11-11 8:43] refactor(speculative-decoding): telemetry analysis and benchmark logs (2025-11-11 #1)
 - Telemetry latency: 34ms, QPS: 54480, Cache hit: 93.7%
 
+## [2025-11-11 15:8] test(raft-heartbeat): telemetry analysis and benchmark logs (2025-11-11 #2)
+- Telemetry latency: 12ms, QPS: 47060, Cache hit: 95.3%
+
