@@ -133,3 +133,6 @@
 ## [2025-11-12 8:14] feat(speculative-decoding): telemetry analysis and benchmark logs (2025-11-12 #6)
 - Telemetry latency: 41ms, QPS: 36377, Cache hit: 98.1%
 
+## [2025-11-13 13:53] feat(dpo-loss-margin): telemetry analysis and benchmark logs (2025-11-13 #1)
+- Telemetry latency: 38ms, QPS: 38667, Cache hit: 94.4%
+
