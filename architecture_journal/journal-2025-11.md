@@ -196,3 +196,6 @@
 ## [2025-11-19 14:47] feat(vllm-serving): telemetry analysis and benchmark logs (2025-11-19 #1)
 - Telemetry latency: 32ms, QPS: 35363, Cache hit: 98.8%
 
+## [2025-11-19 14:25] docs(chandy-lamport-snapshot): telemetry analysis and benchmark logs (2025-11-19 #2)
+- Telemetry latency: 21ms, QPS: 13677, Cache hit: 97.3%
+
