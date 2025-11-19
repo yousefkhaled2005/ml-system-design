@@ -193,3 +193,6 @@
 ## [2025-11-18 10:22] test(cache-locality): telemetry analysis and benchmark logs (2025-11-18 #5)
 - Telemetry latency: 40ms, QPS: 40293, Cache hit: 97.4%
 
+## [2025-11-19 14:47] feat(vllm-serving): telemetry analysis and benchmark logs (2025-11-19 #1)
+- Telemetry latency: 32ms, QPS: 35363, Cache hit: 98.8%
+
