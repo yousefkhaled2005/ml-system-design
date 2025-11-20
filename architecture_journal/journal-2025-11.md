@@ -220,3 +220,6 @@
 ## [2025-11-20 18:37] test(speculative-decoding): telemetry analysis and benchmark logs (2025-11-20 #4)
 - Telemetry latency: 42ms, QPS: 22964, Cache hit: 93.5%
 
+## [2025-11-20 10:30] test(lock-free-queues): telemetry analysis and benchmark logs (2025-11-20 #5)
+- Telemetry latency: 24ms, QPS: 48887, Cache hit: 92.2%
+
