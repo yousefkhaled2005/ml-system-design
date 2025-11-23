@@ -253,3 +253,6 @@
 ## [2025-11-23 19:57] docs(langgraph-state-machine): telemetry analysis and benchmark logs (2025-11-23 #1)
 - Telemetry latency: 27ms, QPS: 15868, Cache hit: 96.2%
 
+## [2025-11-23 19:4] perf(roce-infiniband): telemetry analysis and benchmark logs (2025-11-23 #2)
+- Telemetry latency: 20ms, QPS: 27523, Cache hit: 98.5%
+
