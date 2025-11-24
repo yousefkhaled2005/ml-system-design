@@ -262,3 +262,6 @@
 ## [2025-11-24 10:56] feat(speculative-decoding): telemetry analysis and benchmark logs (2025-11-24 #1)
 - Telemetry latency: 35ms, QPS: 54464, Cache hit: 92.5%
 
+## [2025-11-24 16:11] perf(hnsw-indexing): telemetry analysis and benchmark logs (2025-11-24 #2)
+- Telemetry latency: 12ms, QPS: 18598, Cache hit: 93.3%
+
