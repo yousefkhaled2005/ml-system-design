@@ -274,3 +274,6 @@
 ## [2025-11-24 14:27] perf(raft-heartbeat): telemetry analysis and benchmark logs (2025-11-24 #5)
 - Telemetry latency: 30ms, QPS: 22548, Cache hit: 96.6%
 
+## [2025-11-24 12:37] test(hnsw-indexing): telemetry analysis and benchmark logs (2025-11-24 #6)
+- Telemetry latency: 21ms, QPS: 32360, Cache hit: 93.3%
+
