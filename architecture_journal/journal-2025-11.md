@@ -265,3 +265,6 @@
 ## [2025-11-24 16:11] perf(hnsw-indexing): telemetry analysis and benchmark logs (2025-11-24 #2)
 - Telemetry latency: 12ms, QPS: 18598, Cache hit: 93.3%
 
+## [2025-11-24 17:49] feat(vllm-serving): telemetry analysis and benchmark logs (2025-11-24 #3)
+- Telemetry latency: 21ms, QPS: 24947, Cache hit: 98.6%
+
