@@ -277,3 +277,6 @@
 ## [2025-11-24 12:37] test(hnsw-indexing): telemetry analysis and benchmark logs (2025-11-24 #6)
 - Telemetry latency: 21ms, QPS: 32360, Cache hit: 93.3%
 
+## [2025-11-25 19:37] perf(chandy-lamport-snapshot): telemetry analysis and benchmark logs (2025-11-25 #1)
+- Telemetry latency: 14ms, QPS: 34939, Cache hit: 98.6%
+
