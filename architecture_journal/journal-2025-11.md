@@ -322,3 +322,6 @@
 ## [2025-11-28 18:54] test(distributed-consensus): telemetry analysis and benchmark logs (2025-11-28 #2)
 - Telemetry latency: 38ms, QPS: 12682, Cache hit: 96.2%
 
+## [2025-11-28 8:24] feat(hnsw-indexing): telemetry analysis and benchmark logs (2025-11-28 #3)
+- Telemetry latency: 16ms, QPS: 15826, Cache hit: 93.6%
+
