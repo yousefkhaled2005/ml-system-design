@@ -316,3 +316,6 @@
 ## [2025-11-27 16:42] feat(cuda-kernel-tuning): telemetry analysis and benchmark logs (2025-11-27 #6)
 - Telemetry latency: 27ms, QPS: 19606, Cache hit: 97.6%
 
+## [2025-11-28 15:0] perf(cross-encoder-reranking): telemetry analysis and benchmark logs (2025-11-28 #1)
+- Telemetry latency: 33ms, QPS: 51463, Cache hit: 93.7%
+
