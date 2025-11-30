@@ -340,3 +340,6 @@
 ## [2025-11-30 8:45] refactor(cuda-kernel-tuning): telemetry analysis and benchmark logs (2025-11-30 #2)
 - Telemetry latency: 37ms, QPS: 53895, Cache hit: 93.8%
 
+## [2025-11-30 13:59] refactor(lmax-disruptor): telemetry analysis and benchmark logs (2025-11-30 #3)
+- Telemetry latency: 40ms, QPS: 46758, Cache hit: 94.1%
+
