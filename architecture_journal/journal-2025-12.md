@@ -22,3 +22,6 @@
 ## [2025-12-02 9:58] perf(speculative-decoding): telemetry analysis and benchmark logs (2025-12-02 #2)
 - Telemetry latency: 32ms, QPS: 26238, Cache hit: 96.5%
 
+## [2025-12-02 13:31] perf(kv-cache-compression): telemetry analysis and benchmark logs (2025-12-02 #3)
+- Telemetry latency: 23ms, QPS: 29579, Cache hit: 96.1%
+
