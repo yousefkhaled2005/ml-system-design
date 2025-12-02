@@ -25,3 +25,6 @@
 ## [2025-12-02 13:31] perf(kv-cache-compression): telemetry analysis and benchmark logs (2025-12-02 #3)
 - Telemetry latency: 23ms, QPS: 29579, Cache hit: 96.1%
 
+## [2025-12-02 18:44] refactor(cross-encoder-reranking): telemetry analysis and benchmark logs (2025-12-02 #4)
+- Telemetry latency: 21ms, QPS: 31968, Cache hit: 93.2%
+
