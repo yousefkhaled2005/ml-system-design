@@ -52,3 +52,6 @@
 ## [2025-12-04 11:21] docs(raft-heartbeat): telemetry analysis and benchmark logs (2025-12-04 #3)
 - Telemetry latency: 25ms, QPS: 19858, Cache hit: 97.2%
 
+## [2025-12-05 20:55] perf(grpc-protobuf-stream): telemetry analysis and benchmark logs (2025-12-05 #1)
+- Telemetry latency: 25ms, QPS: 21958, Cache hit: 97.5%
+
