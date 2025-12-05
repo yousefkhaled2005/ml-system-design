@@ -55,3 +55,6 @@
 ## [2025-12-05 20:55] perf(grpc-protobuf-stream): telemetry analysis and benchmark logs (2025-12-05 #1)
 - Telemetry latency: 25ms, QPS: 21958, Cache hit: 97.5%
 
+## [2025-12-05 19:40] perf(qdrant-hybrid-search): telemetry analysis and benchmark logs (2025-12-05 #2)
+- Telemetry latency: 16ms, QPS: 28575, Cache hit: 92.5%
+
