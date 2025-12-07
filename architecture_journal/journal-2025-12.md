@@ -73,3 +73,6 @@
 ## [2025-12-06 15:37] test(lock-free-queues): telemetry analysis and benchmark logs (2025-12-06 #1)
 - Telemetry latency: 37ms, QPS: 17169, Cache hit: 97.5%
 
+## [2025-12-07 18:1] test(langgraph-state-machine): telemetry analysis and benchmark logs (2025-12-07 #1)
+- Telemetry latency: 25ms, QPS: 54712, Cache hit: 93.3%
+
