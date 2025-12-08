@@ -88,3 +88,6 @@
 ## [2025-12-08 18:25] docs(zero-copy-buffers): telemetry analysis and benchmark logs (2025-12-08 #4)
 - Telemetry latency: 34ms, QPS: 40946, Cache hit: 93.6%
 
+## [2025-12-08 17:42] refactor(chandy-lamport-snapshot): telemetry analysis and benchmark logs (2025-12-08 #5)
+- Telemetry latency: 40ms, QPS: 18576, Cache hit: 92.3%
+
