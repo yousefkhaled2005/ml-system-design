@@ -100,3 +100,6 @@
 ## [2025-12-09 17:38] refactor(vllm-serving): telemetry analysis and benchmark logs (2025-12-09 #3)
 - Telemetry latency: 14ms, QPS: 32953, Cache hit: 95.4%
 
+## [2025-12-09 14:44] refactor(token-bucket-ratelimit): telemetry analysis and benchmark logs (2025-12-09 #4)
+- Telemetry latency: 37ms, QPS: 27338, Cache hit: 97.4%
+
