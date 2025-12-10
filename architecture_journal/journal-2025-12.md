@@ -118,3 +118,6 @@
 ## [2025-12-10 13:48] test(distributed-consensus): telemetry analysis and benchmark logs (2025-12-10 #3)
 - Telemetry latency: 33ms, QPS: 49115, Cache hit: 98.3%
 
+## [2025-12-10 17:40] docs(speculative-decoding): telemetry analysis and benchmark logs (2025-12-10 #4)
+- Telemetry latency: 32ms, QPS: 28888, Cache hit: 97.8%
+
