@@ -151,3 +151,6 @@
 ## [2025-12-12 16:24] docs(cache-locality): telemetry analysis and benchmark logs (2025-12-12 #5)
 - Telemetry latency: 26ms, QPS: 24682, Cache hit: 92.2%
 
+## [2025-12-13 9:24] feat(dpo-loss-margin): telemetry analysis and benchmark logs (2025-12-13 #1)
+- Telemetry latency: 12ms, QPS: 27861, Cache hit: 94.3%
+
