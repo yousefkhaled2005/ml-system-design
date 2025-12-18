@@ -205,3 +205,6 @@
 ## [2025-12-18 8:12] test(raft-heartbeat): telemetry analysis and benchmark logs (2025-12-18 #1)
 - Telemetry latency: 14ms, QPS: 26247, Cache hit: 96.8%
 
+## [2025-12-18 12:58] docs(lock-free-queues): telemetry analysis and benchmark logs (2025-12-18 #2)
+- Telemetry latency: 35ms, QPS: 20574, Cache hit: 97.2%
+
