@@ -211,3 +211,6 @@
 ## [2025-12-18 10:29] feat(vllm-serving): telemetry analysis and benchmark logs (2025-12-18 #3)
 - Telemetry latency: 20ms, QPS: 53094, Cache hit: 93.1%
 
+## [2025-12-18 14:13] perf(grpc-protobuf-stream): telemetry analysis and benchmark logs (2025-12-18 #4)
+- Telemetry latency: 43ms, QPS: 53542, Cache hit: 92.1%
+
