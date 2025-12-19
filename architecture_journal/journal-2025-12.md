@@ -235,3 +235,6 @@
 ## [2025-12-19 10:12] perf(flash-attention-v2): telemetry analysis and benchmark logs (2025-12-19 #5)
 - Telemetry latency: 36ms, QPS: 20137, Cache hit: 93.6%
 
+## [2025-12-19 14:57] perf(grpc-protobuf-stream): telemetry analysis and benchmark logs (2025-12-19 #6)
+- Telemetry latency: 31ms, QPS: 38813, Cache hit: 98.1%
+
