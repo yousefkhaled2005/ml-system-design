@@ -226,3 +226,6 @@
 ## [2025-12-19 14:43] perf(lmax-disruptor): telemetry analysis and benchmark logs (2025-12-19 #2)
 - Telemetry latency: 31ms, QPS: 42204, Cache hit: 96.2%
 
+## [2025-12-19 12:43] docs(qlora-4bit-sft): telemetry analysis and benchmark logs (2025-12-19 #3)
+- Telemetry latency: 22ms, QPS: 24577, Cache hit: 97.3%
+
