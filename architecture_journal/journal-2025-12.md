@@ -232,3 +232,6 @@
 ## [2025-12-19 19:34] feat(lock-free-queues): telemetry analysis and benchmark logs (2025-12-19 #4)
 - Telemetry latency: 19ms, QPS: 21349, Cache hit: 96.6%
 
+## [2025-12-19 10:12] perf(flash-attention-v2): telemetry analysis and benchmark logs (2025-12-19 #5)
+- Telemetry latency: 36ms, QPS: 20137, Cache hit: 93.6%
+
