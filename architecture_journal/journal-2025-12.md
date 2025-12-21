@@ -250,3 +250,6 @@
 ## [2025-12-21 8:0] perf(simd-avx512): telemetry analysis and benchmark logs (2025-12-21 #2)
 - Telemetry latency: 34ms, QPS: 49817, Cache hit: 96.1%
 
+## [2025-12-21 15:47] refactor(qdrant-hybrid-search): telemetry analysis and benchmark logs (2025-12-21 #3)
+- Telemetry latency: 35ms, QPS: 50165, Cache hit: 95.5%
+
