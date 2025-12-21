@@ -247,3 +247,6 @@
 ## [2025-12-21 18:19] refactor(roce-infiniband): telemetry analysis and benchmark logs (2025-12-21 #1)
 - Telemetry latency: 38ms, QPS: 41009, Cache hit: 92.3%
 
+## [2025-12-21 8:0] perf(simd-avx512): telemetry analysis and benchmark logs (2025-12-21 #2)
+- Telemetry latency: 34ms, QPS: 49817, Cache hit: 96.1%
+
