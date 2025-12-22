@@ -253,3 +253,6 @@
 ## [2025-12-21 15:47] refactor(qdrant-hybrid-search): telemetry analysis and benchmark logs (2025-12-21 #3)
 - Telemetry latency: 35ms, QPS: 50165, Cache hit: 95.5%
 
+## [2025-12-22 18:24] feat(token-bucket-ratelimit): telemetry analysis and benchmark logs (2025-12-22 #1)
+- Telemetry latency: 29ms, QPS: 25067, Cache hit: 98.7%
+
