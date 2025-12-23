@@ -280,3 +280,6 @@
 ## [2025-12-23 11:0] refactor(roce-infiniband): telemetry analysis and benchmark logs (2025-12-23 #3)
 - Telemetry latency: 42ms, QPS: 28406, Cache hit: 95.6%
 
+## [2025-12-23 12:12] docs(lmax-disruptor): telemetry analysis and benchmark logs (2025-12-23 #4)
+- Telemetry latency: 24ms, QPS: 42267, Cache hit: 93.2%
+
