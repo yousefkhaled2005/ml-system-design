@@ -286,3 +286,6 @@
 ## [2025-12-24 14:2] perf(kv-cache-compression): telemetry analysis and benchmark logs (2025-12-24 #1)
 - Telemetry latency: 25ms, QPS: 12378, Cache hit: 98.2%
 
+## [2025-12-24 19:14] perf(nvme-all-flash): telemetry analysis and benchmark logs (2025-12-24 #2)
+- Telemetry latency: 39ms, QPS: 53087, Cache hit: 98.8%
+
