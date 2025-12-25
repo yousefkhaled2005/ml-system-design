@@ -295,3 +295,6 @@
 ## [2025-12-25 9:59] perf(chandy-lamport-snapshot): telemetry analysis and benchmark logs (2025-12-25 #1)
 - Telemetry latency: 37ms, QPS: 24076, Cache hit: 96.3%
 
+## [2025-12-25 9:17] feat(kv-cache-compression): telemetry analysis and benchmark logs (2025-12-25 #2)
+- Telemetry latency: 35ms, QPS: 34569, Cache hit: 92.4%
+
