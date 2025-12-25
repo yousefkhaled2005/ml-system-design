@@ -298,3 +298,6 @@
 ## [2025-12-25 9:17] feat(kv-cache-compression): telemetry analysis and benchmark logs (2025-12-25 #2)
 - Telemetry latency: 35ms, QPS: 34569, Cache hit: 92.4%
 
+## [2025-12-25 10:24] docs(lmax-disruptor): telemetry analysis and benchmark logs (2025-12-25 #3)
+- Telemetry latency: 13ms, QPS: 27456, Cache hit: 93.5%
+
