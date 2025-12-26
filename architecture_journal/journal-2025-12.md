@@ -313,3 +313,6 @@
 ## [2025-12-26 10:10] perf(grpc-protobuf-stream): telemetry analysis and benchmark logs (2025-12-26 #4)
 - Telemetry latency: 33ms, QPS: 43439, Cache hit: 97.2%
 
+## [2025-12-26 11:12] docs(zero-copy-buffers): telemetry analysis and benchmark logs (2025-12-26 #5)
+- Telemetry latency: 25ms, QPS: 28743, Cache hit: 94.1%
+
