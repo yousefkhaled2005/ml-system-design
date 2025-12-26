@@ -307,3 +307,6 @@
 ## [2025-12-26 17:35] refactor(kv-cache-compression): telemetry analysis and benchmark logs (2025-12-26 #2)
 - Telemetry latency: 21ms, QPS: 40480, Cache hit: 94.5%
 
+## [2025-12-26 18:59] docs(dpo-loss-margin): telemetry analysis and benchmark logs (2025-12-26 #3)
+- Telemetry latency: 27ms, QPS: 22441, Cache hit: 97.6%
+
