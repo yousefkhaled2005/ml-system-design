@@ -304,3 +304,6 @@
 ## [2025-12-26 12:53] feat(roce-infiniband): telemetry analysis and benchmark logs (2025-12-26 #1)
 - Telemetry latency: 23ms, QPS: 24722, Cache hit: 92.4%
 
+## [2025-12-26 17:35] refactor(kv-cache-compression): telemetry analysis and benchmark logs (2025-12-26 #2)
+- Telemetry latency: 21ms, QPS: 40480, Cache hit: 94.5%
+
