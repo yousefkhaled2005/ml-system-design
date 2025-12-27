@@ -316,3 +316,6 @@
 ## [2025-12-26 11:12] docs(zero-copy-buffers): telemetry analysis and benchmark logs (2025-12-26 #5)
 - Telemetry latency: 25ms, QPS: 28743, Cache hit: 94.1%
 
+## [2025-12-27 8:46] refactor(lmax-disruptor): telemetry analysis and benchmark logs (2025-12-27 #1)
+- Telemetry latency: 17ms, QPS: 30012, Cache hit: 92.5%
+
