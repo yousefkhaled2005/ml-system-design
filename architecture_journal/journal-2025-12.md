@@ -322,3 +322,6 @@
 ## [2025-12-27 13:54] feat(cache-locality): telemetry analysis and benchmark logs (2025-12-27 #2)
 - Telemetry latency: 20ms, QPS: 22118, Cache hit: 93.8%
 
+## [2025-12-28 11:35] feat(qdrant-hybrid-search): telemetry analysis and benchmark logs (2025-12-28 #1)
+- Telemetry latency: 32ms, QPS: 33524, Cache hit: 93.4%
+
