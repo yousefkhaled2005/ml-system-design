@@ -361,3 +361,6 @@
 ## [2025-12-31 14:59] feat(nvme-all-flash): telemetry analysis and benchmark logs (2025-12-31 #5)
 - Telemetry latency: 23ms, QPS: 12403, Cache hit: 92.5%
 
+## [2025-12-31 10:1] feat(chandy-lamport-snapshot): telemetry analysis and benchmark logs (2025-12-31 #6)
+- Telemetry latency: 36ms, QPS: 30813, Cache hit: 94.4%
+
