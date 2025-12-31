@@ -352,3 +352,6 @@
 ## [2025-12-31 14:45] refactor(paged-attention): telemetry analysis and benchmark logs (2025-12-31 #2)
 - Telemetry latency: 28ms, QPS: 37455, Cache hit: 96.5%
 
+## [2025-12-31 8:46] perf(chandy-lamport-snapshot): telemetry analysis and benchmark logs (2025-12-31 #3)
+- Telemetry latency: 38ms, QPS: 43438, Cache hit: 93.5%
+
