@@ -4,3 +4,6 @@
 ## [2026-01-01 10:35] perf(dpo-loss-margin): telemetry analysis and benchmark logs (2026-01-01 #2)
 - Telemetry latency: 38ms, QPS: 45466, Cache hit: 98.7%
 
+## [2026-01-01 19:53] perf(token-bucket-ratelimit): telemetry analysis and benchmark logs (2026-01-01 #3)
+- Telemetry latency: 25ms, QPS: 18157, Cache hit: 92.5%
+
