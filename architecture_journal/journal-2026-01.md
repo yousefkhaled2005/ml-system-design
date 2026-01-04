@@ -40,3 +40,6 @@
 ## [2026-01-04 19:30] feat(vllm-serving): telemetry analysis and benchmark logs (2026-01-04 #1)
 - Telemetry latency: 24ms, QPS: 52276, Cache hit: 96.3%
 
+## [2026-01-04 9:18] refactor(paged-attention): telemetry analysis and benchmark logs (2026-01-04 #2)
+- Telemetry latency: 33ms, QPS: 47639, Cache hit: 96.6%
+
