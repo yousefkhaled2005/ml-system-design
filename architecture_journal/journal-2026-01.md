@@ -43,3 +43,6 @@
 ## [2026-01-04 9:18] refactor(paged-attention): telemetry analysis and benchmark logs (2026-01-04 #2)
 - Telemetry latency: 33ms, QPS: 47639, Cache hit: 96.6%
 
+## [2026-01-04 20:48] perf(langgraph-state-machine): telemetry analysis and benchmark logs (2026-01-04 #3)
+- Telemetry latency: 40ms, QPS: 35357, Cache hit: 94.7%
+
