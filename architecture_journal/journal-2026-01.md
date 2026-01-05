@@ -52,3 +52,6 @@
 ## [2026-01-05 18:57] feat(vllm-serving): telemetry analysis and benchmark logs (2026-01-05 #2)
 - Telemetry latency: 38ms, QPS: 51384, Cache hit: 94.8%
 
+## [2026-01-05 13:31] docs(langgraph-state-machine): telemetry analysis and benchmark logs (2026-01-05 #3)
+- Telemetry latency: 43ms, QPS: 30686, Cache hit: 95.5%
+
