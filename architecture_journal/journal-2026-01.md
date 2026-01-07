@@ -73,3 +73,6 @@
 ## [2026-01-07 8:28] perf(raft-heartbeat): telemetry analysis and benchmark logs (2026-01-07 #3)
 - Telemetry latency: 41ms, QPS: 16089, Cache hit: 97.6%
 
+## [2026-01-07 12:17] feat(flash-attention-v2): telemetry analysis and benchmark logs (2026-01-07 #4)
+- Telemetry latency: 33ms, QPS: 24319, Cache hit: 96.7%
+
