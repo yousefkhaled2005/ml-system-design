@@ -106,3 +106,6 @@
 ## [2026-01-09 13:56] test(lock-free-queues): telemetry analysis and benchmark logs (2026-01-09 #2)
 - Telemetry latency: 31ms, QPS: 33641, Cache hit: 98.6%
 
+## [2026-01-09 9:51] docs(qdrant-hybrid-search): telemetry analysis and benchmark logs (2026-01-09 #3)
+- Telemetry latency: 12ms, QPS: 41380, Cache hit: 97.5%
+
