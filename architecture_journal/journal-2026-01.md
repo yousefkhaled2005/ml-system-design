@@ -100,3 +100,6 @@
 ## [2026-01-08 11:31] refactor(paged-attention): telemetry analysis and benchmark logs (2026-01-08 #6)
 - Telemetry latency: 39ms, QPS: 40434, Cache hit: 94.8%
 
+## [2026-01-09 17:0] perf(kv-cache-compression): telemetry analysis and benchmark logs (2026-01-09 #1)
+- Telemetry latency: 26ms, QPS: 34301, Cache hit: 96.5%
+
