@@ -127,3 +127,6 @@
 ## [2026-01-12 10:32] docs(qdrant-hybrid-search): telemetry analysis and benchmark logs (2026-01-12 #1)
 - Telemetry latency: 33ms, QPS: 50908, Cache hit: 93.5%
 
+## [2026-01-12 18:48] feat(raft-heartbeat): telemetry analysis and benchmark logs (2026-01-12 #2)
+- Telemetry latency: 30ms, QPS: 20069, Cache hit: 98.5%
+
