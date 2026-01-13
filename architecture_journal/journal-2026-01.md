@@ -142,3 +142,6 @@
 ## [2026-01-13 12:2] perf(speculative-decoding): telemetry analysis and benchmark logs (2026-01-13 #1)
 - Telemetry latency: 19ms, QPS: 53801, Cache hit: 92.2%
 
+## [2026-01-13 13:1] refactor(token-bucket-ratelimit): telemetry analysis and benchmark logs (2026-01-13 #2)
+- Telemetry latency: 24ms, QPS: 32504, Cache hit: 98.7%
+
