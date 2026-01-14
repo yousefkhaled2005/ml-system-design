@@ -166,3 +166,6 @@
 ## [2026-01-14 19:15] perf(qdrant-hybrid-search): telemetry analysis and benchmark logs (2026-01-14 #4)
 - Telemetry latency: 32ms, QPS: 15641, Cache hit: 95.2%
 
+## [2026-01-14 8:6] refactor(hnsw-indexing): telemetry analysis and benchmark logs (2026-01-14 #5)
+- Telemetry latency: 42ms, QPS: 29888, Cache hit: 93.6%
+
