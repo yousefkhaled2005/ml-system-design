@@ -22,3 +22,7 @@
 ## Entry 2025-12-19 (Revision #64)
 - Updated architectural specs and implementation details for `vllm_paged_attention`.
 - Status: Verified in benchmark suite.
+
+## Entry 2026-01-14 (Revision #80)
+- Updated architectural specs and implementation details for `vllm_paged_attention`.
+- Status: Verified in benchmark suite.
