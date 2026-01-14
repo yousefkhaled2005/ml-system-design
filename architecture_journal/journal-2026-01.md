@@ -154,3 +154,6 @@
 ## [2026-01-13 12:51] refactor(speculative-decoding): telemetry analysis and benchmark logs (2026-01-13 #5)
 - Telemetry latency: 26ms, QPS: 30563, Cache hit: 97.3%
 
+## [2026-01-14 20:44] test(langgraph-state-machine): telemetry analysis and benchmark logs (2026-01-14 #1)
+- Telemetry latency: 37ms, QPS: 52350, Cache hit: 95.1%
+
