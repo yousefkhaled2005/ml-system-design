@@ -172,3 +172,6 @@
 ## [2026-01-14 20:36] refactor(lock-free-queues): telemetry analysis and benchmark logs (2026-01-14 #6)
 - Telemetry latency: 20ms, QPS: 43806, Cache hit: 96.2%
 
+## [2026-01-15 13:59] perf(vllm-serving): telemetry analysis and benchmark logs (2026-01-15 #1)
+- Telemetry latency: 29ms, QPS: 39499, Cache hit: 93.1%
+
