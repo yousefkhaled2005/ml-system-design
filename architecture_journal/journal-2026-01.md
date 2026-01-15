@@ -181,3 +181,6 @@
 ## [2026-01-15 20:36] perf(speculative-decoding): telemetry analysis and benchmark logs (2026-01-15 #3)
 - Telemetry latency: 20ms, QPS: 24689, Cache hit: 94.5%
 
+## [2026-01-15 11:20] test(lmax-disruptor): telemetry analysis and benchmark logs (2026-01-15 #4)
+- Telemetry latency: 37ms, QPS: 16508, Cache hit: 92.7%
+
