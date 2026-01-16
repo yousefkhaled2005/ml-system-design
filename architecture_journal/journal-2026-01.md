@@ -196,3 +196,6 @@
 ## [2026-01-16 8:21] test(grpc-protobuf-stream): telemetry analysis and benchmark logs (2026-01-16 #3)
 - Telemetry latency: 15ms, QPS: 24061, Cache hit: 96.8%
 
+## [2026-01-16 12:28] perf(hnsw-indexing): telemetry analysis and benchmark logs (2026-01-16 #4)
+- Telemetry latency: 35ms, QPS: 51347, Cache hit: 97.5%
+
