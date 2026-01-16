@@ -202,3 +202,6 @@
 ## [2026-01-16 19:18] refactor(simd-avx512): telemetry analysis and benchmark logs (2026-01-16 #5)
 - Telemetry latency: 12ms, QPS: 25499, Cache hit: 97.2%
 
+## [2026-01-16 8:54] docs(hnsw-indexing): telemetry analysis and benchmark logs (2026-01-16 #6)
+- Telemetry latency: 20ms, QPS: 17490, Cache hit: 96.4%
+
