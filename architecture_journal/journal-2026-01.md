@@ -205,3 +205,6 @@
 ## [2026-01-16 8:54] docs(hnsw-indexing): telemetry analysis and benchmark logs (2026-01-16 #6)
 - Telemetry latency: 20ms, QPS: 17490, Cache hit: 96.4%
 
+## [2026-01-17 17:16] test(vllm-serving): telemetry analysis and benchmark logs (2026-01-17 #1)
+- Telemetry latency: 33ms, QPS: 39136, Cache hit: 98.8%
+
