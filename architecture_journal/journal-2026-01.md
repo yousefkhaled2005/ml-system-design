@@ -250,3 +250,6 @@
 ## [2026-01-21 10:42] docs(zero-copy-buffers): telemetry analysis and benchmark logs (2026-01-21 #1)
 - Telemetry latency: 17ms, QPS: 48844, Cache hit: 97.4%
 
+## [2026-01-21 20:45] feat(chandy-lamport-snapshot): telemetry analysis and benchmark logs (2026-01-21 #2)
+- Telemetry latency: 35ms, QPS: 31659, Cache hit: 95.7%
+
