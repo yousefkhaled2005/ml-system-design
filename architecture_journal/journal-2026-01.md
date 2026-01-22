@@ -256,3 +256,6 @@
 ## [2026-01-21 15:43] perf(zero-copy-buffers): telemetry analysis and benchmark logs (2026-01-21 #3)
 - Telemetry latency: 38ms, QPS: 22418, Cache hit: 94.6%
 
+## [2026-01-22 19:19] perf(token-bucket-ratelimit): telemetry analysis and benchmark logs (2026-01-22 #1)
+- Telemetry latency: 19ms, QPS: 24835, Cache hit: 98.2%
+
