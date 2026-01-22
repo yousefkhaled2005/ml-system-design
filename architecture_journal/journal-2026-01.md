@@ -259,3 +259,6 @@
 ## [2026-01-22 19:19] perf(token-bucket-ratelimit): telemetry analysis and benchmark logs (2026-01-22 #1)
 - Telemetry latency: 19ms, QPS: 24835, Cache hit: 98.2%
 
+## [2026-01-22 9:54] test(flash-attention-v2): telemetry analysis and benchmark logs (2026-01-22 #2)
+- Telemetry latency: 42ms, QPS: 30518, Cache hit: 93.8%
+
