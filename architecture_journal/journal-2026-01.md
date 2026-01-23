@@ -277,3 +277,6 @@
 ## [2026-01-23 17:44] perf(nvme-all-flash): telemetry analysis and benchmark logs (2026-01-23 #4)
 - Telemetry latency: 21ms, QPS: 20683, Cache hit: 98.6%
 
+## [2026-01-23 14:38] docs(lock-free-queues): telemetry analysis and benchmark logs (2026-01-23 #5)
+- Telemetry latency: 15ms, QPS: 43573, Cache hit: 95.7%
+
