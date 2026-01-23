@@ -274,3 +274,6 @@
 ## [2026-01-23 19:44] test(simd-avx512): telemetry analysis and benchmark logs (2026-01-23 #3)
 - Telemetry latency: 44ms, QPS: 34790, Cache hit: 94.1%
 
+## [2026-01-23 17:44] perf(nvme-all-flash): telemetry analysis and benchmark logs (2026-01-23 #4)
+- Telemetry latency: 21ms, QPS: 20683, Cache hit: 98.6%
+
