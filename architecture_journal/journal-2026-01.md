@@ -301,3 +301,6 @@
 ## [2026-01-26 18:24] feat(hnsw-indexing): telemetry analysis and benchmark logs (2026-01-26 #2)
 - Telemetry latency: 43ms, QPS: 46439, Cache hit: 94.5%
 
+## [2026-01-26 20:30] perf(lmax-disruptor): telemetry analysis and benchmark logs (2026-01-26 #3)
+- Telemetry latency: 18ms, QPS: 34429, Cache hit: 92.4%
+
