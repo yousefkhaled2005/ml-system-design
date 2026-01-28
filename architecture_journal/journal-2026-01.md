@@ -343,3 +343,6 @@
 ## [2026-01-28 20:57] refactor(zero-copy-buffers): telemetry analysis and benchmark logs (2026-01-28 #5)
 - Telemetry latency: 38ms, QPS: 42128, Cache hit: 96.5%
 
+## [2026-01-28 20:17] perf(raft-heartbeat): telemetry analysis and benchmark logs (2026-01-28 #6)
+- Telemetry latency: 41ms, QPS: 18530, Cache hit: 92.2%
+
