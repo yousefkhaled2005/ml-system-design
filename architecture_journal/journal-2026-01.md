@@ -331,3 +331,6 @@
 ## [2026-01-28 9:28] feat(speculative-decoding): telemetry analysis and benchmark logs (2026-01-28 #1)
 - Telemetry latency: 13ms, QPS: 14913, Cache hit: 93.6%
 
+## [2026-01-28 16:58] test(lmax-disruptor): telemetry analysis and benchmark logs (2026-01-28 #2)
+- Telemetry latency: 22ms, QPS: 14228, Cache hit: 94.5%
+
