@@ -337,3 +337,6 @@
 ## [2026-01-28 17:42] perf(token-bucket-ratelimit): telemetry analysis and benchmark logs (2026-01-28 #3)
 - Telemetry latency: 15ms, QPS: 30504, Cache hit: 93.7%
 
+## [2026-01-28 8:18] docs(vllm-serving): telemetry analysis and benchmark logs (2026-01-28 #4)
+- Telemetry latency: 22ms, QPS: 25464, Cache hit: 95.3%
+
