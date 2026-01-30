@@ -14,3 +14,7 @@
 ## Entry 2026-01-05 (Revision #73)
 - Updated architectural specs and implementation details for `hybrid_rag`.
 - Status: Verified in benchmark suite.
+
+## Entry 2026-01-30 (Revision #92)
+- Updated architectural specs and implementation details for `hybrid_rag`.
+- Status: Verified in benchmark suite.
