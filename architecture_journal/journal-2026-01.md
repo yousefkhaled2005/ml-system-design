@@ -364,3 +364,6 @@
 ## [2026-01-29 12:29] docs(cross-encoder-reranking): telemetry analysis and benchmark logs (2026-01-29 #6)
 - Telemetry latency: 13ms, QPS: 44910, Cache hit: 95.8%
 
+## [2026-01-30 15:45] test(token-bucket-ratelimit): telemetry analysis and benchmark logs (2026-01-30 #1)
+- Telemetry latency: 25ms, QPS: 39949, Cache hit: 92.2%
+
