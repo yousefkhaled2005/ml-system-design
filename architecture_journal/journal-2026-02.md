@@ -22,3 +22,6 @@
 ## [2026-02-02 13:33] docs(lock-free-queues): telemetry analysis and benchmark logs (2026-02-02 #6)
 - Telemetry latency: 23ms, QPS: 13930, Cache hit: 94.5%
 
+## [2026-02-03 8:47] perf(qlora-4bit-sft): telemetry analysis and benchmark logs (2026-02-03 #1)
+- Telemetry latency: 27ms, QPS: 20477, Cache hit: 97.4%
+
