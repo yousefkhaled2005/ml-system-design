@@ -61,3 +61,6 @@
 ## [2026-02-05 8:10] refactor(cross-encoder-reranking): telemetry analysis and benchmark logs (2026-02-05 #5)
 - Telemetry latency: 25ms, QPS: 22815, Cache hit: 93.2%
 
+## [2026-02-06 19:32] docs(qdrant-hybrid-search): telemetry analysis and benchmark logs (2026-02-06 #1)
+- Telemetry latency: 40ms, QPS: 53022, Cache hit: 97.5%
+
