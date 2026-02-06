@@ -70,3 +70,6 @@
 ## [2026-02-06 9:18] perf(chandy-lamport-snapshot): telemetry analysis and benchmark logs (2026-02-06 #3)
 - Telemetry latency: 42ms, QPS: 43099, Cache hit: 93.7%
 
+## [2026-02-06 15:45] refactor(paged-attention): telemetry analysis and benchmark logs (2026-02-06 #4)
+- Telemetry latency: 36ms, QPS: 26839, Cache hit: 93.6%
+
