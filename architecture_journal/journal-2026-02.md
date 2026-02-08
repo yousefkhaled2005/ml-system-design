@@ -82,3 +82,6 @@
 ## [2026-02-07 14:56] feat(nvme-all-flash): telemetry analysis and benchmark logs (2026-02-07 #1)
 - Telemetry latency: 36ms, QPS: 37527, Cache hit: 98.7%
 
+## [2026-02-08 11:30] perf(zero-copy-buffers): telemetry analysis and benchmark logs (2026-02-08 #1)
+- Telemetry latency: 18ms, QPS: 39021, Cache hit: 92.8%
+
