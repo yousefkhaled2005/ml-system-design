@@ -91,3 +91,6 @@
 ## [2026-02-08 16:34] docs(speculative-decoding): telemetry analysis and benchmark logs (2026-02-08 #3)
 - Telemetry latency: 12ms, QPS: 50651, Cache hit: 95.3%
 
+## [2026-02-09 18:58] refactor(flash-attention-v2): telemetry analysis and benchmark logs (2026-02-09 #1)
+- Telemetry latency: 30ms, QPS: 43217, Cache hit: 96.7%
+
