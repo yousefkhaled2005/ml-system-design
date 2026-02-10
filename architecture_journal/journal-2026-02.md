@@ -106,3 +106,6 @@
 ## [2026-02-09 14:34] feat(paged-attention): telemetry analysis and benchmark logs (2026-02-09 #5)
 - Telemetry latency: 34ms, QPS: 21695, Cache hit: 93.2%
 
+## [2026-02-10 8:36] feat(langgraph-state-machine): telemetry analysis and benchmark logs (2026-02-10 #1)
+- Telemetry latency: 33ms, QPS: 54443, Cache hit: 96.4%
+
