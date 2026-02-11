@@ -118,3 +118,6 @@
 ## [2026-02-11 11:10] docs(cross-encoder-reranking): telemetry analysis and benchmark logs (2026-02-11 #1)
 - Telemetry latency: 21ms, QPS: 16598, Cache hit: 98.8%
 
+## [2026-02-11 8:56] refactor(hnsw-indexing): telemetry analysis and benchmark logs (2026-02-11 #2)
+- Telemetry latency: 40ms, QPS: 15151, Cache hit: 98.1%
+
