@@ -127,3 +127,6 @@
 ## [2026-02-12 18:29] refactor(paged-attention): telemetry analysis and benchmark logs (2026-02-12 #1)
 - Telemetry latency: 31ms, QPS: 45589, Cache hit: 94.6%
 
+## [2026-02-12 9:29] refactor(hnsw-indexing): telemetry analysis and benchmark logs (2026-02-12 #2)
+- Telemetry latency: 13ms, QPS: 38758, Cache hit: 95.4%
+
