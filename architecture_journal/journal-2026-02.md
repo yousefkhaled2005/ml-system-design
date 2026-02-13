@@ -145,3 +145,6 @@
 ## [2026-02-13 19:6] docs(simd-avx512): telemetry analysis and benchmark logs (2026-02-13 #2)
 - Telemetry latency: 33ms, QPS: 44718, Cache hit: 96.1%
 
+## [2026-02-13 10:43] docs(speculative-decoding): telemetry analysis and benchmark logs (2026-02-13 #3)
+- Telemetry latency: 43ms, QPS: 37913, Cache hit: 92.7%
+
