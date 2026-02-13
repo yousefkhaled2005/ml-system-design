@@ -148,3 +148,6 @@
 ## [2026-02-13 10:43] docs(speculative-decoding): telemetry analysis and benchmark logs (2026-02-13 #3)
 - Telemetry latency: 43ms, QPS: 37913, Cache hit: 92.7%
 
+## [2026-02-13 18:22] feat(cross-encoder-reranking): telemetry analysis and benchmark logs (2026-02-13 #4)
+- Telemetry latency: 28ms, QPS: 26196, Cache hit: 94.7%
+
