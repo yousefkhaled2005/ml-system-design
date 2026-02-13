@@ -151,3 +151,6 @@
 ## [2026-02-13 18:22] feat(cross-encoder-reranking): telemetry analysis and benchmark logs (2026-02-13 #4)
 - Telemetry latency: 28ms, QPS: 26196, Cache hit: 94.7%
 
+## [2026-02-13 10:30] docs(flash-attention-v2): telemetry analysis and benchmark logs (2026-02-13 #5)
+- Telemetry latency: 29ms, QPS: 20740, Cache hit: 94.5%
+
