@@ -187,3 +187,6 @@
 ## [2026-02-17 12:2] test(chandy-lamport-snapshot): telemetry analysis and benchmark logs (2026-02-17 #2)
 - Telemetry latency: 16ms, QPS: 22748, Cache hit: 98.2%
 
+## [2026-02-17 17:19] docs(speculative-decoding): telemetry analysis and benchmark logs (2026-02-17 #3)
+- Telemetry latency: 20ms, QPS: 23548, Cache hit: 94.8%
+
