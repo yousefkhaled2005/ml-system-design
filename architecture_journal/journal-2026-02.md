@@ -184,3 +184,6 @@
 ## [2026-02-17 14:31] refactor(kv-cache-compression): telemetry analysis and benchmark logs (2026-02-17 #1)
 - Telemetry latency: 16ms, QPS: 15819, Cache hit: 95.2%
 
+## [2026-02-17 12:2] test(chandy-lamport-snapshot): telemetry analysis and benchmark logs (2026-02-17 #2)
+- Telemetry latency: 16ms, QPS: 22748, Cache hit: 98.2%
+
