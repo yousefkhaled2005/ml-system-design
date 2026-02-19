@@ -220,3 +220,6 @@
 ## [2026-02-19 14:34] refactor(hnsw-indexing): telemetry analysis and benchmark logs (2026-02-19 #3)
 - Telemetry latency: 12ms, QPS: 18745, Cache hit: 94.8%
 
+## [2026-02-19 12:42] feat(speculative-decoding): telemetry analysis and benchmark logs (2026-02-19 #4)
+- Telemetry latency: 19ms, QPS: 53504, Cache hit: 96.4%
+
