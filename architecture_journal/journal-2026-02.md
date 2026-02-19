@@ -226,3 +226,6 @@
 ## [2026-02-19 15:49] feat(zero-copy-buffers): telemetry analysis and benchmark logs (2026-02-19 #5)
 - Telemetry latency: 27ms, QPS: 38753, Cache hit: 97.6%
 
+## [2026-02-19 15:36] test(hnsw-indexing): telemetry analysis and benchmark logs (2026-02-19 #6)
+- Telemetry latency: 27ms, QPS: 47059, Cache hit: 95.6%
+
