@@ -238,3 +238,6 @@
 ## [2026-02-20 11:4] perf(token-bucket-ratelimit): telemetry analysis and benchmark logs (2026-02-20 #3)
 - Telemetry latency: 42ms, QPS: 33585, Cache hit: 92.5%
 
+## [2026-02-20 15:15] docs(nvme-all-flash): telemetry analysis and benchmark logs (2026-02-20 #4)
+- Telemetry latency: 37ms, QPS: 17724, Cache hit: 96.2%
+
