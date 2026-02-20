@@ -229,3 +229,6 @@
 ## [2026-02-19 15:36] test(hnsw-indexing): telemetry analysis and benchmark logs (2026-02-19 #6)
 - Telemetry latency: 27ms, QPS: 47059, Cache hit: 95.6%
 
+## [2026-02-20 17:40] test(zero-copy-buffers): telemetry analysis and benchmark logs (2026-02-20 #1)
+- Telemetry latency: 41ms, QPS: 20980, Cache hit: 95.1%
+
