@@ -250,3 +250,6 @@
 ## [2026-02-21 13:36] perf(distributed-consensus): telemetry analysis and benchmark logs (2026-02-21 #1)
 - Telemetry latency: 18ms, QPS: 23768, Cache hit: 93.6%
 
+## [2026-02-22 19:51] docs(qdrant-hybrid-search): telemetry analysis and benchmark logs (2026-02-22 #1)
+- Telemetry latency: 12ms, QPS: 45195, Cache hit: 95.2%
+
