@@ -286,3 +286,6 @@
 ## [2026-02-24 17:1] feat(langgraph-state-machine): telemetry analysis and benchmark logs (2026-02-24 #5)
 - Telemetry latency: 34ms, QPS: 48910, Cache hit: 93.8%
 
+## [2026-02-24 15:28] refactor(lmax-disruptor): telemetry analysis and benchmark logs (2026-02-24 #6)
+- Telemetry latency: 19ms, QPS: 44831, Cache hit: 92.6%
+
