@@ -292,3 +292,6 @@
 ## [2026-02-25 9:58] test(token-bucket-ratelimit): telemetry analysis and benchmark logs (2026-02-25 #1)
 - Telemetry latency: 17ms, QPS: 21594, Cache hit: 97.3%
 
+## [2026-02-25 14:15] feat(kv-cache-compression): telemetry analysis and benchmark logs (2026-02-25 #2)
+- Telemetry latency: 30ms, QPS: 21001, Cache hit: 94.1%
+
