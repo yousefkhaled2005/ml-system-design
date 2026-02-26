@@ -304,3 +304,6 @@
 ## [2026-02-26 14:41] refactor(zero-copy-buffers): telemetry analysis and benchmark logs (2026-02-26 #2)
 - Telemetry latency: 28ms, QPS: 53049, Cache hit: 94.3%
 
+## [2026-02-26 18:31] docs(grpc-protobuf-stream): telemetry analysis and benchmark logs (2026-02-26 #3)
+- Telemetry latency: 26ms, QPS: 17616, Cache hit: 95.3%
+
