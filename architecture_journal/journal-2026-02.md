@@ -316,3 +316,6 @@
 ## [2026-02-27 14:5] feat(lmax-disruptor): telemetry analysis and benchmark logs (2026-02-27 #2)
 - Telemetry latency: 15ms, QPS: 34716, Cache hit: 95.4%
 
+## [2026-02-27 19:54] test(vllm-serving): telemetry analysis and benchmark logs (2026-02-27 #3)
+- Telemetry latency: 34ms, QPS: 51698, Cache hit: 95.5%
+
