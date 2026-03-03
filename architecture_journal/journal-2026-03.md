@@ -13,3 +13,6 @@
 ## [2026-03-02 9:6] refactor(lmax-disruptor): telemetry analysis and benchmark logs (2026-03-02 #3)
 - Telemetry latency: 44ms, QPS: 28745, Cache hit: 97.5%
 
+## [2026-03-03 11:1] feat(hnsw-indexing): telemetry analysis and benchmark logs (2026-03-03 #1)
+- Telemetry latency: 42ms, QPS: 54450, Cache hit: 94.8%
+
