@@ -34,3 +34,6 @@
 ## [2026-03-04 14:57] docs(speculative-decoding): telemetry analysis and benchmark logs (2026-03-04 #4)
 - Telemetry latency: 14ms, QPS: 20190, Cache hit: 94.3%
 
+## [2026-03-04 12:37] feat(chandy-lamport-snapshot): telemetry analysis and benchmark logs (2026-03-04 #5)
+- Telemetry latency: 27ms, QPS: 13043, Cache hit: 93.8%
+
