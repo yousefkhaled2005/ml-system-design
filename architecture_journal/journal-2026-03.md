@@ -61,3 +61,6 @@
 ## [2026-03-06 17:49] refactor(langgraph-state-machine): telemetry analysis and benchmark logs (2026-03-06 #5)
 - Telemetry latency: 34ms, QPS: 41749, Cache hit: 93.6%
 
+## [2026-03-07 10:52] test(flash-attention-v2): telemetry analysis and benchmark logs (2026-03-07 #1)
+- Telemetry latency: 23ms, QPS: 19917, Cache hit: 96.4%
+
