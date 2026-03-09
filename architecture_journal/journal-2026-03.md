@@ -88,3 +88,6 @@
 ## [2026-03-09 16:48] feat(paged-attention): telemetry analysis and benchmark logs (2026-03-09 #3)
 - Telemetry latency: 29ms, QPS: 51042, Cache hit: 94.5%
 
+## [2026-03-09 12:48] test(chandy-lamport-snapshot): telemetry analysis and benchmark logs (2026-03-09 #4)
+- Telemetry latency: 23ms, QPS: 14558, Cache hit: 92.3%
+
