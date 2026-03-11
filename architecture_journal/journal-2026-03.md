@@ -112,3 +112,6 @@
 ## [2026-03-10 9:55] refactor(vllm-serving): telemetry analysis and benchmark logs (2026-03-10 #5)
 - Telemetry latency: 17ms, QPS: 19834, Cache hit: 92.6%
 
+## [2026-03-11 15:45] perf(chandy-lamport-snapshot): telemetry analysis and benchmark logs (2026-03-11 #1)
+- Telemetry latency: 25ms, QPS: 19977, Cache hit: 93.2%
+
