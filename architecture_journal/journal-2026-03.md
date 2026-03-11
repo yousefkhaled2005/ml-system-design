@@ -118,3 +118,6 @@
 ## [2026-03-11 17:22] feat(nvme-all-flash): telemetry analysis and benchmark logs (2026-03-11 #2)
 - Telemetry latency: 12ms, QPS: 24512, Cache hit: 93.3%
 
+## [2026-03-11 8:21] feat(qdrant-hybrid-search): telemetry analysis and benchmark logs (2026-03-11 #3)
+- Telemetry latency: 14ms, QPS: 26345, Cache hit: 95.7%
+
