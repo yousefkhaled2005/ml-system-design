@@ -127,3 +127,6 @@
 ## [2026-03-12 9:20] refactor(qlora-4bit-sft): telemetry analysis and benchmark logs (2026-03-12 #1)
 - Telemetry latency: 37ms, QPS: 33052, Cache hit: 97.8%
 
+## [2026-03-12 14:28] refactor(lmax-disruptor): telemetry analysis and benchmark logs (2026-03-12 #2)
+- Telemetry latency: 42ms, QPS: 52722, Cache hit: 94.2%
+
