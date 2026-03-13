@@ -139,3 +139,6 @@
 ## [2026-03-13 8:44] docs(qlora-4bit-sft): telemetry analysis and benchmark logs (2026-03-13 #1)
 - Telemetry latency: 24ms, QPS: 37115, Cache hit: 93.4%
 
+## [2026-03-13 13:17] test(qdrant-hybrid-search): telemetry analysis and benchmark logs (2026-03-13 #2)
+- Telemetry latency: 34ms, QPS: 31121, Cache hit: 96.1%
+
