@@ -136,3 +136,6 @@
 ## [2026-03-12 17:26] test(speculative-decoding): telemetry analysis and benchmark logs (2026-03-12 #4)
 - Telemetry latency: 37ms, QPS: 17882, Cache hit: 98.2%
 
+## [2026-03-13 8:44] docs(qlora-4bit-sft): telemetry analysis and benchmark logs (2026-03-13 #1)
+- Telemetry latency: 24ms, QPS: 37115, Cache hit: 93.4%
+
