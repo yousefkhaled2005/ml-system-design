@@ -163,3 +163,6 @@
 ## [2026-03-16 16:26] test(chandy-lamport-snapshot): telemetry analysis and benchmark logs (2026-03-16 #2)
 - Telemetry latency: 12ms, QPS: 25841, Cache hit: 93.7%
 
+## [2026-03-16 17:29] refactor(paged-attention): telemetry analysis and benchmark logs (2026-03-16 #3)
+- Telemetry latency: 38ms, QPS: 26669, Cache hit: 98.1%
+
