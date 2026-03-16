@@ -160,3 +160,6 @@
 ## [2026-03-16 15:51] refactor(cache-locality): telemetry analysis and benchmark logs (2026-03-16 #1)
 - Telemetry latency: 23ms, QPS: 33928, Cache hit: 96.2%
 
+## [2026-03-16 16:26] test(chandy-lamport-snapshot): telemetry analysis and benchmark logs (2026-03-16 #2)
+- Telemetry latency: 12ms, QPS: 25841, Cache hit: 93.7%
+
