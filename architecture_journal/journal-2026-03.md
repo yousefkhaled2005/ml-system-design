@@ -175,3 +175,6 @@
 ## [2026-03-16 14:34] test(qlora-4bit-sft): telemetry analysis and benchmark logs (2026-03-16 #6)
 - Telemetry latency: 20ms, QPS: 25917, Cache hit: 92.3%
 
+## [2026-03-17 12:34] docs(hnsw-indexing): telemetry analysis and benchmark logs (2026-03-17 #1)
+- Telemetry latency: 32ms, QPS: 43065, Cache hit: 94.6%
+
