@@ -205,3 +205,6 @@
 ## [2026-03-19 15:6] perf(raft-heartbeat): telemetry analysis and benchmark logs (2026-03-19 #1)
 - Telemetry latency: 30ms, QPS: 33069, Cache hit: 95.2%
 
+## [2026-03-19 8:7] test(token-bucket-ratelimit): telemetry analysis and benchmark logs (2026-03-19 #2)
+- Telemetry latency: 23ms, QPS: 48480, Cache hit: 95.5%
+
