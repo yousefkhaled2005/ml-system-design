@@ -220,3 +220,6 @@
 ## [2026-03-20 10:8] test(simd-avx512): telemetry analysis and benchmark logs (2026-03-20 #2)
 - Telemetry latency: 27ms, QPS: 37815, Cache hit: 94.1%
 
+## [2026-03-20 18:43] test(kv-cache-compression): telemetry analysis and benchmark logs (2026-03-20 #3)
+- Telemetry latency: 29ms, QPS: 45535, Cache hit: 98.3%
+
