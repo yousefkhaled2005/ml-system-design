@@ -22,3 +22,7 @@
 ## Entry 2026-02-05 (Revision #98)
 - Updated architectural specs and implementation details for `prompt_injection`.
 - Status: Verified in benchmark suite.
+
+## Entry 2026-03-20 (Revision #131)
+- Updated architectural specs and implementation details for `prompt_injection`.
+- Status: Verified in benchmark suite.
