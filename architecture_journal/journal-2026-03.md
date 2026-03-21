@@ -232,3 +232,6 @@
 ## [2026-03-21 10:12] docs(zero-copy-buffers): telemetry analysis and benchmark logs (2026-03-21 #1)
 - Telemetry latency: 14ms, QPS: 44073, Cache hit: 96.2%
 
+## [2026-03-21 13:26] perf(qlora-4bit-sft): telemetry analysis and benchmark logs (2026-03-21 #2)
+- Telemetry latency: 22ms, QPS: 25191, Cache hit: 98.7%
+
