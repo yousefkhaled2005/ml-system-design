@@ -241,3 +241,6 @@
 ## [2026-03-22 12:30] docs(kv-cache-compression): telemetry analysis and benchmark logs (2026-03-22 #2)
 - Telemetry latency: 19ms, QPS: 19745, Cache hit: 94.8%
 
+## [2026-03-22 19:35] feat(chandy-lamport-snapshot): telemetry analysis and benchmark logs (2026-03-22 #3)
+- Telemetry latency: 42ms, QPS: 18928, Cache hit: 93.1%
+
