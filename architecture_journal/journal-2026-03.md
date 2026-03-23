@@ -250,3 +250,6 @@
 ## [2026-03-23 8:8] docs(kv-cache-compression): telemetry analysis and benchmark logs (2026-03-23 #2)
 - Telemetry latency: 36ms, QPS: 52545, Cache hit: 95.1%
 
+## [2026-03-23 14:14] docs(hnsw-indexing): telemetry analysis and benchmark logs (2026-03-23 #3)
+- Telemetry latency: 35ms, QPS: 15813, Cache hit: 96.6%
+
