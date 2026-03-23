@@ -34,3 +34,7 @@
 ## Entry 2026-01-23 (Revision #90)
 - Updated architectural specs and implementation details for `token_bucket`.
 - Status: Verified in benchmark suite.
+
+## Entry 2026-03-23 (Revision #134)
+- Updated architectural specs and implementation details for `token_bucket`.
+- Status: Verified in benchmark suite.
