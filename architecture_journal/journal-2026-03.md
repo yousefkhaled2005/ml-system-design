@@ -259,3 +259,6 @@
 ## [2026-03-24 19:36] docs(cache-locality): telemetry analysis and benchmark logs (2026-03-24 #2)
 - Telemetry latency: 21ms, QPS: 29840, Cache hit: 97.7%
 
+## [2026-03-24 16:51] refactor(paged-attention): telemetry analysis and benchmark logs (2026-03-24 #3)
+- Telemetry latency: 38ms, QPS: 32702, Cache hit: 92.3%
+
