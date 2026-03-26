@@ -277,3 +277,6 @@
 ## [2026-03-26 17:30] docs(roce-infiniband): telemetry analysis and benchmark logs (2026-03-26 #2)
 - Telemetry latency: 32ms, QPS: 53931, Cache hit: 96.2%
 
+## [2026-03-26 17:6] feat(vllm-serving): telemetry analysis and benchmark logs (2026-03-26 #3)
+- Telemetry latency: 22ms, QPS: 29374, Cache hit: 95.4%
+
