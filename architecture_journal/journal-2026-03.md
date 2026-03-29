@@ -313,3 +313,6 @@
 ## [2026-03-28 10:22] docs(kv-cache-compression): telemetry analysis and benchmark logs (2026-03-28 #3)
 - Telemetry latency: 38ms, QPS: 52991, Cache hit: 96.3%
 
+## [2026-03-29 11:35] feat(cuda-kernel-tuning): telemetry analysis and benchmark logs (2026-03-29 #1)
+- Telemetry latency: 23ms, QPS: 25452, Cache hit: 95.4%
+
