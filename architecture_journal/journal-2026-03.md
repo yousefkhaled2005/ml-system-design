@@ -319,3 +319,6 @@
 ## [2026-03-30 17:7] test(distributed-consensus): telemetry analysis and benchmark logs (2026-03-30 #1)
 - Telemetry latency: 36ms, QPS: 54206, Cache hit: 95.6%
 
+## [2026-03-30 17:46] refactor(speculative-decoding): telemetry analysis and benchmark logs (2026-03-30 #2)
+- Telemetry latency: 31ms, QPS: 48423, Cache hit: 95.6%
+
