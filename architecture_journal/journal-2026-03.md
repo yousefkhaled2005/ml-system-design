@@ -331,3 +331,6 @@
 ## [2026-03-30 11:48] feat(dpo-loss-margin): telemetry analysis and benchmark logs (2026-03-30 #5)
 - Telemetry latency: 39ms, QPS: 25370, Cache hit: 93.4%
 
+## [2026-03-31 14:58] refactor(token-bucket-ratelimit): telemetry analysis and benchmark logs (2026-03-31 #1)
+- Telemetry latency: 40ms, QPS: 51588, Cache hit: 92.6%
+
