@@ -26,3 +26,7 @@
 ## Entry 2026-03-26 (Revision #137)
 - Updated architectural specs and implementation details for `latency_budgets`.
 - Status: Verified in benchmark suite.
+
+## Entry 2026-04-01 (Revision #143)
+- Updated architectural specs and implementation details for `latency_budgets`.
+- Status: Verified in benchmark suite.
