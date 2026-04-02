@@ -16,3 +16,6 @@
 ## [2026-04-02 11:59] feat(paged-attention): telemetry analysis and benchmark logs (2026-04-02 #2)
 - Telemetry latency: 44ms, QPS: 47615, Cache hit: 97.3%
 
+## [2026-04-02 15:54] test(cuda-kernel-tuning): telemetry analysis and benchmark logs (2026-04-02 #3)
+- Telemetry latency: 32ms, QPS: 13766, Cache hit: 98.6%
+
