@@ -52,3 +52,6 @@
 ## [2026-04-06 20:59] docs(zero-copy-buffers): telemetry analysis and benchmark logs (2026-04-06 #3)
 - Telemetry latency: 33ms, QPS: 38334, Cache hit: 95.3%
 
+## [2026-04-06 9:8] refactor(cache-locality): telemetry analysis and benchmark logs (2026-04-06 #4)
+- Telemetry latency: 28ms, QPS: 52907, Cache hit: 97.1%
+
