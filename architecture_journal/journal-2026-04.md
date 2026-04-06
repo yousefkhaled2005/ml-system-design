@@ -46,3 +46,6 @@
 ## [2026-04-06 20:12] refactor(langgraph-state-machine): telemetry analysis and benchmark logs (2026-04-06 #1)
 - Telemetry latency: 26ms, QPS: 43469, Cache hit: 96.5%
 
+## [2026-04-06 11:25] test(qlora-4bit-sft): telemetry analysis and benchmark logs (2026-04-06 #2)
+- Telemetry latency: 22ms, QPS: 50807, Cache hit: 92.7%
+
