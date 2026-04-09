@@ -91,3 +91,6 @@
 ## [2026-04-09 19:35] feat(grpc-protobuf-stream): telemetry analysis and benchmark logs (2026-04-09 #5)
 - Telemetry latency: 31ms, QPS: 24162, Cache hit: 98.3%
 
+## [2026-04-09 13:29] docs(cross-encoder-reranking): telemetry analysis and benchmark logs (2026-04-09 #6)
+- Telemetry latency: 40ms, QPS: 39866, Cache hit: 92.3%
+
