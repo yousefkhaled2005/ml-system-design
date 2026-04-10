@@ -94,3 +94,6 @@
 ## [2026-04-09 13:29] docs(cross-encoder-reranking): telemetry analysis and benchmark logs (2026-04-09 #6)
 - Telemetry latency: 40ms, QPS: 39866, Cache hit: 92.3%
 
+## [2026-04-10 10:22] docs(lmax-disruptor): telemetry analysis and benchmark logs (2026-04-10 #1)
+- Telemetry latency: 37ms, QPS: 38055, Cache hit: 97.4%
+
