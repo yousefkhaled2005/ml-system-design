@@ -112,3 +112,6 @@
 ## [2026-04-10 14:6] perf(vllm-serving): telemetry analysis and benchmark logs (2026-04-10 #6)
 - Telemetry latency: 30ms, QPS: 54116, Cache hit: 97.4%
 
+## [2026-04-11 8:27] docs(zero-copy-buffers): telemetry analysis and benchmark logs (2026-04-11 #1)
+- Telemetry latency: 17ms, QPS: 25554, Cache hit: 93.6%
+
