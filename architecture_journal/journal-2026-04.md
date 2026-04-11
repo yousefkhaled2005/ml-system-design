@@ -115,3 +115,6 @@
 ## [2026-04-11 8:27] docs(zero-copy-buffers): telemetry analysis and benchmark logs (2026-04-11 #1)
 - Telemetry latency: 17ms, QPS: 25554, Cache hit: 93.6%
 
+## [2026-04-11 13:34] perf(roce-infiniband): telemetry analysis and benchmark logs (2026-04-11 #2)
+- Telemetry latency: 23ms, QPS: 34329, Cache hit: 94.4%
+
