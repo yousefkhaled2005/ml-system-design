@@ -130,3 +130,6 @@
 ## [2026-04-13 11:31] perf(qlora-4bit-sft): telemetry analysis and benchmark logs (2026-04-13 #1)
 - Telemetry latency: 41ms, QPS: 27055, Cache hit: 95.3%
 
+## [2026-04-13 8:15] perf(cache-locality): telemetry analysis and benchmark logs (2026-04-13 #2)
+- Telemetry latency: 15ms, QPS: 44699, Cache hit: 97.6%
+
