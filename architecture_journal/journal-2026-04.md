@@ -196,3 +196,6 @@
 ## [2026-04-19 20:32] docs(cuda-kernel-tuning): telemetry analysis and benchmark logs (2026-04-19 #1)
 - Telemetry latency: 43ms, QPS: 22042, Cache hit: 92.7%
 
+## [2026-04-19 16:25] test(lmax-disruptor): telemetry analysis and benchmark logs (2026-04-19 #2)
+- Telemetry latency: 23ms, QPS: 15668, Cache hit: 97.8%
+
