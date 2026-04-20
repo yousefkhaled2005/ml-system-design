@@ -214,3 +214,6 @@
 ## [2026-04-20 16:56] perf(flash-attention-v2): telemetry analysis and benchmark logs (2026-04-20 #4)
 - Telemetry latency: 19ms, QPS: 28803, Cache hit: 92.8%
 
+## [2026-04-20 14:9] refactor(chandy-lamport-snapshot): telemetry analysis and benchmark logs (2026-04-20 #5)
+- Telemetry latency: 29ms, QPS: 23782, Cache hit: 94.6%
+
