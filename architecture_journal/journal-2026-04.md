@@ -217,3 +217,6 @@
 ## [2026-04-20 14:9] refactor(chandy-lamport-snapshot): telemetry analysis and benchmark logs (2026-04-20 #5)
 - Telemetry latency: 29ms, QPS: 23782, Cache hit: 94.6%
 
+## [2026-04-21 9:57] feat(langgraph-state-machine): telemetry analysis and benchmark logs (2026-04-21 #1)
+- Telemetry latency: 30ms, QPS: 38457, Cache hit: 93.6%
+
