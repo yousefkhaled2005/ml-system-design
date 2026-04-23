@@ -256,3 +256,6 @@
 ## [2026-04-23 20:7] test(zero-copy-buffers): telemetry analysis and benchmark logs (2026-04-23 #4)
 - Telemetry latency: 23ms, QPS: 25269, Cache hit: 96.4%
 
+## [2026-04-23 11:16] docs(nvme-all-flash): telemetry analysis and benchmark logs (2026-04-23 #5)
+- Telemetry latency: 15ms, QPS: 38368, Cache hit: 92.5%
+
