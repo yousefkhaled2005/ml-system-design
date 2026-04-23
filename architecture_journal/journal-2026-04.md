@@ -247,3 +247,6 @@
 ## [2026-04-23 11:15] docs(speculative-decoding): telemetry analysis and benchmark logs (2026-04-23 #1)
 - Telemetry latency: 22ms, QPS: 34904, Cache hit: 92.8%
 
+## [2026-04-23 13:23] perf(langgraph-state-machine): telemetry analysis and benchmark logs (2026-04-23 #2)
+- Telemetry latency: 12ms, QPS: 41166, Cache hit: 93.1%
+
