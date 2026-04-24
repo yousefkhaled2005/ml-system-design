@@ -271,3 +271,6 @@
 ## [2026-04-24 16:53] perf(raft-heartbeat): telemetry analysis and benchmark logs (2026-04-24 #3)
 - Telemetry latency: 12ms, QPS: 45039, Cache hit: 94.8%
 
+## [2026-04-24 12:48] feat(chandy-lamport-snapshot): telemetry analysis and benchmark logs (2026-04-24 #4)
+- Telemetry latency: 15ms, QPS: 30532, Cache hit: 97.3%
+
