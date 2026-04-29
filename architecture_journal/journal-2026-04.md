@@ -334,3 +334,6 @@
 ## [2026-04-29 19:18] test(qdrant-hybrid-search): telemetry analysis and benchmark logs (2026-04-29 #4)
 - Telemetry latency: 19ms, QPS: 49250, Cache hit: 95.8%
 
+## [2026-04-29 14:46] docs(paged-attention): telemetry analysis and benchmark logs (2026-04-29 #5)
+- Telemetry latency: 37ms, QPS: 19252, Cache hit: 97.1%
+
