@@ -331,3 +331,6 @@
 ## [2026-04-29 19:49] feat(zero-copy-buffers): telemetry analysis and benchmark logs (2026-04-29 #3)
 - Telemetry latency: 30ms, QPS: 27765, Cache hit: 92.5%
 
+## [2026-04-29 19:18] test(qdrant-hybrid-search): telemetry analysis and benchmark logs (2026-04-29 #4)
+- Telemetry latency: 19ms, QPS: 49250, Cache hit: 95.8%
+
