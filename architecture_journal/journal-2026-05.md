@@ -10,3 +10,6 @@
 ## [2026-05-01 14:44] feat(kv-cache-compression): telemetry analysis and benchmark logs (2026-05-01 #4)
 - Telemetry latency: 41ms, QPS: 27047, Cache hit: 93.4%
 
+## [2026-05-01 11:55] refactor(cross-encoder-reranking): telemetry analysis and benchmark logs (2026-05-01 #5)
+- Telemetry latency: 28ms, QPS: 36666, Cache hit: 95.3%
+
