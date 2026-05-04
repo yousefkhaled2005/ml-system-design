@@ -40,3 +40,6 @@
 ## [2026-05-04 19:7] test(dpo-loss-margin): telemetry analysis and benchmark logs (2026-05-04 #4)
 - Telemetry latency: 21ms, QPS: 17426, Cache hit: 97.4%
 
+## [2026-05-04 17:34] refactor(flash-attention-v2): telemetry analysis and benchmark logs (2026-05-04 #5)
+- Telemetry latency: 20ms, QPS: 24814, Cache hit: 97.8%
+
