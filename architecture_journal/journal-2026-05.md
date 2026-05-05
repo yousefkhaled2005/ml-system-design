@@ -58,3 +58,6 @@
 ## [2026-05-05 11:28] refactor(distributed-consensus): telemetry analysis and benchmark logs (2026-05-05 #4)
 - Telemetry latency: 44ms, QPS: 21663, Cache hit: 95.7%
 
+## [2026-05-05 11:32] perf(speculative-decoding): telemetry analysis and benchmark logs (2026-05-05 #5)
+- Telemetry latency: 13ms, QPS: 44751, Cache hit: 95.7%
+
