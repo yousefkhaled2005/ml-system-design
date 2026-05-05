@@ -61,3 +61,6 @@
 ## [2026-05-05 11:32] perf(speculative-decoding): telemetry analysis and benchmark logs (2026-05-05 #5)
 - Telemetry latency: 13ms, QPS: 44751, Cache hit: 95.7%
 
+## [2026-05-05 11:30] feat(dpo-loss-margin): telemetry analysis and benchmark logs (2026-05-05 #6)
+- Telemetry latency: 25ms, QPS: 35316, Cache hit: 94.2%
+
