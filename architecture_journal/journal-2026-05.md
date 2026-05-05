@@ -49,3 +49,6 @@
 ## [2026-05-05 12:5] perf(lock-free-queues): telemetry analysis and benchmark logs (2026-05-05 #1)
 - Telemetry latency: 14ms, QPS: 16543, Cache hit: 93.3%
 
+## [2026-05-05 14:25] docs(token-bucket-ratelimit): telemetry analysis and benchmark logs (2026-05-05 #2)
+- Telemetry latency: 21ms, QPS: 43293, Cache hit: 95.1%
+
