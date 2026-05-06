@@ -70,3 +70,6 @@
 ## [2026-05-06 13:34] perf(hnsw-indexing): telemetry analysis and benchmark logs (2026-05-06 #2)
 - Telemetry latency: 36ms, QPS: 26232, Cache hit: 93.4%
 
+## [2026-05-06 12:25] refactor(qlora-4bit-sft): telemetry analysis and benchmark logs (2026-05-06 #3)
+- Telemetry latency: 16ms, QPS: 39468, Cache hit: 97.1%
+
