@@ -76,3 +76,6 @@
 ## [2026-05-06 20:57] perf(qdrant-hybrid-search): telemetry analysis and benchmark logs (2026-05-06 #4)
 - Telemetry latency: 32ms, QPS: 48670, Cache hit: 98.6%
 
+## [2026-05-06 11:41] feat(roce-infiniband): telemetry analysis and benchmark logs (2026-05-06 #5)
+- Telemetry latency: 28ms, QPS: 19313, Cache hit: 98.7%
+
