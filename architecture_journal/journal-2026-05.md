@@ -73,3 +73,6 @@
 ## [2026-05-06 12:25] refactor(qlora-4bit-sft): telemetry analysis and benchmark logs (2026-05-06 #3)
 - Telemetry latency: 16ms, QPS: 39468, Cache hit: 97.1%
 
+## [2026-05-06 20:57] perf(qdrant-hybrid-search): telemetry analysis and benchmark logs (2026-05-06 #4)
+- Telemetry latency: 32ms, QPS: 48670, Cache hit: 98.6%
+
