@@ -82,3 +82,6 @@
 ## [2026-05-06 11:14] docs(lmax-disruptor): telemetry analysis and benchmark logs (2026-05-06 #6)
 - Telemetry latency: 35ms, QPS: 19036, Cache hit: 92.2%
 
+## [2026-05-07 15:2] refactor(grpc-protobuf-stream): telemetry analysis and benchmark logs (2026-05-07 #1)
+- Telemetry latency: 42ms, QPS: 48534, Cache hit: 97.4%
+
