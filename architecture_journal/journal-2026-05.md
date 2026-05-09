@@ -109,3 +109,6 @@
 ## [2026-05-09 18:13] test(cache-locality): telemetry analysis and benchmark logs (2026-05-09 #2)
 - Telemetry latency: 16ms, QPS: 17467, Cache hit: 94.6%
 
+## [2026-05-09 17:23] test(speculative-decoding): telemetry analysis and benchmark logs (2026-05-09 #3)
+- Telemetry latency: 20ms, QPS: 35149, Cache hit: 93.5%
+
