@@ -139,3 +139,6 @@
 ## [2026-05-12 11:55] perf(grpc-protobuf-stream): telemetry analysis and benchmark logs (2026-05-12 #3)
 - Telemetry latency: 14ms, QPS: 47875, Cache hit: 92.5%
 
+## [2026-05-12 13:24] docs(vllm-serving): telemetry analysis and benchmark logs (2026-05-12 #4)
+- Telemetry latency: 35ms, QPS: 19799, Cache hit: 95.7%
+
