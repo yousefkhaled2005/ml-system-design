@@ -163,3 +163,6 @@
 ## [2026-05-13 12:33] perf(langgraph-state-machine): telemetry analysis and benchmark logs (2026-05-13 #5)
 - Telemetry latency: 26ms, QPS: 36873, Cache hit: 94.4%
 
+## [2026-05-13 12:6] docs(chandy-lamport-snapshot): telemetry analysis and benchmark logs (2026-05-13 #6)
+- Telemetry latency: 24ms, QPS: 44019, Cache hit: 92.1%
+
