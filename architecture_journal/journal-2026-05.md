@@ -160,3 +160,6 @@
 ## [2026-05-13 16:30] refactor(cuda-kernel-tuning): telemetry analysis and benchmark logs (2026-05-13 #4)
 - Telemetry latency: 41ms, QPS: 52639, Cache hit: 93.2%
 
+## [2026-05-13 12:33] perf(langgraph-state-machine): telemetry analysis and benchmark logs (2026-05-13 #5)
+- Telemetry latency: 26ms, QPS: 36873, Cache hit: 94.4%
+
