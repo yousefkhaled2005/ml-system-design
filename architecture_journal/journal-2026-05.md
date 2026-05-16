@@ -190,3 +190,6 @@
 ## [2026-05-15 11:8] test(roce-infiniband): telemetry analysis and benchmark logs (2026-05-15 #4)
 - Telemetry latency: 19ms, QPS: 16913, Cache hit: 92.7%
 
+## [2026-05-16 15:12] refactor(dpo-loss-margin): telemetry analysis and benchmark logs (2026-05-16 #1)
+- Telemetry latency: 13ms, QPS: 51047, Cache hit: 92.2%
+
