@@ -229,3 +229,6 @@
 ## [2026-05-19 12:32] docs(raft-heartbeat): telemetry analysis and benchmark logs (2026-05-19 #5)
 - Telemetry latency: 36ms, QPS: 41166, Cache hit: 93.2%
 
+## [2026-05-19 9:54] feat(flash-attention-v2): telemetry analysis and benchmark logs (2026-05-19 #6)
+- Telemetry latency: 29ms, QPS: 22347, Cache hit: 96.1%
+
