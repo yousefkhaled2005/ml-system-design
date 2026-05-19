@@ -220,3 +220,6 @@
 ## [2026-05-19 20:38] docs(langgraph-state-machine): telemetry analysis and benchmark logs (2026-05-19 #2)
 - Telemetry latency: 22ms, QPS: 45612, Cache hit: 92.4%
 
+## [2026-05-19 11:52] docs(hnsw-indexing): telemetry analysis and benchmark logs (2026-05-19 #3)
+- Telemetry latency: 32ms, QPS: 31021, Cache hit: 98.4%
+
