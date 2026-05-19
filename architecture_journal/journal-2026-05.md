@@ -223,3 +223,6 @@
 ## [2026-05-19 11:52] docs(hnsw-indexing): telemetry analysis and benchmark logs (2026-05-19 #3)
 - Telemetry latency: 32ms, QPS: 31021, Cache hit: 98.4%
 
+## [2026-05-19 13:28] perf(cache-locality): telemetry analysis and benchmark logs (2026-05-19 #4)
+- Telemetry latency: 22ms, QPS: 31737, Cache hit: 96.7%
+
