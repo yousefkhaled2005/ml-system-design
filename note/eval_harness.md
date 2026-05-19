@@ -38,3 +38,7 @@
 ## Entry 2026-05-13 (Revision #181)
 - Updated architectural specs and implementation details for `eval_harness`.
 - Status: Verified in benchmark suite.
+
+## Entry 2026-05-19 (Revision #187)
+- Updated architectural specs and implementation details for `eval_harness`.
+- Status: Verified in benchmark suite.
