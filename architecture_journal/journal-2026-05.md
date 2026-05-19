@@ -226,3 +226,6 @@
 ## [2026-05-19 13:28] perf(cache-locality): telemetry analysis and benchmark logs (2026-05-19 #4)
 - Telemetry latency: 22ms, QPS: 31737, Cache hit: 96.7%
 
+## [2026-05-19 12:32] docs(raft-heartbeat): telemetry analysis and benchmark logs (2026-05-19 #5)
+- Telemetry latency: 36ms, QPS: 41166, Cache hit: 93.2%
+
