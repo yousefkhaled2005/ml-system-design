@@ -247,3 +247,6 @@
 ## [2026-05-21 13:14] test(cross-encoder-reranking): telemetry analysis and benchmark logs (2026-05-21 #2)
 - Telemetry latency: 36ms, QPS: 45064, Cache hit: 97.2%
 
+## [2026-05-21 18:51] test(qlora-4bit-sft): telemetry analysis and benchmark logs (2026-05-21 #3)
+- Telemetry latency: 34ms, QPS: 47551, Cache hit: 95.2%
+
