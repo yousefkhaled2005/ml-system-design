@@ -271,3 +271,6 @@
 ## [2026-05-23 17:25] refactor(flash-attention-v2): telemetry analysis and benchmark logs (2026-05-23 #1)
 - Telemetry latency: 43ms, QPS: 27534, Cache hit: 96.6%
 
+## [2026-05-23 18:27] docs(lock-free-queues): telemetry analysis and benchmark logs (2026-05-23 #2)
+- Telemetry latency: 44ms, QPS: 26598, Cache hit: 93.1%
+
