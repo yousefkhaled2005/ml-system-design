@@ -280,3 +280,6 @@
 ## [2026-05-24 11:36] refactor(zero-copy-buffers): telemetry analysis and benchmark logs (2026-05-24 #1)
 - Telemetry latency: 20ms, QPS: 40833, Cache hit: 96.7%
 
+## [2026-05-25 10:26] docs(lock-free-queues): telemetry analysis and benchmark logs (2026-05-25 #1)
+- Telemetry latency: 40ms, QPS: 48378, Cache hit: 95.8%
+
