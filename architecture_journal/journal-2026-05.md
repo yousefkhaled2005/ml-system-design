@@ -304,3 +304,6 @@
 ## [2026-05-26 15:43] docs(dpo-loss-margin): telemetry analysis and benchmark logs (2026-05-26 #2)
 - Telemetry latency: 17ms, QPS: 18266, Cache hit: 93.3%
 
+## [2026-05-26 20:57] perf(cache-locality): telemetry analysis and benchmark logs (2026-05-26 #3)
+- Telemetry latency: 15ms, QPS: 36818, Cache hit: 98.4%
+
