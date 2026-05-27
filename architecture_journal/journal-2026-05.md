@@ -313,3 +313,6 @@
 ## [2026-05-27 15:28] refactor(raft-heartbeat): telemetry analysis and benchmark logs (2026-05-27 #2)
 - Telemetry latency: 29ms, QPS: 14260, Cache hit: 93.3%
 
+## [2026-05-27 8:53] refactor(qlora-4bit-sft): telemetry analysis and benchmark logs (2026-05-27 #3)
+- Telemetry latency: 18ms, QPS: 33684, Cache hit: 94.7%
+
