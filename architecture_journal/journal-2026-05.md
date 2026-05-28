@@ -334,3 +334,6 @@
 ## [2026-05-28 20:22] test(speculative-decoding): telemetry analysis and benchmark logs (2026-05-28 #4)
 - Telemetry latency: 12ms, QPS: 45592, Cache hit: 92.6%
 
+## [2026-05-28 10:38] refactor(zero-copy-buffers): telemetry analysis and benchmark logs (2026-05-28 #5)
+- Telemetry latency: 20ms, QPS: 39159, Cache hit: 98.8%
+
