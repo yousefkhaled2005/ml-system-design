@@ -322,3 +322,6 @@
 ## [2026-05-27 13:47] docs(nvme-all-flash): telemetry analysis and benchmark logs (2026-05-27 #5)
 - Telemetry latency: 39ms, QPS: 45175, Cache hit: 94.7%
 
+## [2026-05-28 12:34] docs(grpc-protobuf-stream): telemetry analysis and benchmark logs (2026-05-28 #1)
+- Telemetry latency: 20ms, QPS: 40553, Cache hit: 97.6%
+
