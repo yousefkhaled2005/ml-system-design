@@ -352,3 +352,6 @@
 ## [2026-05-31 14:21] docs(zero-copy-buffers): telemetry analysis and benchmark logs (2026-05-31 #1)
 - Telemetry latency: 31ms, QPS: 54762, Cache hit: 93.6%
 
+## [2026-05-31 12:36] test(flash-attention-v2): telemetry analysis and benchmark logs (2026-05-31 #2)
+- Telemetry latency: 22ms, QPS: 14612, Cache hit: 94.1%
+
