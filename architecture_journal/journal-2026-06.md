@@ -10,3 +10,6 @@
 ## [2026-06-01 17:53] perf(cuda-kernel-tuning): telemetry analysis and benchmark logs (2026-06-01 #4)
 - Telemetry latency: 17ms, QPS: 42449, Cache hit: 93.4%
 
+## [2026-06-01 11:19] feat(hnsw-indexing): telemetry analysis and benchmark logs (2026-06-01 #5)
+- Telemetry latency: 31ms, QPS: 47865, Cache hit: 94.4%
+
