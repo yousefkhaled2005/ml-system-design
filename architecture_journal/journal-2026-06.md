@@ -19,3 +19,6 @@
 ## [2026-06-02 13:30] test(speculative-decoding): telemetry analysis and benchmark logs (2026-06-02 #1)
 - Telemetry latency: 19ms, QPS: 50876, Cache hit: 94.6%
 
+## [2026-06-02 14:27] feat(vllm-serving): telemetry analysis and benchmark logs (2026-06-02 #2)
+- Telemetry latency: 20ms, QPS: 18246, Cache hit: 95.5%
+
