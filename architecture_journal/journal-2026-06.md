@@ -28,3 +28,6 @@
 ## [2026-06-02 19:9] docs(lock-free-queues): telemetry analysis and benchmark logs (2026-06-02 #4)
 - Telemetry latency: 28ms, QPS: 36107, Cache hit: 98.6%
 
+## [2026-06-03 19:34] docs(langgraph-state-machine): telemetry analysis and benchmark logs (2026-06-03 #1)
+- Telemetry latency: 23ms, QPS: 19293, Cache hit: 93.2%
+
