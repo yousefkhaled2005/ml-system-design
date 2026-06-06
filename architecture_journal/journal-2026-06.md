@@ -67,3 +67,6 @@
 ## [2026-06-05 20:18] refactor(hnsw-indexing): telemetry analysis and benchmark logs (2026-06-05 #4)
 - Telemetry latency: 17ms, QPS: 35235, Cache hit: 92.6%
 
+## [2026-06-06 17:1] perf(cache-locality): telemetry analysis and benchmark logs (2026-06-06 #1)
+- Telemetry latency: 44ms, QPS: 51685, Cache hit: 98.7%
+
