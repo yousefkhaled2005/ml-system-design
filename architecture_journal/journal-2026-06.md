@@ -82,3 +82,6 @@
 ## [2026-06-08 16:28] feat(zero-copy-buffers): telemetry analysis and benchmark logs (2026-06-08 #1)
 - Telemetry latency: 37ms, QPS: 33273, Cache hit: 93.7%
 
+## [2026-06-08 16:14] feat(lmax-disruptor): telemetry analysis and benchmark logs (2026-06-08 #2)
+- Telemetry latency: 35ms, QPS: 26870, Cache hit: 95.8%
+
