@@ -91,3 +91,6 @@
 ## [2026-06-08 10:10] test(simd-avx512): telemetry analysis and benchmark logs (2026-06-08 #4)
 - Telemetry latency: 33ms, QPS: 28463, Cache hit: 94.3%
 
+## [2026-06-08 20:54] feat(token-bucket-ratelimit): telemetry analysis and benchmark logs (2026-06-08 #5)
+- Telemetry latency: 19ms, QPS: 12789, Cache hit: 97.7%
+
