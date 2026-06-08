@@ -79,3 +79,6 @@
 ## [2026-06-07 8:47] perf(dpo-loss-margin): telemetry analysis and benchmark logs (2026-06-07 #1)
 - Telemetry latency: 40ms, QPS: 19806, Cache hit: 96.4%
 
+## [2026-06-08 16:28] feat(zero-copy-buffers): telemetry analysis and benchmark logs (2026-06-08 #1)
+- Telemetry latency: 37ms, QPS: 33273, Cache hit: 93.7%
+
