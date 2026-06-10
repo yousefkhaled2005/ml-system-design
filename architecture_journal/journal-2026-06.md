@@ -115,3 +115,6 @@
 ## [2026-06-10 16:46] test(raft-heartbeat): telemetry analysis and benchmark logs (2026-06-10 #1)
 - Telemetry latency: 19ms, QPS: 33256, Cache hit: 96.3%
 
+## [2026-06-10 9:17] feat(qlora-4bit-sft): telemetry analysis and benchmark logs (2026-06-10 #2)
+- Telemetry latency: 39ms, QPS: 45827, Cache hit: 94.4%
+
