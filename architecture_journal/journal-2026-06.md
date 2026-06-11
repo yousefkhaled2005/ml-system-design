@@ -133,3 +133,6 @@
 ## [2026-06-11 12:46] refactor(cross-encoder-reranking): telemetry analysis and benchmark logs (2026-06-11 #1)
 - Telemetry latency: 43ms, QPS: 24578, Cache hit: 95.8%
 
+## [2026-06-11 16:25] docs(vllm-serving): telemetry analysis and benchmark logs (2026-06-11 #2)
+- Telemetry latency: 24ms, QPS: 25227, Cache hit: 97.6%
+
