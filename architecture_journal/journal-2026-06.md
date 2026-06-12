@@ -145,3 +145,6 @@
 ## [2026-06-11 15:17] feat(speculative-decoding): telemetry analysis and benchmark logs (2026-06-11 #5)
 - Telemetry latency: 23ms, QPS: 18049, Cache hit: 92.7%
 
+## [2026-06-12 8:4] feat(zero-copy-buffers): telemetry analysis and benchmark logs (2026-06-12 #1)
+- Telemetry latency: 35ms, QPS: 22378, Cache hit: 92.4%
+
