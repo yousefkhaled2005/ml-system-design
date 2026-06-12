@@ -151,3 +151,6 @@
 ## [2026-06-12 17:53] refactor(grpc-protobuf-stream): telemetry analysis and benchmark logs (2026-06-12 #2)
 - Telemetry latency: 37ms, QPS: 20416, Cache hit: 95.5%
 
+## [2026-06-12 13:14] refactor(token-bucket-ratelimit): telemetry analysis and benchmark logs (2026-06-12 #3)
+- Telemetry latency: 40ms, QPS: 23828, Cache hit: 94.5%
+
