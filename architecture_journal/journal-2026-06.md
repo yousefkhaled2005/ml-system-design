@@ -217,3 +217,6 @@
 ## [2026-06-17 12:43] test(raft-heartbeat): telemetry analysis and benchmark logs (2026-06-17 #1)
 - Telemetry latency: 15ms, QPS: 45557, Cache hit: 95.1%
 
+## [2026-06-17 19:25] feat(langgraph-state-machine): telemetry analysis and benchmark logs (2026-06-17 #2)
+- Telemetry latency: 41ms, QPS: 27224, Cache hit: 94.1%
+
