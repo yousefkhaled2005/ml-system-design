@@ -250,3 +250,6 @@
 ## [2026-06-19 17:51] refactor(vllm-serving): telemetry analysis and benchmark logs (2026-06-19 #1)
 - Telemetry latency: 36ms, QPS: 39093, Cache hit: 95.7%
 
+## [2026-06-19 17:21] test(speculative-decoding): telemetry analysis and benchmark logs (2026-06-19 #2)
+- Telemetry latency: 14ms, QPS: 52272, Cache hit: 98.7%
+
