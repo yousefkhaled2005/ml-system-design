@@ -268,3 +268,6 @@
 ## [2026-06-20 11:28] perf(langgraph-state-machine): telemetry analysis and benchmark logs (2026-06-20 #1)
 - Telemetry latency: 43ms, QPS: 35779, Cache hit: 98.5%
 
+## [2026-06-20 18:8] refactor(zero-copy-buffers): telemetry analysis and benchmark logs (2026-06-20 #2)
+- Telemetry latency: 43ms, QPS: 27340, Cache hit: 95.7%
+
