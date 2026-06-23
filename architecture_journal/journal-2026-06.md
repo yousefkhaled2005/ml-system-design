@@ -289,3 +289,6 @@
 ## [2026-06-22 9:28] refactor(raft-heartbeat): telemetry analysis and benchmark logs (2026-06-22 #3)
 - Telemetry latency: 44ms, QPS: 26215, Cache hit: 93.3%
 
+## [2026-06-23 20:2] refactor(chandy-lamport-snapshot): telemetry analysis and benchmark logs (2026-06-23 #1)
+- Telemetry latency: 13ms, QPS: 13489, Cache hit: 98.5%
+
