@@ -313,3 +313,6 @@
 ## [2026-06-24 11:9] docs(dpo-loss-margin): telemetry analysis and benchmark logs (2026-06-24 #4)
 - Telemetry latency: 12ms, QPS: 48968, Cache hit: 95.3%
 
+## [2026-06-24 14:38] feat(qdrant-hybrid-search): telemetry analysis and benchmark logs (2026-06-24 #5)
+- Telemetry latency: 19ms, QPS: 43838, Cache hit: 93.1%
+
