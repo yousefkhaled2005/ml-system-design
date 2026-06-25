@@ -319,3 +319,6 @@
 ## [2026-06-25 14:7] perf(kv-cache-compression): telemetry analysis and benchmark logs (2026-06-25 #1)
 - Telemetry latency: 35ms, QPS: 39292, Cache hit: 98.7%
 
+## [2026-06-25 15:15] perf(vllm-serving): telemetry analysis and benchmark logs (2026-06-25 #2)
+- Telemetry latency: 42ms, QPS: 28318, Cache hit: 97.4%
+
