@@ -328,3 +328,6 @@
 ## [2026-06-25 19:57] docs(flash-attention-v2): telemetry analysis and benchmark logs (2026-06-25 #4)
 - Telemetry latency: 35ms, QPS: 13684, Cache hit: 96.6%
 
+## [2026-06-26 14:38] docs(langgraph-state-machine): telemetry analysis and benchmark logs (2026-06-26 #1)
+- Telemetry latency: 19ms, QPS: 24968, Cache hit: 96.3%
+
