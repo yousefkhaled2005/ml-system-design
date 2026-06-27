@@ -337,3 +337,6 @@
 ## [2026-06-26 16:0] test(distributed-consensus): telemetry analysis and benchmark logs (2026-06-26 #3)
 - Telemetry latency: 30ms, QPS: 36578, Cache hit: 94.5%
 
+## [2026-06-27 11:8] docs(roce-infiniband): telemetry analysis and benchmark logs (2026-06-27 #1)
+- Telemetry latency: 31ms, QPS: 28382, Cache hit: 92.4%
+
