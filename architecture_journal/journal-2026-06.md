@@ -367,3 +367,6 @@
 ## [2026-06-30 11:27] refactor(hnsw-indexing): telemetry analysis and benchmark logs (2026-06-30 #3)
 - Telemetry latency: 17ms, QPS: 39664, Cache hit: 97.4%
 
+## [2026-06-30 12:6] feat(token-bucket-ratelimit): telemetry analysis and benchmark logs (2026-06-30 #4)
+- Telemetry latency: 39ms, QPS: 43711, Cache hit: 95.7%
+
