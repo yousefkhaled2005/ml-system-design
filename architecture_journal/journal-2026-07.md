@@ -7,3 +7,6 @@
 ## [2026-07-01 12:16] feat(token-bucket-ratelimit): telemetry analysis and benchmark logs (2026-07-01 #3)
 - Telemetry latency: 12ms, QPS: 31475, Cache hit: 97.6%
 
+## [2026-07-01 14:41] feat(chandy-lamport-snapshot): telemetry analysis and benchmark logs (2026-07-01 #4)
+- Telemetry latency: 17ms, QPS: 22556, Cache hit: 94.1%
+
