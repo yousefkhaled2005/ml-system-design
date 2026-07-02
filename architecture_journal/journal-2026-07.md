@@ -22,3 +22,6 @@
 ## [2026-07-02 16:50] docs(chandy-lamport-snapshot): telemetry analysis and benchmark logs (2026-07-02 #2)
 - Telemetry latency: 15ms, QPS: 36965, Cache hit: 93.4%
 
+## [2026-07-02 8:4] perf(nvme-all-flash): telemetry analysis and benchmark logs (2026-07-02 #3)
+- Telemetry latency: 19ms, QPS: 33428, Cache hit: 97.7%
+
