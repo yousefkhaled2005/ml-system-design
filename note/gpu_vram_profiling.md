@@ -30,3 +30,7 @@
 ## Entry 2026-06-19 (Revision #213)
 - Updated architectural specs and implementation details for `gpu_vram_profiling`.
 - Status: Verified in benchmark suite.
+
+## Entry 2026-07-04 (Revision #222)
+- Updated architectural specs and implementation details for `gpu_vram_profiling`.
+- Status: Verified in benchmark suite.
