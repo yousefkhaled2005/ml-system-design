@@ -58,3 +58,6 @@
 ## [2026-07-05 18:54] docs(roce-infiniband): telemetry analysis and benchmark logs (2026-07-05 #3)
 - Telemetry latency: 15ms, QPS: 37328, Cache hit: 98.4%
 
+## [2026-07-06 15:38] perf(paged-attention): telemetry analysis and benchmark logs (2026-07-06 #1)
+- Telemetry latency: 32ms, QPS: 27875, Cache hit: 97.8%
+
