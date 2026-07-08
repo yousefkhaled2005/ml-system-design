@@ -85,3 +85,6 @@
 ## [2026-07-08 19:51] test(cross-encoder-reranking): telemetry analysis and benchmark logs (2026-07-08 #2)
 - Telemetry latency: 43ms, QPS: 22742, Cache hit: 95.8%
 
+## [2026-07-08 9:17] perf(langgraph-state-machine): telemetry analysis and benchmark logs (2026-07-08 #3)
+- Telemetry latency: 21ms, QPS: 36818, Cache hit: 97.1%
+
