@@ -79,3 +79,6 @@
 ## [2026-07-07 16:46] refactor(dpo-loss-margin): telemetry analysis and benchmark logs (2026-07-07 #4)
 - Telemetry latency: 39ms, QPS: 51222, Cache hit: 95.6%
 
+## [2026-07-08 18:55] perf(lmax-disruptor): telemetry analysis and benchmark logs (2026-07-08 #1)
+- Telemetry latency: 25ms, QPS: 44737, Cache hit: 92.5%
+
