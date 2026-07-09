@@ -97,3 +97,6 @@
 ## [2026-07-09 11:21] perf(chandy-lamport-snapshot): telemetry analysis and benchmark logs (2026-07-09 #3)
 - Telemetry latency: 38ms, QPS: 34358, Cache hit: 97.6%
 
+## [2026-07-09 20:50] feat(vllm-serving): telemetry analysis and benchmark logs (2026-07-09 #4)
+- Telemetry latency: 32ms, QPS: 17703, Cache hit: 93.5%
+
