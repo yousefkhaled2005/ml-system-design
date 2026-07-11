@@ -109,3 +109,6 @@
 ## [2026-07-10 11:55] refactor(lock-free-queues): telemetry analysis and benchmark logs (2026-07-10 #3)
 - Telemetry latency: 31ms, QPS: 22283, Cache hit: 98.4%
 
+## [2026-07-11 9:9] perf(paged-attention): telemetry analysis and benchmark logs (2026-07-11 #1)
+- Telemetry latency: 43ms, QPS: 34982, Cache hit: 92.7%
+
