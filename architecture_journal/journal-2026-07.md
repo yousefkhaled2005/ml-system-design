@@ -112,3 +112,6 @@
 ## [2026-07-11 9:9] perf(paged-attention): telemetry analysis and benchmark logs (2026-07-11 #1)
 - Telemetry latency: 43ms, QPS: 34982, Cache hit: 92.7%
 
+## [2026-07-11 18:10] docs(cross-encoder-reranking): telemetry analysis and benchmark logs (2026-07-11 #2)
+- Telemetry latency: 25ms, QPS: 44468, Cache hit: 96.2%
+
