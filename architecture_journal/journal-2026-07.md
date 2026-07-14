@@ -151,3 +151,6 @@
 ## [2026-07-14 8:36] feat(cache-locality): telemetry analysis and benchmark logs (2026-07-14 #4)
 - Telemetry latency: 21ms, QPS: 40738, Cache hit: 92.8%
 
+## [2026-07-14 19:14] perf(token-bucket-ratelimit): telemetry analysis and benchmark logs (2026-07-14 #5)
+- Telemetry latency: 35ms, QPS: 53002, Cache hit: 94.5%
+
