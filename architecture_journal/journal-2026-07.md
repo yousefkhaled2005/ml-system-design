@@ -157,3 +157,6 @@
 ## [2026-07-15 13:42] refactor(cache-locality): telemetry analysis and benchmark logs (2026-07-15 #1)
 - Telemetry latency: 12ms, QPS: 51188, Cache hit: 93.1%
 
+## [2026-07-15 20:39] perf(lmax-disruptor): telemetry analysis and benchmark logs (2026-07-15 #2)
+- Telemetry latency: 24ms, QPS: 19453, Cache hit: 96.7%
+
