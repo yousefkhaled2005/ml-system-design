@@ -166,3 +166,6 @@
 ## [2026-07-16 15:26] refactor(vllm-serving): telemetry analysis and benchmark logs (2026-07-16 #1)
 - Telemetry latency: 26ms, QPS: 39473, Cache hit: 92.5%
 
+## [2026-07-16 19:55] refactor(flash-attention-v2): telemetry analysis and benchmark logs (2026-07-16 #2)
+- Telemetry latency: 17ms, QPS: 42313, Cache hit: 92.8%
+
