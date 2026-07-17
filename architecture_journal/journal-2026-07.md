@@ -184,3 +184,6 @@
 ## [2026-07-17 15:56] perf(nvme-all-flash): telemetry analysis and benchmark logs (2026-07-17 #3)
 - Telemetry latency: 19ms, QPS: 18486, Cache hit: 92.2%
 
+## [2026-07-17 18:40] feat(roce-infiniband): telemetry analysis and benchmark logs (2026-07-17 #4)
+- Telemetry latency: 37ms, QPS: 40437, Cache hit: 97.7%
+
