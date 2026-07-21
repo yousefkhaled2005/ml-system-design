@@ -226,3 +226,6 @@
 ## [2026-07-21 11:50] perf(distributed-consensus): telemetry analysis and benchmark logs (2026-07-21 #4)
 - Telemetry latency: 15ms, QPS: 34836, Cache hit: 94.1%
 
+## [2026-07-21 10:21] perf(qlora-4bit-sft): telemetry analysis and benchmark logs (2026-07-21 #5)
+- Telemetry latency: 21ms, QPS: 13843, Cache hit: 92.8%
+
