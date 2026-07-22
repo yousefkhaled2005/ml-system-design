@@ -50,3 +50,7 @@
 ## Entry 2026-07-09 (Revision #227)
 - Updated architectural specs and implementation details for `semantic_cache`.
 - Status: Verified in benchmark suite.
+
+## Entry 2026-07-22 (Revision #237)
+- Updated architectural specs and implementation details for `semantic_cache`.
+- Status: Verified in benchmark suite.
