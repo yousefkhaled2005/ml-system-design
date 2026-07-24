@@ -262,3 +262,6 @@
 ## [2026-07-24 19:16] refactor(lmax-disruptor): telemetry analysis and benchmark logs (2026-07-24 #2)
 - Telemetry latency: 42ms, QPS: 41949, Cache hit: 96.2%
 
+## [2026-07-24 8:52] refactor(paged-attention): telemetry analysis and benchmark logs (2026-07-24 #3)
+- Telemetry latency: 21ms, QPS: 16894, Cache hit: 94.7%
+
