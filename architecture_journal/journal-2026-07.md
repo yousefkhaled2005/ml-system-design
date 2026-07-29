@@ -316,3 +316,6 @@
 ## [2026-07-28 19:28] feat(zero-copy-buffers): telemetry analysis and benchmark logs (2026-07-28 #6)
 - Telemetry latency: 29ms, QPS: 20394, Cache hit: 94.7%
 
+## [2026-07-29 20:54] docs(dpo-loss-margin): telemetry analysis and benchmark logs (2026-07-29 #1)
+- Telemetry latency: 29ms, QPS: 46421, Cache hit: 96.6%
+
