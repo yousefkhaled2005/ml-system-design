@@ -62,3 +62,7 @@
 ## Entry 2026-07-27 (Revision #238)
 - Updated architectural specs and implementation details for `vllm_vs_llamacpp`.
 - Status: Verified in benchmark suite.
+
+## Entry 2026-07-30 (Revision #241)
+- Updated architectural specs and implementation details for `vllm_vs_llamacpp`.
+- Status: Verified in benchmark suite.
