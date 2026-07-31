@@ -355,3 +355,6 @@
 ## [2026-07-31 11:10] docs(kv-cache-compression): telemetry analysis and benchmark logs (2026-07-31 #3)
 - Telemetry latency: 43ms, QPS: 28437, Cache hit: 98.8%
 
+## [2026-07-31 11:41] test(nvme-all-flash): telemetry analysis and benchmark logs (2026-07-31 #4)
+- Telemetry latency: 34ms, QPS: 18560, Cache hit: 93.5%
+
