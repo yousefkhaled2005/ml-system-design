@@ -10,3 +10,6 @@
 ## [2026-08-03 8:25] feat(qlora-4bit-sft): telemetry analysis and benchmark logs (2026-08-03 #2)
 - Telemetry latency: 19ms, QPS: 15754, Cache hit: 98.7%
 
+## [2026-08-03 8:38] refactor(token-bucket-ratelimit): telemetry analysis and benchmark logs (2026-08-03 #3)
+- Telemetry latency: 27ms, QPS: 54189, Cache hit: 92.8%
+
