@@ -19,3 +19,6 @@
 ## [2026-08-04 13:59] perf(flash-attention-v2): telemetry analysis and benchmark logs (2026-08-04 #1)
 - Telemetry latency: 36ms, QPS: 42608, Cache hit: 98.4%
 
+## [2026-08-04 18:2] feat(zero-copy-buffers): telemetry analysis and benchmark logs (2026-08-04 #2)
+- Telemetry latency: 37ms, QPS: 23064, Cache hit: 92.4%
+
