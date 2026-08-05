@@ -40,3 +40,6 @@
 ## [2026-08-05 15:19] refactor(roce-infiniband): telemetry analysis and benchmark logs (2026-08-05 #3)
 - Telemetry latency: 27ms, QPS: 39328, Cache hit: 93.8%
 
+## [2026-08-05 18:11] perf(langgraph-state-machine): telemetry analysis and benchmark logs (2026-08-05 #4)
+- Telemetry latency: 44ms, QPS: 18022, Cache hit: 93.2%
+
