@@ -34,3 +34,6 @@
 ## [2026-08-05 13:19] test(cuda-kernel-tuning): telemetry analysis and benchmark logs (2026-08-05 #1)
 - Telemetry latency: 30ms, QPS: 22609, Cache hit: 95.8%
 
+## [2026-08-05 19:21] test(token-bucket-ratelimit): telemetry analysis and benchmark logs (2026-08-05 #2)
+- Telemetry latency: 19ms, QPS: 27600, Cache hit: 98.3%
+
