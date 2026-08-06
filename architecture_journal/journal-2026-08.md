@@ -49,3 +49,6 @@
 ## [2026-08-05 9:33] refactor(token-bucket-ratelimit): telemetry analysis and benchmark logs (2026-08-05 #6)
 - Telemetry latency: 41ms, QPS: 42108, Cache hit: 97.4%
 
+## [2026-08-06 13:23] docs(qlora-4bit-sft): telemetry analysis and benchmark logs (2026-08-06 #1)
+- Telemetry latency: 43ms, QPS: 47399, Cache hit: 96.8%
+
