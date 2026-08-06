@@ -58,3 +58,6 @@
 ## [2026-08-06 15:40] docs(qdrant-hybrid-search): telemetry analysis and benchmark logs (2026-08-06 #3)
 - Telemetry latency: 42ms, QPS: 32164, Cache hit: 92.5%
 
+## [2026-08-06 10:45] refactor(kv-cache-compression): telemetry analysis and benchmark logs (2026-08-06 #4)
+- Telemetry latency: 32ms, QPS: 29804, Cache hit: 93.1%
+
