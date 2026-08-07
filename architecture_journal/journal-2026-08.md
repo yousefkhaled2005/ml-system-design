@@ -70,3 +70,6 @@
 ## [2026-08-07 14:26] docs(roce-infiniband): telemetry analysis and benchmark logs (2026-08-07 #2)
 - Telemetry latency: 24ms, QPS: 38461, Cache hit: 93.5%
 
+## [2026-08-07 17:38] refactor(hnsw-indexing): telemetry analysis and benchmark logs (2026-08-07 #3)
+- Telemetry latency: 31ms, QPS: 13229, Cache hit: 98.6%
+
