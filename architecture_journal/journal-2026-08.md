@@ -64,3 +64,6 @@
 ## [2026-08-06 12:25] feat(roce-infiniband): telemetry analysis and benchmark logs (2026-08-06 #5)
 - Telemetry latency: 22ms, QPS: 45073, Cache hit: 97.8%
 
+## [2026-08-07 20:57] test(cuda-kernel-tuning): telemetry analysis and benchmark logs (2026-08-07 #1)
+- Telemetry latency: 13ms, QPS: 12584, Cache hit: 98.5%
+
