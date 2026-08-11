@@ -109,3 +109,6 @@
 ## [2026-08-11 16:40] refactor(paged-attention): telemetry analysis and benchmark logs (2026-08-11 #3)
 - Telemetry latency: 26ms, QPS: 37465, Cache hit: 94.1%
 
+## [2026-08-11 20:21] refactor(flash-attention-v2): telemetry analysis and benchmark logs (2026-08-11 #4)
+- Telemetry latency: 29ms, QPS: 48974, Cache hit: 97.6%
+
