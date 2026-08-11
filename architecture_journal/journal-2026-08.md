@@ -106,3 +106,6 @@
 ## [2026-08-11 17:38] docs(paged-attention): telemetry analysis and benchmark logs (2026-08-11 #2)
 - Telemetry latency: 32ms, QPS: 19280, Cache hit: 97.3%
 
+## [2026-08-11 16:40] refactor(paged-attention): telemetry analysis and benchmark logs (2026-08-11 #3)
+- Telemetry latency: 26ms, QPS: 37465, Cache hit: 94.1%
+
