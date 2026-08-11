@@ -103,3 +103,6 @@
 ## [2026-08-11 19:28] feat(raft-heartbeat): telemetry analysis and benchmark logs (2026-08-11 #1)
 - Telemetry latency: 18ms, QPS: 43365, Cache hit: 95.2%
 
+## [2026-08-11 17:38] docs(paged-attention): telemetry analysis and benchmark logs (2026-08-11 #2)
+- Telemetry latency: 32ms, QPS: 19280, Cache hit: 97.3%
+
