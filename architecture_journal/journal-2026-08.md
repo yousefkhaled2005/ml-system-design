@@ -145,3 +145,6 @@
 ## [2026-08-13 12:13] feat(flash-attention-v2): telemetry analysis and benchmark logs (2026-08-13 #5)
 - Telemetry latency: 42ms, QPS: 41317, Cache hit: 97.4%
 
+## [2026-08-14 12:18] test(langgraph-state-machine): telemetry analysis and benchmark logs (2026-08-14 #1)
+- Telemetry latency: 14ms, QPS: 26494, Cache hit: 93.1%
+
