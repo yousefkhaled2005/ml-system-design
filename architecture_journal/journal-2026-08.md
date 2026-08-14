@@ -148,3 +148,6 @@
 ## [2026-08-14 12:18] test(langgraph-state-machine): telemetry analysis and benchmark logs (2026-08-14 #1)
 - Telemetry latency: 14ms, QPS: 26494, Cache hit: 93.1%
 
+## [2026-08-14 18:41] perf(token-bucket-ratelimit): telemetry analysis and benchmark logs (2026-08-14 #2)
+- Telemetry latency: 38ms, QPS: 47264, Cache hit: 98.4%
+
