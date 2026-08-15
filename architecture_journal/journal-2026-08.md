@@ -154,3 +154,6 @@
 ## [2026-08-14 14:4] refactor(cross-encoder-reranking): telemetry analysis and benchmark logs (2026-08-14 #3)
 - Telemetry latency: 27ms, QPS: 35415, Cache hit: 97.7%
 
+## [2026-08-15 9:4] docs(zero-copy-buffers): telemetry analysis and benchmark logs (2026-08-15 #1)
+- Telemetry latency: 40ms, QPS: 13701, Cache hit: 95.8%
+
