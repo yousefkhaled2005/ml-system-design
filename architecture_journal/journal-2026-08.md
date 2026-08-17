@@ -172,3 +172,6 @@
 ## [2026-08-17 9:6] feat(token-bucket-ratelimit): telemetry analysis and benchmark logs (2026-08-17 #2)
 - Telemetry latency: 27ms, QPS: 39315, Cache hit: 92.7%
 
+## [2026-08-17 8:51] refactor(langgraph-state-machine): telemetry analysis and benchmark logs (2026-08-17 #3)
+- Telemetry latency: 39ms, QPS: 21730, Cache hit: 98.8%
+
