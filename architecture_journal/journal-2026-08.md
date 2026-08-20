@@ -208,3 +208,6 @@
 ## [2026-08-20 11:53] test(paged-attention): telemetry analysis and benchmark logs (2026-08-20 #1)
 - Telemetry latency: 44ms, QPS: 31688, Cache hit: 94.3%
 
+## [2026-08-20 9:43] test(cache-locality): telemetry analysis and benchmark logs (2026-08-20 #2)
+- Telemetry latency: 25ms, QPS: 22407, Cache hit: 93.3%
+
