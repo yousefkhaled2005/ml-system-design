@@ -226,3 +226,6 @@
 ## [2026-08-21 15:17] refactor(kv-cache-compression): telemetry analysis and benchmark logs (2026-08-21 #1)
 - Telemetry latency: 22ms, QPS: 40683, Cache hit: 97.5%
 
+## [2026-08-21 15:29] test(qlora-4bit-sft): telemetry analysis and benchmark logs (2026-08-21 #2)
+- Telemetry latency: 43ms, QPS: 26436, Cache hit: 97.6%
+
