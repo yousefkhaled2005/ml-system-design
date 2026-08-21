@@ -235,3 +235,6 @@
 ## [2026-08-21 9:27] test(simd-avx512): telemetry analysis and benchmark logs (2026-08-21 #4)
 - Telemetry latency: 34ms, QPS: 15260, Cache hit: 95.2%
 
+## [2026-08-21 18:13] docs(lmax-disruptor): telemetry analysis and benchmark logs (2026-08-21 #5)
+- Telemetry latency: 33ms, QPS: 21212, Cache hit: 94.8%
+
