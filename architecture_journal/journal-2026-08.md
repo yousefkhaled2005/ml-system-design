@@ -262,3 +262,6 @@
 ## [2026-08-24 15:27] docs(distributed-consensus): telemetry analysis and benchmark logs (2026-08-24 #5)
 - Telemetry latency: 36ms, QPS: 36392, Cache hit: 96.8%
 
+## [2026-08-24 16:39] docs(lmax-disruptor): telemetry analysis and benchmark logs (2026-08-24 #6)
+- Telemetry latency: 17ms, QPS: 23603, Cache hit: 96.4%
+
