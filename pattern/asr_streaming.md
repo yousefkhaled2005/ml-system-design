@@ -90,3 +90,7 @@
 ## Entry 2026-06-05 (Revision #202)
 - Updated architectural specs and implementation details for `asr_streaming`.
 - Status: Verified in benchmark suite.
+
+## Entry 2026-08-24 (Revision #259)
+- Updated architectural specs and implementation details for `asr_streaming`.
+- Status: Verified in benchmark suite.
