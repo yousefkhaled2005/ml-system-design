@@ -250,3 +250,6 @@
 ## [2026-08-24 17:21] perf(nvme-all-flash): telemetry analysis and benchmark logs (2026-08-24 #1)
 - Telemetry latency: 15ms, QPS: 35226, Cache hit: 97.1%
 
+## [2026-08-24 20:11] refactor(raft-heartbeat): telemetry analysis and benchmark logs (2026-08-24 #2)
+- Telemetry latency: 24ms, QPS: 35472, Cache hit: 92.8%
+
