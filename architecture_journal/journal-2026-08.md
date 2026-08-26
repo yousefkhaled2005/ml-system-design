@@ -289,3 +289,6 @@
 ## [2026-08-26 8:1] docs(cross-encoder-reranking): telemetry analysis and benchmark logs (2026-08-26 #3)
 - Telemetry latency: 17ms, QPS: 21609, Cache hit: 93.4%
 
+## [2026-08-26 14:41] docs(langgraph-state-machine): telemetry analysis and benchmark logs (2026-08-26 #4)
+- Telemetry latency: 30ms, QPS: 16040, Cache hit: 98.4%
+
