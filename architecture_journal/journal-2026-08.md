@@ -292,3 +292,6 @@
 ## [2026-08-26 14:41] docs(langgraph-state-machine): telemetry analysis and benchmark logs (2026-08-26 #4)
 - Telemetry latency: 30ms, QPS: 16040, Cache hit: 98.4%
 
+## [2026-08-26 15:28] test(vllm-serving): telemetry analysis and benchmark logs (2026-08-26 #5)
+- Telemetry latency: 43ms, QPS: 19415, Cache hit: 96.2%
+
