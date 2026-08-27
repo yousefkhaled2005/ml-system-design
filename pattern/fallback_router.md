@@ -54,3 +54,7 @@
 ## Entry 2026-08-21 (Revision #258)
 - Updated architectural specs and implementation details for `fallback_router`.
 - Status: Verified in benchmark suite.
+
+## Entry 2026-08-27 (Revision #269)
+- Updated architectural specs and implementation details for `fallback_router`.
+- Status: Verified in benchmark suite.
