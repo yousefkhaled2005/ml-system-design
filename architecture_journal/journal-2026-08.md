@@ -319,3 +319,6 @@
 ## [2026-08-28 12:3] feat(qdrant-hybrid-search): telemetry analysis and benchmark logs (2026-08-28 #2)
 - Telemetry latency: 25ms, QPS: 38579, Cache hit: 96.6%
 
+## [2026-08-28 13:32] perf(grpc-protobuf-stream): telemetry analysis and benchmark logs (2026-08-28 #3)
+- Telemetry latency: 14ms, QPS: 38970, Cache hit: 97.8%
+
