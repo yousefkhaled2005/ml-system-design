@@ -346,3 +346,6 @@
 ## [2026-08-31 18:3] docs(kv-cache-compression): telemetry analysis and benchmark logs (2026-08-31 #3)
 - Telemetry latency: 18ms, QPS: 20306, Cache hit: 93.1%
 
+## [2026-08-31 16:17] docs(simd-avx512): telemetry analysis and benchmark logs (2026-08-31 #4)
+- Telemetry latency: 40ms, QPS: 19241, Cache hit: 97.2%
+
