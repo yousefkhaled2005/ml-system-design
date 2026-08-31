@@ -50,3 +50,7 @@
 ## Entry 2026-07-20 (Revision #236)
 - Updated architectural specs and implementation details for `dpo_vs_ppo`.
 - Status: Verified in benchmark suite.
+
+## Entry 2026-08-31 (Revision #273)
+- Updated architectural specs and implementation details for `dpo_vs_ppo`.
+- Status: Verified in benchmark suite.
