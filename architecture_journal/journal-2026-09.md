@@ -13,3 +13,6 @@
 ## [2026-09-01 13:45] feat(qlora-4bit-sft): telemetry analysis and benchmark logs (2026-09-01 #5)
 - Telemetry latency: 21ms, QPS: 44024, Cache hit: 94.6%
 
+## [2026-09-02 17:29] feat(langgraph-state-machine): telemetry analysis and benchmark logs (2026-09-02 #1)
+- Telemetry latency: 14ms, QPS: 43716, Cache hit: 96.1%
+
