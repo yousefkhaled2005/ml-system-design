@@ -31,3 +31,6 @@
 ## [2026-09-03 20:12] perf(lmax-disruptor): telemetry analysis and benchmark logs (2026-09-03 #1)
 - Telemetry latency: 43ms, QPS: 45853, Cache hit: 98.6%
 
+## [2026-09-03 18:59] feat(dpo-loss-margin): telemetry analysis and benchmark logs (2026-09-03 #2)
+- Telemetry latency: 40ms, QPS: 51712, Cache hit: 95.5%
+
