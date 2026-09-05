@@ -52,3 +52,6 @@
 ## [2026-09-04 14:24] perf(paged-attention): telemetry analysis and benchmark logs (2026-09-04 #3)
 - Telemetry latency: 26ms, QPS: 44848, Cache hit: 96.5%
 
+## [2026-09-05 13:0] perf(cache-locality): telemetry analysis and benchmark logs (2026-09-05 #1)
+- Telemetry latency: 16ms, QPS: 45620, Cache hit: 95.3%
+
