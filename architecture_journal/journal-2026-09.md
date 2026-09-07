@@ -67,3 +67,6 @@
 ## [2026-09-06 10:19] test(paged-attention): telemetry analysis and benchmark logs (2026-09-06 #3)
 - Telemetry latency: 18ms, QPS: 52163, Cache hit: 95.4%
 
+## [2026-09-07 15:22] feat(zero-copy-buffers): telemetry analysis and benchmark logs (2026-09-07 #1)
+- Telemetry latency: 16ms, QPS: 13162, Cache hit: 97.2%
+
