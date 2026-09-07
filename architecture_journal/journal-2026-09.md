@@ -70,3 +70,6 @@
 ## [2026-09-07 15:22] feat(zero-copy-buffers): telemetry analysis and benchmark logs (2026-09-07 #1)
 - Telemetry latency: 16ms, QPS: 13162, Cache hit: 97.2%
 
+## [2026-09-07 17:28] test(langgraph-state-machine): telemetry analysis and benchmark logs (2026-09-07 #2)
+- Telemetry latency: 42ms, QPS: 26316, Cache hit: 95.8%
+
