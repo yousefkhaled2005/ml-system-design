@@ -91,3 +91,6 @@
 ## [2026-09-08 15:28] docs(cuda-kernel-tuning): telemetry analysis and benchmark logs (2026-09-08 #2)
 - Telemetry latency: 20ms, QPS: 14073, Cache hit: 92.4%
 
+## [2026-09-08 8:34] docs(nvme-all-flash): telemetry analysis and benchmark logs (2026-09-08 #3)
+- Telemetry latency: 25ms, QPS: 40604, Cache hit: 97.8%
+
