@@ -97,3 +97,6 @@
 ## [2026-09-08 19:30] test(nvme-all-flash): telemetry analysis and benchmark logs (2026-09-08 #4)
 - Telemetry latency: 38ms, QPS: 41347, Cache hit: 97.6%
 
+## [2026-09-08 13:31] refactor(token-bucket-ratelimit): telemetry analysis and benchmark logs (2026-09-08 #5)
+- Telemetry latency: 30ms, QPS: 47469, Cache hit: 93.8%
+
