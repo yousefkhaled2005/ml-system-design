@@ -115,3 +115,6 @@
 ## [2026-09-09 14:26] docs(distributed-consensus): telemetry analysis and benchmark logs (2026-09-09 #5)
 - Telemetry latency: 19ms, QPS: 53069, Cache hit: 97.7%
 
+## [2026-09-09 8:45] perf(vllm-serving): telemetry analysis and benchmark logs (2026-09-09 #6)
+- Telemetry latency: 33ms, QPS: 19479, Cache hit: 93.1%
+
