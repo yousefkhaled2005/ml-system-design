@@ -109,3 +109,6 @@
 ## [2026-09-09 8:43] test(vllm-serving): telemetry analysis and benchmark logs (2026-09-09 #3)
 - Telemetry latency: 33ms, QPS: 34429, Cache hit: 95.5%
 
+## [2026-09-09 12:16] refactor(dpo-loss-margin): telemetry analysis and benchmark logs (2026-09-09 #4)
+- Telemetry latency: 37ms, QPS: 39169, Cache hit: 92.4%
+
