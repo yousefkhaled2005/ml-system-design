@@ -103,3 +103,6 @@
 ## [2026-09-09 10:17] refactor(vllm-serving): telemetry analysis and benchmark logs (2026-09-09 #1)
 - Telemetry latency: 30ms, QPS: 43440, Cache hit: 93.1%
 
+## [2026-09-09 19:44] feat(qdrant-hybrid-search): telemetry analysis and benchmark logs (2026-09-09 #2)
+- Telemetry latency: 16ms, QPS: 24887, Cache hit: 96.1%
+
