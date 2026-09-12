@@ -145,3 +145,6 @@
 ## [2026-09-12 12:29] test(paged-attention): telemetry analysis and benchmark logs (2026-09-12 #2)
 - Telemetry latency: 25ms, QPS: 54932, Cache hit: 92.2%
 
+## [2026-09-12 14:0] feat(token-bucket-ratelimit): telemetry analysis and benchmark logs (2026-09-12 #3)
+- Telemetry latency: 22ms, QPS: 29659, Cache hit: 97.7%
+
