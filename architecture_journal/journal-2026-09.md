@@ -148,3 +148,6 @@
 ## [2026-09-12 14:0] feat(token-bucket-ratelimit): telemetry analysis and benchmark logs (2026-09-12 #3)
 - Telemetry latency: 22ms, QPS: 29659, Cache hit: 97.7%
 
+## [2026-09-13 20:48] docs(lmax-disruptor): telemetry analysis and benchmark logs (2026-09-13 #1)
+- Telemetry latency: 32ms, QPS: 21072, Cache hit: 97.1%
+
