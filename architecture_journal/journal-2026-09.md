@@ -184,3 +184,6 @@
 ## [2026-09-16 17:8] perf(kv-cache-compression): telemetry analysis and benchmark logs (2026-09-16 #2)
 - Telemetry latency: 23ms, QPS: 20428, Cache hit: 98.5%
 
+## [2026-09-16 12:27] perf(raft-heartbeat): telemetry analysis and benchmark logs (2026-09-16 #3)
+- Telemetry latency: 24ms, QPS: 20672, Cache hit: 96.6%
+
