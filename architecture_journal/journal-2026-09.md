@@ -181,3 +181,6 @@
 ## [2026-09-16 11:59] docs(langgraph-state-machine): telemetry analysis and benchmark logs (2026-09-16 #1)
 - Telemetry latency: 32ms, QPS: 24625, Cache hit: 96.3%
 
+## [2026-09-16 17:8] perf(kv-cache-compression): telemetry analysis and benchmark logs (2026-09-16 #2)
+- Telemetry latency: 23ms, QPS: 20428, Cache hit: 98.5%
+
