@@ -229,3 +229,6 @@
 ## [2026-09-20 14:21] test(vllm-serving): telemetry analysis and benchmark logs (2026-09-20 #2)
 - Telemetry latency: 14ms, QPS: 45428, Cache hit: 96.3%
 
+## [2026-09-21 15:54] test(token-bucket-ratelimit): telemetry analysis and benchmark logs (2026-09-21 #1)
+- Telemetry latency: 38ms, QPS: 13669, Cache hit: 98.5%
+
