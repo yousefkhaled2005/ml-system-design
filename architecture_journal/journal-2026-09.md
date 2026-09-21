@@ -232,3 +232,6 @@
 ## [2026-09-21 15:54] test(token-bucket-ratelimit): telemetry analysis and benchmark logs (2026-09-21 #1)
 - Telemetry latency: 38ms, QPS: 13669, Cache hit: 98.5%
 
+## [2026-09-21 19:2] docs(dpo-loss-margin): telemetry analysis and benchmark logs (2026-09-21 #2)
+- Telemetry latency: 41ms, QPS: 31289, Cache hit: 93.8%
+
