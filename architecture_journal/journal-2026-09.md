@@ -283,3 +283,6 @@
 ## [2026-09-24 19:32] refactor(paged-attention): telemetry analysis and benchmark logs (2026-09-24 #2)
 - Telemetry latency: 30ms, QPS: 19621, Cache hit: 96.7%
 
+## [2026-09-24 17:53] perf(qdrant-hybrid-search): telemetry analysis and benchmark logs (2026-09-24 #3)
+- Telemetry latency: 18ms, QPS: 13363, Cache hit: 92.4%
+
