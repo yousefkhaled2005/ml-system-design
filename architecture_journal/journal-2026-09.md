@@ -319,3 +319,6 @@
 ## [2026-09-27 8:40] perf(zero-copy-buffers): telemetry analysis and benchmark logs (2026-09-27 #2)
 - Telemetry latency: 34ms, QPS: 46042, Cache hit: 95.2%
 
+## [2026-09-28 17:2] refactor(speculative-decoding): telemetry analysis and benchmark logs (2026-09-28 #1)
+- Telemetry latency: 43ms, QPS: 45916, Cache hit: 93.4%
+
