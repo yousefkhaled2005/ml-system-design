@@ -328,3 +328,6 @@
 ## [2026-09-28 18:54] test(kv-cache-compression): telemetry analysis and benchmark logs (2026-09-28 #3)
 - Telemetry latency: 30ms, QPS: 28878, Cache hit: 94.3%
 
+## [2026-09-28 11:13] refactor(langgraph-state-machine): telemetry analysis and benchmark logs (2026-09-28 #4)
+- Telemetry latency: 30ms, QPS: 16544, Cache hit: 96.8%
+
