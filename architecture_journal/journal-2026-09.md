@@ -343,3 +343,6 @@
 ## [2026-09-29 20:28] test(roce-infiniband): telemetry analysis and benchmark logs (2026-09-29 #2)
 - Telemetry latency: 44ms, QPS: 37516, Cache hit: 96.1%
 
+## [2026-09-29 13:16] test(langgraph-state-machine): telemetry analysis and benchmark logs (2026-09-29 #3)
+- Telemetry latency: 33ms, QPS: 44740, Cache hit: 98.2%
+
