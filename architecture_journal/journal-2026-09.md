@@ -349,3 +349,6 @@
 ## [2026-09-30 9:20] docs(lmax-disruptor): telemetry analysis and benchmark logs (2026-09-30 #1)
 - Telemetry latency: 42ms, QPS: 21365, Cache hit: 93.7%
 
+## [2026-09-30 20:16] docs(raft-heartbeat): telemetry analysis and benchmark logs (2026-09-30 #2)
+- Telemetry latency: 27ms, QPS: 53025, Cache hit: 94.8%
+
