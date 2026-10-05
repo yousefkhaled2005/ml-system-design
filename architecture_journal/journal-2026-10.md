@@ -43,3 +43,6 @@
 ## [2026-10-05 18:50] test(distributed-consensus): telemetry analysis and benchmark logs (2026-10-05 #3)
 - Telemetry latency: 29ms, QPS: 46979, Cache hit: 92.7%
 
+## [2026-10-05 18:31] perf(flash-attention-v2): telemetry analysis and benchmark logs (2026-10-05 #4)
+- Telemetry latency: 40ms, QPS: 28260, Cache hit: 95.3%
+
