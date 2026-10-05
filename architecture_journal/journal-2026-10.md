@@ -37,3 +37,6 @@
 ## [2026-10-05 13:31] perf(cuda-kernel-tuning): telemetry analysis and benchmark logs (2026-10-05 #1)
 - Telemetry latency: 27ms, QPS: 47236, Cache hit: 98.1%
 
+## [2026-10-05 10:37] feat(qdrant-hybrid-search): telemetry analysis and benchmark logs (2026-10-05 #2)
+- Telemetry latency: 32ms, QPS: 22012, Cache hit: 97.1%
+
