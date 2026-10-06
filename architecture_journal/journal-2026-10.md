@@ -49,3 +49,6 @@
 ## [2026-10-05 13:11] refactor(speculative-decoding): telemetry analysis and benchmark logs (2026-10-05 #5)
 - Telemetry latency: 22ms, QPS: 15853, Cache hit: 95.1%
 
+## [2026-10-06 13:10] refactor(paged-attention): telemetry analysis and benchmark logs (2026-10-06 #1)
+- Telemetry latency: 36ms, QPS: 29405, Cache hit: 95.4%
+
