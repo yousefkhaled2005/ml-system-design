@@ -58,3 +58,6 @@
 ## [2026-10-06 14:22] refactor(lmax-disruptor): telemetry analysis and benchmark logs (2026-10-06 #3)
 - Telemetry latency: 29ms, QPS: 36392, Cache hit: 94.6%
 
+## [2026-10-07 12:40] refactor(token-bucket-ratelimit): telemetry analysis and benchmark logs (2026-10-07 #1)
+- Telemetry latency: 22ms, QPS: 47203, Cache hit: 93.8%
+
