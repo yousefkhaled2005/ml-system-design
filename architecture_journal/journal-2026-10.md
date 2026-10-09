@@ -88,3 +88,6 @@
 ## [2026-10-09 15:5] refactor(zero-copy-buffers): telemetry analysis and benchmark logs (2026-10-09 #2)
 - Telemetry latency: 12ms, QPS: 54701, Cache hit: 97.3%
 
+## [2026-10-09 19:9] test(langgraph-state-machine): telemetry analysis and benchmark logs (2026-10-09 #3)
+- Telemetry latency: 37ms, QPS: 42186, Cache hit: 96.3%
+
