@@ -106,3 +106,6 @@
 ## [2026-10-11 9:1] perf(cache-locality): telemetry analysis and benchmark logs (2026-10-11 #3)
 - Telemetry latency: 26ms, QPS: 30435, Cache hit: 94.5%
 
+## [2026-10-12 8:21] docs(langgraph-state-machine): telemetry analysis and benchmark logs (2026-10-12 #1)
+- Telemetry latency: 28ms, QPS: 34471, Cache hit: 97.2%
+
