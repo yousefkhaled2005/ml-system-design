@@ -112,3 +112,6 @@
 ## [2026-10-12 11:55] feat(cross-encoder-reranking): telemetry analysis and benchmark logs (2026-10-12 #2)
 - Telemetry latency: 29ms, QPS: 25585, Cache hit: 94.5%
 
+## [2026-10-12 20:1] docs(roce-infiniband): telemetry analysis and benchmark logs (2026-10-12 #3)
+- Telemetry latency: 31ms, QPS: 41131, Cache hit: 97.5%
+
