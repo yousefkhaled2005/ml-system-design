@@ -160,3 +160,6 @@
 ## [2026-10-15 9:51] docs(token-bucket-ratelimit): telemetry analysis and benchmark logs (2026-10-15 #3)
 - Telemetry latency: 31ms, QPS: 49658, Cache hit: 96.1%
 
+## [2026-10-16 13:47] test(paged-attention): telemetry analysis and benchmark logs (2026-10-16 #1)
+- Telemetry latency: 14ms, QPS: 38985, Cache hit: 96.1%
+
