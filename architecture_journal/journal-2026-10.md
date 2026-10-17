@@ -184,3 +184,6 @@
 ## [2026-10-17 11:10] perf(roce-infiniband): telemetry analysis and benchmark logs (2026-10-17 #2)
 - Telemetry latency: 43ms, QPS: 16305, Cache hit: 94.1%
 
+## [2026-10-17 12:11] perf(raft-heartbeat): telemetry analysis and benchmark logs (2026-10-17 #3)
+- Telemetry latency: 35ms, QPS: 52077, Cache hit: 93.6%
+
