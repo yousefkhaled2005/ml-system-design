@@ -190,3 +190,6 @@
 ## [2026-10-18 8:17] test(distributed-consensus): telemetry analysis and benchmark logs (2026-10-18 #1)
 - Telemetry latency: 37ms, QPS: 46622, Cache hit: 95.2%
 
+## [2026-10-18 14:58] test(chandy-lamport-snapshot): telemetry analysis and benchmark logs (2026-10-18 #2)
+- Telemetry latency: 23ms, QPS: 43488, Cache hit: 98.7%
+
